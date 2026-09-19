@@ -179,22 +179,12 @@ All charts below were generated with Matplotlib/Seaborn and are the actual outpu
 
 ```
 Retail-Sales-Analysis/
-│
-├── data/
-│   └── retail_sales_analysis_project.csv
-│
-├── notebooks/
-│   └── RETAIL_SALES_ANALYSIS_PROJECT_ipynb_code.ipynb
-│
-├── report/
-│   └── Retail_Sales_Analysis_Report.docx
-│
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+├── Retail_Sales_Analysis_Project.ipynb
+├── Retail-Sales-Analysis-Report.docx
+└── cleaned_retail_sales_data.csv
 ```
-
----
-
 ## 🚀 How to Run the Project
 
 1. **Clone the repository**
