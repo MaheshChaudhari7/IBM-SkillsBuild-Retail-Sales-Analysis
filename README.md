@@ -244,10 +244,14 @@ The analysis processed 1,500 transactions into a fully cleaned dataset (0 missin
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
 **Mahesh Chaudhari**
 
-Data Analytics | Data Science | Python | SQL | Power BI
+- Aspiring Data Analyst
+- Passionate about turning data into business insights
 
-GitHub: [github.com/MaheshChaudhari7](https://github.com/MaheshChaudhari7)
+**Connect with me:**
+- LinkedIn: [Mahesh Chaudhari](https://www.linkedin.com/in/mahesh-chaudhari-5856332a1)
+- GitHub: [MaheshChaudhari7](https://github.com/MaheshChaudhari7)
+- Email: mahesh.chaudhari.ds@gmail.com
