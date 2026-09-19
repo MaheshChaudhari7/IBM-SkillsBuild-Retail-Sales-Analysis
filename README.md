@@ -240,7 +240,7 @@ The analysis processed 1,500 transactions into a fully cleaned dataset (0 missin
 
 ## 📄 Project Report
 
-📄 [View Project Report](./report/Retail_Sales_Analysis_Report.docx)
+📄 [View / Download Project Report](https://github.com/MaheshChaudhari7/Retail-Sales-Analysis/blob/main/Retail-Sales-Analysis-Report.docx)
 
 ---
 
