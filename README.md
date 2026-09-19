@@ -254,4 +254,4 @@ The analysis processed 1,500 transactions into a fully cleaned dataset (0 missin
 **Connect with me:**
 - LinkedIn: [Mahesh Chaudhari](https://www.linkedin.com/in/mahesh-chaudhari-5856332a1)
 - GitHub: [MaheshChaudhari7](https://github.com/MaheshChaudhari7)
-- Email: mahesh.chaudhari.ds@gmail.com
+- Email: [mahesh.chaudhari.ds@gmail.com](mailto:mahesh.chaudhari.ds@gmail.com)
