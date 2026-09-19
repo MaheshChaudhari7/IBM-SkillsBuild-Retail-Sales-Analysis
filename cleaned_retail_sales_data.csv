@@ -1,0 +1,1501 @@
+Order_ID,Date,City,Category,Product,Quantity,Unit_Price,Discount_Percent,Payment_Method,Customer_Type,Salesperson,Gross_Sales,Discount_Amount,Net_Sales,Month,Month_Number,Quarter,Year
+50683,01-01-2025,Navi Mumbai,Electronics,Smartwatch,6,5815.3,0,Credit Card,VIP,Anjali,34891.8,0,34891.8,January,1,Q1,2025
+51124,02-01-2025,Thane,Beauty,Sunscreen,5,489.34,0,Debit Card,New,Neha,2446.7,0,2446.7,January,1,Q1,2025
+51254,02-01-2025,Kolhapur,Electronics,Tablet,6,13932.76,0,Cash,VIP,Priya,83596.56,0,83596.56,January,1,Q1,2025
+51184,02-01-2025,Pune,Sports,Running Shoes,6,9771.29,0,UPI,Returning,Neha,58627.74,0,58627.74,January,1,Q1,2025
+50769,03-01-2025,Navi Mumbai,Grocery,Sugar,1,44.79,0,UPI,Returning,Rohan,44.79,0,44.79,January,1,Q1,2025
+50817,03-01-2025,Pune,Clothing,Jeans,1,2873.63,5,Credit Card,New,Amit,2873.63,143.68,2729.95,January,1,Q1,2025
+50780,04-01-2025,Nashik,Clothing,Jacket,2,5671.12,15,UPI,VIP,Rohan,11342.24,1701.34,9640.9,January,1,Q1,2025
+51444,04-01-2025,Pune,Grocery,Rice,5,855.81,0,Debit Card,New,Karan,4279.05,0,4279.05,January,1,Q1,2025
+50409,06-01-2025,Nagpur,Sports,Badminton Racket,7,2489.43,5,UPI,New,Vikas,17426.01,871.3,16554.71,January,1,Q1,2025
+50108,06-01-2025,Nashik,Furniture,Chair,4,2757.01,5,UPI,New,Karan,11028.04,551.4,10476.64,January,1,Q1,2025
+51100,06-01-2025,Mumbai,Grocery,Sugar,2,48.92,0,UPI,Returning,Vikas,97.84,0,97.84,January,1,Q1,2025
+51264,07-01-2025,Kolhapur,Grocery,Biscuits,3,114.93,15,UPI,Returning,Priya,344.79,51.72,293.07,January,1,Q1,2025
+50572,07-01-2025,Nagpur,Beauty,Shampoo,8,436.87,,Debit Card,Returning,Priya,3494.96,174.75,3320.21,January,1,Q1,2025
+50060,07-01-2025,Mumbai,Grocery,Rice,3,1243.49,0,UPI,Returning,Karan,3730.47,0,3730.47,January,1,Q1,2025
+50188,07-01-2025,Nashik,Clothing,Kurta,6,1217.6,15,UPI,VIP,Priya,7305.6,1095.84,6209.76,January,1,Q1,2025
+50048,07-01-2025,Thane,Clothing,Saree,7,7171.64,10,Credit Card,New,Pooja,50201.48,5020.15,45181.33,January,1,Q1,2025
+51474,08-01-2025,Pune,Grocery,Sugar,6,68.78,0,UPI,Returning,Rahul,412.68,0,412.68,January,1,Q1,2025
+50133,08-01-2025,Aurangabad,Electronics,Keyboard,8,894.87,5,UPI,New,Vikas,7158.96,357.95,6801.01,January,1,Q1,2025
+50611,09-01-2025,Thane,Electronics,Monitor,8,10027.7,0,UPI,Returning,Pooja,80221.6,0,80221.6,January,1,Q1,2025
+51471,09-01-2025,Nagpur,Clothing,Saree,7,5468.45,20,UPI,VIP,Rahul,38279.15,7655.83,30623.32,January,1,Q1,2025
+50147,09-01-2025,Thane,Clothing,Shirt,7,1542.15,5,Net Banking,Returning,Pooja,10795.05,539.75,10255.3,January,1,Q1,2025
+50885,09-01-2025,Aurangabad,Beauty,Face Wash,7,585.3,10,Credit Card,VIP,Karan,4097.1,409.71,3687.39,January,1,Q1,2025
+50393,10-01-2025,Nagpur,Grocery,Coffee,8,183.72,10,Net Banking,VIP,Amit,1469.76,146.98,1322.78,January,1,Q1,2025
+51460,10-01-2025,Aurangabad,Furniture,Bed,2,20953.67,0,Debit Card,Returning,Priya,41907.34,0,41907.34,January,1,Q1,2025
+51117,10-01-2025,Nagpur,Electronics,Laptop,5,52743.87,10,UPI,Returning,Sneha,263719.35,26371.94,237347.41,January,1,Q1,2025
+50862,10-01-2025,Pune,Grocery,Rice,1,1159.21,5,UPI,VIP,Sneha,1159.21,57.96,1101.25,January,1,Q1,2025
+50348,11-01-2025,Thane,Electronics,Monitor,4,19657.39,0,Debit Card,Returning,Sneha,78629.56,0,78629.56,January,1,Q1,2025
+50908,11-01-2025,Pune,Grocery,Flour,4,66.02,15,UPI,Returning,Rohan,264.08,39.61,224.47,January,1,Q1,2025
+50167,11-01-2025,Mumbai,Grocery,Sugar,3,52.45,15,Debit Card,Returning,Anjali,157.35,23.6,133.75,January,1,Q1,2025
+50965,11-01-2025,Nashik,Grocery,Biscuits,8,140.15,10,Debit Card,New,Neha,1121.2,112.12,1009.08,January,1,Q1,2025
+51451,11-01-2025,Nashik,Clothing,Jacket,8,2540.76,10,UPI,Returning,Rahul,20326.08,2032.61,18293.47,January,1,Q1,2025
+50350,12-01-2025,Kolhapur,Clothing,Saree,7,2162.15,15,UPI,New,Vikas,15135.05,2270.26,12864.79,January,1,Q1,2025
+50164,12-01-2025,Nashik,Clothing,T-Shirt,3,1112.47,20,UPI,New,Vikas,3337.41,667.48,2669.93,January,1,Q1,2025
+51399,12-01-2025,Pune,Clothing,Saree,6,7521.89,15,Net Banking,New,Neha,45131.34,6769.7,38361.64,January,1,Q1,2025
+51215,12-01-2025,Pune,Furniture,Bed,7,29145.34,10,Debit Card,New,Rohan,204017.38,20401.74,183615.64,January,1,Q1,2025
+50443,12-01-2025,Kolhapur,Grocery,Sugar,8,40.76,0,Debit Card,New,Neha,326.08,0,326.08,January,1,Q1,2025
+51106,13-01-2025,Kolhapur,Electronics,Smartwatch,4,4401.37,0,Net Banking,Returning,Amit,17605.48,0,17605.48,January,1,Q1,2025
+51051,13-01-2025,Mumbai,Beauty,Moisturizer,6,1196.57,0,Debit Card,New,Rahul,7179.42,0,7179.42,January,1,Q1,2025
+50886,13-01-2025,Nagpur,Electronics,Monitor,7,21254.34,10,Credit Card,Returning,Rahul,148780.38,14878.04,133902.34,January,1,Q1,2025
+50916,14-01-2025,Thane,Grocery,Coffee,5,458.53,15,Credit Card,Returning,Rohan,2292.65,343.9,1948.75,January,1,Q1,2025
+50930,14-01-2025,Nagpur,Grocery,Flour,2,72.24,20,Credit Card,New,Priya,144.48,28.9,115.58,January,1,Q1,2025
+50619,14-01-2025,Nagpur,Beauty,Face Wash,3,272.68,5,Debit Card,New,Neha,818.04,40.9,777.14,January,1,Q1,2025
+50967,15-01-2025,Aurangabad,Furniture,Chair,6,3096.09,20,UPI,Returning,Rahul,18576.54,3715.31,14861.23,January,1,Q1,2025
+50373,16-01-2025,Nagpur,Electronics,Laptop,4,52019.14,15,Credit Card,Returning,Priya,208076.56,31211.48,176865.08,January,1,Q1,2025
+50819,16-01-2025,Nashik,Electronics,Monitor,1,18656.61,10,Credit Card,Returning,Karan,18656.61,1865.66,16790.95,January,1,Q1,2025
+50972,17-01-2025,Nagpur,Sports,Running Shoes,6,4637.22,10,Debit Card,New,Sneha,27823.32,2782.33,25040.99,January,1,Q1,2025
+51228,17-01-2025,Mumbai,Grocery,Coffee,5,696.59,5,Debit Card,Returning,Karan,3482.95,174.15,3308.8,January,1,Q1,2025
+50766,19-01-2025,Pune,Clothing,Shirt,1,1181.09,0,Debit Card,Returning,Vikas,1181.09,0,1181.09,January,1,Q1,2025
+51457,19-01-2025,Nashik,Furniture,Chair,7,2892.56,10,Credit Card,New,Pooja,20247.92,2024.79,18223.13,January,1,Q1,2025
+51425,20-01-2025,Kolhapur,Sports,Tennis Racket,1,6863.87,0,UPI,VIP,Vikas,6863.87,0,6863.87,January,1,Q1,2025
+50666,20-01-2025,Navi Mumbai,Electronics,Mobile,5,26486.79,10,UPI,New,Priya,132433.95,13243.4,119190.55,January,1,Q1,2025
+50843,20-01-2025,Aurangabad,Electronics,Monitor,2,22258.31,5,Net Banking,New,Karan,44516.62,2225.83,42290.79,January,1,Q1,2025
+50246,20-01-2025,Thane,Sports,Football,3,831.61,0,UPI,Returning,Pooja,2494.83,0,2494.83,January,1,Q1,2025
+50753,20-01-2025,Kolhapur,Clothing,Jacket,8,2391.43,5,UPI,New,Amit,19131.44,956.57,18174.87,January,1,Q1,2025
+51410,21-01-2025,Mumbai,Beauty,Sunscreen,5,386.84,0,UPI,New,Rohan,1934.2,0,1934.2,January,1,Q1,2025
+50181,22-01-2025,Nashik,Grocery,Oil,6,165.08,10,Cash,New,Sneha,990.48,99.05,891.43,January,1,Q1,2025
+50466,22-01-2025,Aurangabad,Grocery,Flour,8,70.9,15,UPI,New,Anjali,567.2,85.08,482.12,January,1,Q1,2025
+50093,22-01-2025,Aurangabad,Furniture,Table,7,10934.07,5,Net Banking,New,Vikas,76538.49,3826.92,72711.57,January,1,Q1,2025
+51097,23-01-2025,Aurangabad,Grocery,Tea,3,362.63,10,Debit Card,Returning,Amit,1087.89,108.79,979.1,January,1,Q1,2025
+50458,23-01-2025,Nashik,Grocery,Rice,7,808.21,15,UPI,New,Rahul,5657.47,848.62,4808.85,January,1,Q1,2025
+51283,23-01-2025,Nagpur,Clothing,Saree,1,5330.27,15,Credit Card,New,Anjali,5330.27,799.54,4530.73,January,1,Q1,2025
+50213,23-01-2025,Aurangabad,Furniture,Chair,4,2830.14,15,Cash,VIP,Amit,11320.56,1698.08,9622.48,January,1,Q1,2025
+51306,23-01-2025,Nashik,Beauty,Face Wash,8,273.53,10,UPI,New,Neha,2188.24,218.82,1969.42,January,1,Q1,2025
+50881,23-01-2025,Navi Mumbai,Grocery,Oil,5,169.22,15,,New,Sneha,846.1,126.92,719.18,January,1,Q1,2025
+50723,23-01-2025,Nashik,Electronics,Headphones,8,1574.82,0,UPI,Returning,Sneha,12598.56,0,12598.56,January,1,Q1,2025
+50300,23-01-2025,Aurangabad,Electronics,Mobile,5,49063.87,5,Credit Card,Returning,Rohan,245319.35,12265.97,233053.38,January,1,Q1,2025
+50525,24-01-2025,Pune,Beauty,Face Wash,4,312.61,0,Debit Card,New,Rahul,1250.44,0,1250.44,January,1,Q1,2025
+50019,24-01-2025,Aurangabad,Grocery,Oil,6,143.18,0,Credit Card,New,Rahul,859.08,0,859.08,January,1,Q1,2025
+51162,25-01-2025,Pune,Electronics,Monitor,4,27921.85,15,Debit Card,Returning,Priya,111687.4,16753.11,94934.29,January,1,Q1,2025
+51488,25-01-2025,Nashik,Furniture,Sofa,6,57023.97,5,Credit Card,Returning,Rahul,342143.82,17107.19,325036.63,January,1,Q1,2025
+50548,26-01-2025,Nashik,Furniture,Chair,3,1954.27,15,Net Banking,New,Rahul,5862.81,879.42,4983.39,January,1,Q1,2025
+50623,28-01-2025,Nagpur,Grocery,Oil,6,176.13,10,UPI,New,Sneha,1056.78,105.68,951.1,January,1,Q1,2025
+50971,28-01-2025,Aurangabad,Furniture,Table,4,5594.26,15,Credit Card,New,Priya,22377.04,3356.56,19020.48,January,1,Q1,2025
+51302,28-01-2025,Nagpur,Sports,Badminton Racket,7,1748.35,5,UPI,Returning,Neha,12238.45,611.92,11626.53,January,1,Q1,2025
+50372,29-01-2025,Mumbai,Electronics,Headphones,5,5243.98,10,Credit Card,Returning,Rohan,26219.9,2621.99,23597.91,January,1,Q1,2025
+51016,30-01-2025,Navi Mumbai,Sports,Yoga Mat,7,594.25,15,Credit Card,Returning,Anjali,4159.75,623.96,3535.79,January,1,Q1,2025
+50758,31-01-2025,Kolhapur,Clothing,Saree,5,7418.59,5,Cash,New,Priya,37092.95,1854.65,35238.3,January,1,Q1,2025
+50217,31-01-2025,Pune,Grocery,Flour,7,57.46,0,UPI,New,Pooja,402.22,0,402.22,January,1,Q1,2025
+51357,31-01-2025,Pune,Sports,Cricket Bat,3,6346.45,5,UPI,New,Priya,19039.35,951.97,18087.38,January,1,Q1,2025
+51448,31-01-2025,Nagpur,Beauty,Shampoo,4,416.28,10,Credit Card,New,Vikas,1665.12,166.51,1498.61,January,1,Q1,2025
+50986,31-01-2025,Nagpur,Clothing,Shirt,1,1832.54,5,Cash,VIP,Anjali,1832.54,91.63,1740.91,January,1,Q1,2025
+51217,01-02-2025,Pune,Electronics,Headphones,1,5042.35,0,UPI,New,Pooja,5042.35,0,5042.35,February,2,Q1,2025
+51477,02-02-2025,Kolhapur,Beauty,Moisturizer,4,394.54,10,Debit Card,Returning,Rohan,1578.16,157.82,1420.34,February,2,Q1,2025
+50844,02-02-2025,Mumbai,Sports,Yoga Mat,4,2237.75,10,UPI,Returning,Rahul,8951,895.1,8055.9,February,2,Q1,2025
+50296,03-02-2025,Navi Mumbai,Clothing,Jeans,5,2079.31,10,UPI,New,Rohan,10396.55,1039.66,9356.89,February,2,Q1,2025
+50351,04-02-2025,Kolhapur,Clothing,T-Shirt,1,471.65,0,Debit Card,New,Sneha,471.65,0,471.65,February,2,Q1,2025
+51447,06-02-2025,Thane,Furniture,Bed,3,44426.51,15,Net Banking,Returning,Anjali,133279.53,19991.93,113287.6,February,2,Q1,2025
+50592,06-02-2025,Thane,Clothing,Jeans,6,1914.31,10,Credit Card,VIP,Anjali,11485.86,1148.59,10337.27,February,2,Q1,2025
+51161,07-02-2025,Aurangabad,Beauty,Perfume,8,3884.58,0,Net Banking,VIP,Priya,31076.64,0,31076.64,February,2,Q1,2025
+51497,07-02-2025,Navi Mumbai,Clothing,Saree,2,3144.11,15,UPI,Returning,Rohan,6288.22,943.23,5344.99,February,2,Q1,2025
+50136,07-02-2025,Navi Mumbai,Grocery,Rice,2,992.99,0,Credit Card,VIP,Rohan,1985.98,0,1985.98,February,2,Q1,2025
+50080,08-02-2025,Nashik,Electronics,Mobile,1,18628.57,10,UPI,New,Rohan,18628.57,1862.86,16765.71,February,2,Q1,2025
+51383,08-02-2025,Thane,Sports,Badminton Racket,6,1596.12,10,UPI,New,Pooja,9576.72,957.67,8619.05,February,2,Q1,2025
+50289,08-02-2025,Kolhapur,Grocery,Rice,7,1253.64,10,UPI,VIP,Rohan,8775.48,877.55,7897.93,February,2,Q1,2025
+50076,10-02-2025,Navi Mumbai,Furniture,Office Desk,5,23662.54,15,UPI,Returning,Rahul,118312.7,17746.9,100565.8,February,2,Q1,2025
+51333,10-02-2025,Mumbai,Grocery,Oil,8,177.39,0,,New,Pooja,1419.12,0,1419.12,February,2,Q1,2025
+50879,10-02-2025,Mumbai,Electronics,Keyboard,3,1790.41,10,UPI,New,Karan,5371.23,537.12,4834.11,February,2,Q1,2025
+50539,11-02-2025,Nashik,Grocery,Biscuits,7,38.49,0,Credit Card,New,Pooja,269.43,0,269.43,February,2,Q1,2025
+50027,11-02-2025,Pune,Electronics,Monitor,5,27456.28,5,Credit Card,New,Sneha,137281.4,6864.07,130417.33,February,2,Q1,2025
+51398,11-02-2025,Nashik,Grocery,Rice,2,1384.62,10,Credit Card,New,Priya,2769.24,276.92,2492.32,February,2,Q1,2025
+50600,11-02-2025,Nashik,Electronics,Monitor,2,19509.15,5,Credit Card,,Karan,39018.3,1950.92,37067.38,February,2,Q1,2025
+50815,12-02-2025,Aurangabad,Beauty,Moisturizer,2,862.8,10,UPI,VIP,Priya,1725.6,172.56,1553.04,February,2,Q1,2025
+50504,12-02-2025,Mumbai,Beauty,Shampoo,4,649.09,0,Debit Card,New,Vikas,2596.36,0,2596.36,February,2,Q1,2025
+50677,12-02-2025,Nagpur,Electronics,Smartwatch,2,10860.02,15,Debit Card,Returning,Neha,21720.04,3258.01,18462.03,February,2,Q1,2025
+51067,13-02-2025,Pune,Grocery,Oil,6,157,0,Credit Card,Returning,Neha,942,0,942,February,2,Q1,2025
+51346,13-02-2025,Nashik,Grocery,Oil,3,182.7,15,Credit Card,New,Anjali,548.1,82.22,465.88,February,2,Q1,2025
+50305,13-02-2025,Mumbai,Furniture,Office Desk,7,17851.55,5,Debit Card,New,Amit,124960.85,6248.04,118712.81,February,2,Q1,2025
+50310,14-02-2025,Kolhapur,Grocery,Rice,6,1413.43,5,UPI,New,Vikas,8480.58,424.03,8056.55,February,2,Q1,2025
+50284,15-02-2025,Kolhapur,Electronics,Smartwatch,6,11595.22,10,Credit Card,Returning,Rahul,69571.32,6957.13,62614.19,February,2,Q1,2025
+51193,15-02-2025,Pune,Grocery,Rice,6,817.41,5,Debit Card,VIP,Amit,4904.46,245.22,4659.24,February,2,Q1,2025
+50419,15-02-2025,Mumbai,Furniture,Table,3,11732.12,5,UPI,New,Pooja,35196.36,1759.82,33436.54,February,2,Q1,2025
+51112,15-02-2025,Kolhapur,Grocery,Sugar,1,48.86,0,UPI,Returning,Vikas,48.86,0,48.86,February,2,Q1,2025
+50724,16-02-2025,Pune,Furniture,Office Desk,8,20362.56,10,UPI,New,Amit,162900.48,16290.05,146610.43,February,2,Q1,2025
+50224,16-02-2025,Navi Mumbai,Grocery,Tea,8,513.33,0,Credit Card,Returning,Karan,4106.64,0,4106.64,February,2,Q1,2025
+50781,16-02-2025,Aurangabad,Furniture,Chair,4,2012.05,15,Net Banking,Returning,Vikas,8048.2,1207.23,6840.97,February,2,Q1,2025
+50017,16-02-2025,Navi Mumbai,Grocery,Tea,8,286.76,5,Credit Card,Returning,Neha,2294.08,114.7,2179.38,February,2,Q1,2025
+51277,16-02-2025,Nagpur,Grocery,Sugar,6,45.44,0,Credit Card,Returning,Priya,272.64,0,272.64,February,2,Q1,2025
+51105,16-02-2025,Thane,Sports,Running Shoes,7,8831.08,0,Net Banking,New,Rahul,61817.56,0,61817.56,February,2,Q1,2025
+50570,17-02-2025,Kolhapur,Grocery,Flour,6,68.68,5,UPI,New,Pooja,412.08,20.6,391.48,February,2,Q1,2025
+51170,17-02-2025,Aurangabad,Grocery,Tea,3,209.09,0,Net Banking,New,Rohan,627.27,0,627.27,February,2,Q1,2025
+50338,18-02-2025,Kolhapur,Furniture,Bed,7,23629.96,10,Credit Card,New,Anjali,165409.72,16540.97,148868.75,February,2,Q1,2025
+51180,18-02-2025,Mumbai,Clothing,T-Shirt,6,1017.5,15,UPI,Returning,Rahul,6105,915.75,5189.25,February,2,Q1,2025
+50863,18-02-2025,Thane,Clothing,Saree,6,5465.31,15,Cash,Returning,Sneha,32791.86,4918.78,27873.08,February,2,Q1,2025
+51054,20-02-2025,Nashik,Beauty,Shampoo,7,422.86,0,UPI,New,Amit,2960.02,0,2960.02,February,2,Q1,2025
+50469,20-02-2025,Nashik,Grocery,Sugar,4,62.81,0,UPI,Returning,Priya,251.24,0,251.24,February,2,Q1,2025
+50891,20-02-2025,Nagpur,Furniture,Office Desk,6,24276.46,5,UPI,Returning,Pooja,145658.76,7282.94,138375.82,February,2,Q1,2025
+51303,20-02-2025,Navi Mumbai,Electronics,Laptop,3,74515.65,5,UPI,New,Amit,223546.95,11177.35,212369.6,February,2,Q1,2025
+50400,21-02-2025,Nashik,Furniture,Bed,2,29892.96,5,Debit Card,Returning,Priya,59785.92,2989.3,56796.62,February,2,Q1,2025
+50232,21-02-2025,Mumbai,Clothing,Jacket,8,2868.14,5,Net Banking,Returning,Karan,22945.12,1147.26,21797.86,February,2,Q1,2025
+50887,21-02-2025,Mumbai,Furniture,Office Desk,2,15232.77,10,,Returning,Vikas,30465.54,3046.55,27418.99,February,2,Q1,2025
+50970,21-02-2025,Pune,Clothing,Jeans,4,2576.75,5,Debit Card,New,Pooja,10307,515.35,9791.65,February,2,Q1,2025
+51294,21-02-2025,Navi Mumbai,Furniture,Table,5,6681.77,10,Credit Card,New,Amit,33408.85,3340.88,30067.97,February,2,Q1,2025
+50778,22-02-2025,Pune,Furniture,Bed,1,22553.33,10,Debit Card,New,Sneha,22553.33,2255.33,20298,February,2,Q1,2025
+50981,22-02-2025,Kolhapur,Grocery,Oil,2,202.36,0,Cash,Returning,Amit,404.72,0,404.72,February,2,Q1,2025
+50170,22-02-2025,Aurangabad,Clothing,Jacket,5,4148.27,10,UPI,VIP,Amit,20741.35,2074.14,18667.21,February,2,Q1,2025
+50054,22-02-2025,Nashik,Sports,Football,8,1277.51,15,UPI,VIP,Vikas,10220.08,1533.01,8687.07,February,2,Q1,2025
+50687,22-02-2025,Thane,Clothing,Saree,6,4108.81,0,Net Banking,New,Rahul,24652.86,0,24652.86,February,2,Q1,2025
+50295,23-02-2025,Nagpur,Electronics,Tablet,6,16000.2,10,Credit Card,New,Pooja,96001.2,9600.12,86401.08,February,2,Q1,2025
+50983,23-02-2025,Navi Mumbai,Electronics,Smartwatch,6,8967.01,5,UPI,New,Rahul,53802.06,2690.1,51111.96,February,2,Q1,2025
+50671,23-02-2025,Kolhapur,Electronics,Headphones,8,6883.01,10,Credit Card,VIP,Karan,55064.08,5506.41,49557.67,February,2,Q1,2025
+50848,24-02-2025,Nashik,Sports,Badminton Racket,2,1154.04,15,Credit Card,New,Vikas,2308.08,346.21,1961.87,February,2,Q1,2025
+51351,24-02-2025,Pune,Beauty,Moisturizer,7,527.42,0,UPI,Returning,Neha,3691.94,0,3691.94,February,2,Q1,2025
+51000,25-02-2025,Kolhapur,Grocery,Tea,8,260.01,10,Cash,New,Vikas,2080.08,208.01,1872.07,February,2,Q1,2025
+51174,25-02-2025,Navi Mumbai,Grocery,Rice,1,518.94,0,Credit Card,VIP,Amit,518.94,0,518.94,February,2,Q1,2025
+50551,25-02-2025,Nashik,Clothing,Kurta,2,2333.31,0,Cash,New,Priya,4666.62,0,4666.62,February,2,Q1,2025
+50495,25-02-2025,Nashik,Grocery,Tea,3,486.69,5,UPI,Returning,Karan,1460.07,73,1387.07,February,2,Q1,2025
+50174,25-02-2025,Mumbai,Grocery,Oil,7,206.86,5,UPI,New,Amit,1448.02,72.4,1375.62,February,2,Q1,2025
+50416,25-02-2025,Thane,Grocery,Biscuits,1,86.68,10,UPI,Returning,Vikas,86.68,8.67,78.01,February,2,Q1,2025
+51190,26-02-2025,Mumbai,Furniture,Bed,5,12468.96,20,Net Banking,New,Vikas,62344.8,12468.96,49875.84,February,2,Q1,2025
+50868,26-02-2025,Aurangabad,Electronics,Laptop,5,72844.74,5,Debit Card,Returning,Priya,364223.7,18211.19,346012.51,February,2,Q1,2025
+50449,26-02-2025,Aurangabad,Grocery,Oil,1,182.35,0,UPI,VIP,Vikas,182.35,0,182.35,February,2,Q1,2025
+50499,26-02-2025,Navi Mumbai,Sports,Tennis Racket,1,6021.56,0,Credit Card,VIP,Neha,6021.56,0,6021.56,February,2,Q1,2025
+50071,27-02-2025,Nagpur,Beauty,Shampoo,8,594.29,0,UPI,New,Amit,4754.32,0,4754.32,February,2,Q1,2025
+50988,27-02-2025,Pune,Grocery,Flour,3,49.03,0,,New,Priya,147.09,0,147.09,February,2,Q1,2025
+51465,28-02-2025,Aurangabad,Sports,Cricket Bat,2,8229.2,10,Credit Card,New,Karan,16458.4,1645.84,14812.56,February,2,Q1,2025
+50822,28-02-2025,Pune,Electronics,Keyboard,1,1629.88,10,Debit Card,Returning,Sneha,1629.88,162.99,1466.89,February,2,Q1,2025
+51285,28-02-2025,Mumbai,Grocery,Tea,8,129.59,10,Debit Card,Returning,Pooja,1036.72,103.67,933.05,February,2,Q1,2025
+51121,01-03-2025,Navi Mumbai,Beauty,Perfume,8,2171.96,0,Debit Card,VIP,Amit,17375.68,0,17375.68,March,3,Q1,2025
+50612,01-03-2025,Aurangabad,Beauty,Sunscreen,1,688.81,20,UPI,New,Rahul,688.81,137.76,551.05,March,3,Q1,2025
+51157,01-03-2025,Nagpur,Electronics,Tablet,3,14076.06,5,Credit Card,New,Neha,42228.18,2111.41,40116.77,March,3,Q1,2025
+51212,02-03-2025,Thane,Grocery,Biscuits,5,126.9,0,UPI,New,Vikas,634.5,0,634.5,March,3,Q1,2025
+50849,02-03-2025,Pune,Clothing,Shirt,2,590.59,0,Net Banking,Returning,Anjali,1181.18,0,1181.18,March,3,Q1,2025
+51341,02-03-2025,Navi Mumbai,Grocery,Tea,3,237.77,15,Debit Card,Returning,Priya,713.31,107,606.31,March,3,Q1,2025
+50227,03-03-2025,Navi Mumbai,Sports,Running Shoes,1,9914.15,0,Credit Card,Returning,Pooja,9914.15,0,9914.15,March,3,Q1,2025
+50616,03-03-2025,Kolhapur,Sports,Badminton Racket,8,3708.73,0,Debit Card,New,Vikas,29669.84,0,29669.84,March,3,Q1,2025
+51396,03-03-2025,Thane,Beauty,Perfume,3,681.3,5,Net Banking,New,Karan,2043.9,102.2,1941.7,March,3,Q1,2025
+51241,04-03-2025,Mumbai,Beauty,Perfume,7,599.98,10,UPI,Returning,Priya,4199.86,419.99,3779.87,March,3,Q1,2025
+50044,04-03-2025,Aurangabad,Sports,Yoga Mat,4,1536.88,10,UPI,New,Anjali,6147.52,614.75,5532.77,March,3,Q1,2025
+50824,04-03-2025,Mumbai,Grocery,Flour,4,51.86,0,Debit Card,New,Priya,207.44,0,207.44,March,3,Q1,2025
+51155,05-03-2025,Pune,Clothing,Kurta,7,2103.87,15,Credit Card,Returning,Karan,14727.09,2209.06,12518.03,March,3,Q1,2025
+50835,05-03-2025,Kolhapur,Clothing,Jacket,1,5112.83,0,Debit Card,VIP,Rohan,5112.83,0,5112.83,March,3,Q1,2025
+51203,06-03-2025,Nagpur,Electronics,Keyboard,7,810.98,0,Credit Card,New,Priya,5676.86,0,5676.86,March,3,Q1,2025
+50507,06-03-2025,Navi Mumbai,Sports,Badminton Racket,2,4382.92,5,Debit Card,Returning,Sneha,8765.84,438.29,8327.55,March,3,Q1,2025
+50634,06-03-2025,Navi Mumbai,Clothing,Shirt,2,936.52,15,Credit Card,New,Karan,1873.04,280.96,1592.08,March,3,Q1,2025
+51132,06-03-2025,Nashik,Clothing,Kurta,3,1406.04,10,UPI,Returning,Sneha,4218.12,421.81,3796.31,March,3,Q1,2025
+50155,06-03-2025,Mumbai,Sports,Football,8,2156.21,10,Net Banking,New,Neha,17249.68,1724.97,15524.71,March,3,Q1,2025
+50647,06-03-2025,Thane,Clothing,Kurta,3,1058.88,15,Credit Card,Returning,Amit,3176.64,476.5,2700.14,March,3,Q1,2025
+50842,07-03-2025,Mumbai,Furniture,Bookshelf,3,5555.92,0,Credit Card,VIP,Rohan,16667.76,0,16667.76,March,3,Q1,2025
+50429,07-03-2025,Nashik,Grocery,Rice,3,1674.15,0,Cash,Returning,Rahul,5022.45,0,5022.45,March,3,Q1,2025
+51368,08-03-2025,Pune,Sports,Football,4,2012.1,15,UPI,New,Rohan,8048.4,1207.26,6841.14,March,3,Q1,2025
+51314,08-03-2025,Mumbai,Beauty,Perfume,1,3851.32,15,Credit Card,Returning,Vikas,3851.32,577.7,3273.62,March,3,Q1,2025
+51297,08-03-2025,Navi Mumbai,Electronics,Laptop,3,77889.58,,Debit Card,Returning,Pooja,233668.74,35050.31,198618.43,March,3,Q1,2025
+50996,08-03-2025,Pune,Electronics,Tablet,6,13067.74,5,UPI,New,Anjali,78406.44,3920.32,74486.12,March,3,Q1,2025
+51300,09-03-2025,Nashik,Furniture,Sofa,2,57239.92,5,UPI,New,Rahul,114479.84,5723.99,108755.85,March,3,Q1,2025
+50703,09-03-2025,Nagpur,Grocery,Oil,5,216.87,10,Credit Card,New,Neha,1084.35,108.44,975.91,March,3,Q1,2025
+51176,10-03-2025,Navi Mumbai,Clothing,T-Shirt,1,1599.44,10,Debit Card,New,Pooja,1599.44,159.94,1439.5,March,3,Q1,2025
+51146,11-03-2025,Nagpur,Beauty,Sunscreen,5,361.86,20,Debit Card,VIP,Sneha,1809.3,361.86,1447.44,March,3,Q1,2025
+50500,12-03-2025,Pune,Sports,Tennis Racket,6,5470.01,10,Cash,VIP,Rohan,32820.06,3282.01,29538.05,March,3,Q1,2025
+50606,12-03-2025,Mumbai,Grocery,Sugar,7,47.62,5,Debit Card,New,Pooja,333.34,16.67,316.67,March,3,Q1,2025
+51256,13-03-2025,Nashik,Grocery,Rice,3,1516.12,0,Net Banking,Returning,Rahul,4548.36,0,4548.36,March,3,Q1,2025
+50943,13-03-2025,Nagpur,Furniture,Sofa,7,47707.75,5,Debit Card,VIP,Neha,333954.25,16697.71,317256.54,March,3,Q1,2025
+51420,13-03-2025,Navi Mumbai,Sports,Badminton Racket,6,2412.61,15,Credit Card,New,Rahul,14475.66,2171.35,12304.31,March,3,Q1,2025
+50845,14-03-2025,Thane,Electronics,Mobile,1,57850.19,5,Credit Card,Returning,Neha,57850.19,2892.51,54957.68,March,3,Q1,2025
+50788,14-03-2025,Nagpur,Grocery,Flour,3,52.55,5,Credit Card,Returning,Karan,157.65,7.88,149.77,March,3,Q1,2025
+51111,14-03-2025,Nashik,Beauty,Face Wash,6,289.84,15,Cash,New,Vikas,1739.04,260.86,1478.18,March,3,Q1,2025
+51047,14-03-2025,Aurangabad,Grocery,Biscuits,7,37.64,5,UPI,Returning,Anjali,263.48,13.17,250.31,March,3,Q1,2025
+51360,15-03-2025,Nagpur,Clothing,Jeans,8,3062.01,15,Credit Card,New,Priya,24496.08,3674.41,20821.67,March,3,Q1,2025
+50946,15-03-2025,Nagpur,Electronics,Mobile,6,47117.91,10,Debit Card,New,Karan,282707.46,28270.75,254436.71,March,3,Q1,2025
+51211,15-03-2025,Pune,Grocery,Rice,4,1511.15,15,UPI,New,Neha,6044.6,906.69,5137.91,March,3,Q1,2025
+51137,15-03-2025,Thane,Beauty,Face Wash,7,329.13,0,Net Banking,New,Pooja,2303.91,0,2303.91,March,3,Q1,2025
+50085,15-03-2025,Nashik,Grocery,Tea,7,488.24,5,Credit Card,New,Priya,3417.68,170.88,3246.8,March,3,Q1,2025
+50369,16-03-2025,Kolhapur,Electronics,Smartwatch,4,2830.87,5,UPI,Returning,Rahul,11323.48,566.17,10757.31,March,3,Q1,2025
+50716,16-03-2025,Aurangabad,Sports,Football,6,1495.57,15,Debit Card,VIP,Karan,8973.42,1346.01,7627.41,March,3,Q1,2025
+50874,17-03-2025,Nagpur,Grocery,Rice,3,862.62,5,Credit Card,New,Priya,2587.86,129.39,2458.47,March,3,Q1,2025
+51053,17-03-2025,Kolhapur,Sports,Badminton Racket,7,4012.92,0,Credit Card,Returning,Karan,28090.44,0,28090.44,March,3,Q1,2025
+50790,17-03-2025,Nagpur,Sports,Football,8,2244.29,10,Credit Card,Returning,Sneha,17954.32,1795.43,16158.89,March,3,Q1,2025
+50377,18-03-2025,Navi Mumbai,Beauty,Face Wash,3,321.43,10,UPI,Returning,Vikas,964.29,96.43,867.86,March,3,Q1,2025
+50798,18-03-2025,Kolhapur,Clothing,Kurta,3,1003.52,0,Credit Card,Returning,Karan,3010.56,0,3010.56,March,3,Q1,2025
+50797,18-03-2025,Mumbai,Sports,Badminton Racket,8,3931.25,10,Debit Card,New,Neha,31450,3145,28305,March,3,Q1,2025
+50791,18-03-2025,Aurangabad,Electronics,Tablet,2,22743.95,0,UPI,Returning,Pooja,45487.9,0,45487.9,March,3,Q1,2025
+50430,20-03-2025,Nashik,Electronics,Headphones,4,5147.73,5,UPI,New,Amit,20590.92,1029.55,19561.37,March,3,Q1,2025
+50258,20-03-2025,Nagpur,Furniture,Bookshelf,8,12103.76,15,UPI,Returning,Rohan,96830.08,14524.51,82305.57,March,3,Q1,2025
+50142,20-03-2025,Thane,Grocery,Sugar,2,43.11,10,Net Banking,Returning,Neha,86.22,8.62,77.6,March,3,Q1,2025
+50468,20-03-2025,Navi Mumbai,Beauty,Moisturizer,1,815.25,10,UPI,VIP,Sneha,815.25,81.53,733.72,March,3,Q1,2025
+51356,21-03-2025,Aurangabad,Beauty,Moisturizer,1,636,0,UPI,Returning,Rahul,636,0,636,March,3,Q1,2025
+51202,21-03-2025,Aurangabad,Electronics,Mobile,7,12425.38,10,Credit Card,Returning,Amit,86977.66,8697.77,78279.89,March,3,Q1,2025
+50180,21-03-2025,Kolhapur,Electronics,Smartwatch,5,7492.1,10,Debit Card,New,Anjali,37460.5,3746.05,33714.45,March,3,Q1,2025
+51270,21-03-2025,Aurangabad,Grocery,Flour,4,47.79,20,Debit Card,New,Priya,191.16,38.23,152.93,March,3,Q1,2025
+50359,21-03-2025,Nagpur,Sports,Yoga Mat,6,1167.75,15,UPI,Returning,Pooja,7006.5,1050.97,5955.53,March,3,Q1,2025
+51223,21-03-2025,Nashik,Grocery,Coffee,2,717.57,10,Net Banking,Returning,Rohan,1435.14,143.51,1291.63,March,3,Q1,2025
+51239,22-03-2025,Aurangabad,Sports,Cricket Bat,1,6876.76,15,UPI,New,Rahul,6876.76,1031.51,5845.25,March,3,Q1,2025
+51063,23-03-2025,Kolhapur,Furniture,Table,1,8653.08,10,Net Banking,Returning,Sneha,8653.08,865.31,7787.77,March,3,Q1,2025
+51395,23-03-2025,Nashik,Grocery,Flour,1,76.47,0,UPI,New,Rohan,76.47,0,76.47,March,3,Q1,2025
+50587,23-03-2025,Nashik,Electronics,Laptop,7,87745.49,5,UPI,Returning,Karan,614218.43,30710.92,583507.51,March,3,Q1,2025
+50519,23-03-2025,Nashik,Sports,Cricket Bat,3,3643.98,5,Credit Card,Returning,Amit,10931.94,546.6,10385.34,March,3,Q1,2025
+50867,24-03-2025,Kolhapur,Electronics,Laptop,1,65089.89,10,Credit Card,New,Rahul,65089.89,6508.99,58580.9,March,3,Q1,2025
+51034,24-03-2025,Nagpur,Electronics,Smartwatch,6,7901.22,10,UPI,New,Vikas,47407.32,4740.73,42666.59,March,3,Q1,2025
+50328,24-03-2025,Pune,Clothing,Jacket,6,4213.68,0,UPI,New,Sneha,25282.08,0,25282.08,March,3,Q1,2025
+51433,25-03-2025,Nagpur,Clothing,Kurta,4,2512.33,10,Credit Card,New,Sneha,10049.32,1004.93,9044.39,March,3,Q1,2025
+50805,25-03-2025,Kolhapur,Grocery,Flour,4,52.7,20,Cash,New,Vikas,210.8,42.16,168.64,March,3,Q1,2025
+50503,25-03-2025,Nagpur,Grocery,Sugar,5,57.05,10,UPI,,Karan,285.25,28.52,256.73,March,3,Q1,2025
+50728,26-03-2025,Mumbai,Beauty,Moisturizer,1,747.47,15,Debit Card,New,Karan,747.47,112.12,635.35,March,3,Q1,2025
+50216,26-03-2025,Nashik,Grocery,Rice,1,1457.1,0,UPI,New,Sneha,1457.1,0,1457.1,March,3,Q1,2025
+51416,26-03-2025,Nagpur,Sports,Cricket Bat,1,2325.04,15,Net Banking,Returning,Sneha,2325.04,348.76,1976.28,March,3,Q1,2025
+51019,27-03-2025,Aurangabad,Sports,Cricket Bat,1,7907.49,15,UPI,New,Amit,7907.49,1186.12,6721.37,March,3,Q1,2025
+50276,27-03-2025,Nagpur,Clothing,Kurta,4,953.15,5,Credit Card,Returning,Karan,3812.6,190.63,3621.97,March,3,Q1,2025
+51394,28-03-2025,Nashik,Clothing,Kurta,2,1520.11,10,UPI,VIP,Amit,3040.22,304.02,2736.2,March,3,Q1,2025
+51435,28-03-2025,Thane,Electronics,Headphones,1,2725.39,0,Net Banking,Returning,Priya,2725.39,0,2725.39,March,3,Q1,2025
+50122,28-03-2025,Navi Mumbai,Sports,Cricket Bat,2,9902.96,5,Net Banking,VIP,Vikas,19805.92,990.3,18815.62,March,3,Q1,2025
+50840,29-03-2025,Nashik,Clothing,Jeans,4,1710.97,10,Credit Card,New,Karan,6843.88,684.39,6159.49,March,3,Q1,2025
+50796,29-03-2025,Pune,Beauty,Face Wash,8,461.34,20,Debit Card,Returning,Sneha,3690.72,738.14,2952.58,March,3,Q1,2025
+50515,29-03-2025,Thane,Electronics,Mobile,1,28402.47,15,UPI,New,Pooja,28402.47,4260.37,24142.1,March,3,Q1,2025
+51204,29-03-2025,Nagpur,Grocery,Coffee,6,564.97,15,UPI,New,Rahul,3389.82,508.47,2881.35,March,3,Q1,2025
+51205,29-03-2025,Mumbai,Clothing,Saree,7,4643.15,10,Debit Card,New,Rahul,32502.05,3250.2,29251.85,March,3,Q1,2025
+51430,30-03-2025,Navi Mumbai,Beauty,Shampoo,1,653.56,0,Credit Card,New,Neha,653.56,0,653.56,March,3,Q1,2025
+50913,30-03-2025,Mumbai,Clothing,Jeans,2,3491.96,5,Debit Card,New,Sneha,6983.92,349.2,6634.72,March,3,Q1,2025
+51074,30-03-2025,Thane,Electronics,Headphones,7,4160.44,5,UPI,New,Amit,29123.08,1456.15,27666.93,March,3,Q1,2025
+51289,31-03-2025,Navi Mumbai,Electronics,Smartwatch,3,1649.56,10,UPI,New,Neha,4948.68,494.87,4453.81,March,3,Q1,2025
+50191,31-03-2025,Nagpur,Electronics,Monitor,4,18188.52,10,Debit Card,VIP,Karan,72754.08,7275.41,65478.67,March,3,Q1,2025
+50433,01-04-2025,Mumbai,Clothing,Jacket,1,3170.26,10,Credit Card,Returning,Anjali,3170.26,317.03,2853.23,April,4,Q2,2025
+51128,01-04-2025,Mumbai,Grocery,Biscuits,3,60.95,0,Credit Card,Returning,Vikas,182.85,0,182.85,April,4,Q2,2025
+50557,01-04-2025,Navi Mumbai,Electronics,Headphones,5,836.19,5,Credit Card,New,Karan,4180.95,209.05,3971.9,April,4,Q2,2025
+50049,02-04-2025,Kolhapur,Clothing,Jacket,4,2046.73,10,Credit Card,New,Vikas,8186.92,818.69,7368.23,April,4,Q2,2025
+51004,02-04-2025,Kolhapur,Furniture,Bed,5,44663.14,0,Credit Card,VIP,Rohan,223315.7,0,223315.7,April,4,Q2,2025
+50394,02-04-2025,Nashik,Beauty,Perfume,4,1068.6,0,Cash,New,Priya,4274.4,0,4274.4,April,4,Q2,2025
+50184,03-04-2025,Navi Mumbai,Beauty,Moisturizer,6,749.34,15,Credit Card,Returning,Vikas,4496.04,674.41,3821.63,April,4,Q2,2025
+50954,03-04-2025,Navi Mumbai,Sports,Tennis Racket,5,7507.87,10,UPI,Returning,Anjali,37539.35,3753.94,33785.41,April,4,Q2,2025
+50205,03-04-2025,Navi Mumbai,Clothing,Saree,2,4247.93,5,Net Banking,Returning,Priya,8495.86,424.79,8071.07,April,4,Q2,2025
+50345,04-04-2025,Navi Mumbai,Grocery,Oil,7,214.24,5,Debit Card,Returning,Anjali,1499.68,74.98,1424.7,April,4,Q2,2025
+50782,04-04-2025,Mumbai,Clothing,Saree,5,3940.03,5,Credit Card,VIP,Karan,19700.15,985.01,18715.14,April,4,Q2,2025
+51492,05-04-2025,Aurangabad,Grocery,Tea,5,561.1,5,Credit Card,Returning,Karan,2805.5,140.28,2665.22,April,4,Q2,2025
+51029,06-04-2025,Aurangabad,Grocery,Biscuits,7,56.12,0,Net Banking,Returning,Priya,392.84,0,392.84,April,4,Q2,2025
+50735,06-04-2025,Thane,Grocery,Flour,7,68.51,0,UPI,Returning,Rahul,479.57,0,479.57,April,4,Q2,2025
+50275,06-04-2025,Mumbai,Clothing,Jeans,7,3145.47,0,Cash,New,Rahul,22018.29,0,22018.29,April,4,Q2,2025
+51467,07-04-2025,Thane,Sports,Running Shoes,5,7777.32,10,Debit Card,Returning,Priya,38886.6,3888.66,34997.94,April,4,Q2,2025
+51375,07-04-2025,Mumbai,Grocery,Sugar,7,56.72,10,Debit Card,Returning,Priya,397.04,39.7,357.34,April,4,Q2,2025
+50223,09-04-2025,Kolhapur,Electronics,Tablet,4,43854.23,5,Credit Card,New,Priya,175416.92,8770.85,166646.07,April,4,Q2,2025
+51076,09-04-2025,Nashik,Grocery,Tea,4,183.03,15,UPI,New,Rohan,732.12,109.82,622.3,April,4,Q2,2025
+50655,09-04-2025,Navi Mumbai,Grocery,Tea,6,480.94,15,UPI,Returning,Neha,2885.64,432.85,2452.79,April,4,Q2,2025
+51318,10-04-2025,Pune,Furniture,Bed,1,16959.17,0,UPI,New,Pooja,16959.17,0,16959.17,April,4,Q2,2025
+50037,10-04-2025,Nagpur,Grocery,Biscuits,5,83.62,10,Cash,Returning,Rahul,418.1,41.81,376.29,April,4,Q2,2025
+50999,11-04-2025,Navi Mumbai,Sports,Tennis Racket,8,4514.79,0,Credit Card,VIP,Amit,36118.32,0,36118.32,April,4,Q2,2025
+50629,11-04-2025,Mumbai,Electronics,Headphones,7,2528.51,5,UPI,New,Amit,17699.57,884.98,16814.59,April,4,Q2,2025
+50856,12-04-2025,Thane,Electronics,Monitor,3,17779.62,0,Net Banking,New,Neha,53338.86,0,53338.86,April,4,Q2,2025
+50043,13-04-2025,Nashik,Electronics,Headphones,7,2936.86,,Credit Card,VIP,Karan,20558.02,1027.9,19530.12,April,4,Q2,2025
+50260,13-04-2025,Navi Mumbai,Electronics,Monitor,8,27105.04,5,UPI,New,Vikas,216840.32,10842.02,205998.3,April,4,Q2,2025
+50186,13-04-2025,Thane,Furniture,Table,2,8730.86,10,Credit Card,New,Karan,17461.72,1746.17,15715.55,April,4,Q2,2025
+50959,13-04-2025,Navi Mumbai,Electronics,Headphones,7,5729.31,5,UPI,Returning,Amit,40105.17,2005.26,38099.91,April,4,Q2,2025
+50979,14-04-2025,Pune,Clothing,T-Shirt,5,1522.91,10,Debit Card,Returning,Sneha,7614.55,761.46,6853.09,April,4,Q2,2025
+50715,14-04-2025,Pune,Grocery,Tea,4,490.48,5,Debit Card,VIP,Pooja,1961.92,98.1,1863.82,April,4,Q2,2025
+50759,14-04-2025,Kolhapur,Sports,Tennis Racket,2,6545.89,5,Cash,New,Priya,13091.78,654.59,12437.19,April,4,Q2,2025
+50111,14-04-2025,Pune,Grocery,Flour,3,51.24,10,Credit Card,VIP,Pooja,153.72,15.37,138.35,April,4,Q2,2025
+50293,14-04-2025,Kolhapur,Beauty,Perfume,1,3584.28,5,Credit Card,Returning,Neha,3584.28,179.21,3405.07,April,4,Q2,2025
+50627,14-04-2025,Nagpur,Grocery,Sugar,2,40.95,10,Cash,Returning,Vikas,81.9,8.19,73.71,April,4,Q2,2025
+50094,15-04-2025,Mumbai,Clothing,Shirt,4,1962.63,,,New,Karan,7850.52,1570.1,6280.42,April,4,Q2,2025
+50565,15-04-2025,Kolhapur,Grocery,Biscuits,7,142.4,15,Credit Card,New,Neha,996.8,149.52,847.28,April,4,Q2,2025
+50989,15-04-2025,Nashik,Grocery,Sugar,3,51.7,10,UPI,Returning,Anjali,155.1,15.51,139.59,April,4,Q2,2025
+50639,15-04-2025,Aurangabad,Grocery,Sugar,5,66.93,15,Net Banking,New,Rahul,334.65,50.2,284.45,April,4,Q2,2025
+50739,15-04-2025,Aurangabad,Grocery,Rice,2,774.15,10,Credit Card,New,Neha,1548.3,154.83,1393.47,April,4,Q2,2025
+50632,16-04-2025,Aurangabad,Sports,Football,2,568.13,10,Credit Card,New,Neha,1136.26,113.63,1022.63,April,4,Q2,2025
+50682,16-04-2025,Thane,Grocery,Tea,5,123.39,15,UPI,Returning,Rohan,616.95,92.54,524.41,April,4,Q2,2025
+50793,16-04-2025,Navi Mumbai,Clothing,Shirt,8,512.51,0,UPI,New,Priya,4100.08,0,4100.08,April,4,Q2,2025
+50553,16-04-2025,Thane,Clothing,Jeans,7,1787.71,10,UPI,VIP,Neha,12513.97,1251.4,11262.57,April,4,Q2,2025
+50473,16-04-2025,Thane,Electronics,Laptop,5,61911.23,15,Net Banking,New,Rohan,309556.15,46433.42,263122.73,April,4,Q2,2025
+51402,16-04-2025,Pune,Electronics,Keyboard,2,1060.02,5,Net Banking,New,Sneha,2120.04,106,2014.04,April,4,Q2,2025
+51040,17-04-2025,Kolhapur,Grocery,Rice,4,853.32,15,UPI,Returning,Amit,3413.28,511.99,2901.29,April,4,Q2,2025
+50311,18-04-2025,Thane,Grocery,Tea,2,133.26,10,Credit Card,Returning,Priya,266.52,26.65,239.87,April,4,Q2,2025
+50228,19-04-2025,Kolhapur,Grocery,Rice,4,1376.54,10,Debit Card,New,Karan,5506.16,550.62,4955.54,April,4,Q2,2025
+51098,19-04-2025,Nashik,Electronics,Monitor,8,10446.59,5,UPI,Returning,Vikas,83572.72,4178.64,79394.08,April,4,Q2,2025
+51006,19-04-2025,Nagpur,Furniture,Office Desk,1,18893.08,0,Cash,Returning,Karan,18893.08,0,18893.08,April,4,Q2,2025
+50779,20-04-2025,Pune,Furniture,Bed,5,13365.35,0,Credit Card,Returning,Rahul,66826.75,0,66826.75,April,4,Q2,2025
+50642,20-04-2025,Nagpur,Grocery,Rice,8,1664.65,,Credit Card,New,Anjali,13317.2,665.86,12651.34,April,4,Q2,2025
+50560,20-04-2025,Nashik,Clothing,Saree,8,5532.62,10,UPI,New,Sneha,44260.96,4426.1,39834.86,April,4,Q2,2025
+51446,20-04-2025,Aurangabad,Electronics,Tablet,3,13412.77,15,Debit Card,New,Rahul,40238.31,6035.75,34202.56,April,4,Q2,2025
+51073,21-04-2025,Thane,Electronics,Keyboard,1,4207.81,15,UPI,New,Pooja,4207.81,631.17,3576.64,April,4,Q2,2025
+50873,21-04-2025,Navi Mumbai,Clothing,Jeans,8,2017.02,0,Debit Card,New,Amit,16136.16,0,16136.16,April,4,Q2,2025
+50733,22-04-2025,Pune,Furniture,Sofa,2,40173.24,5,Credit Card,Returning,Sneha,80346.48,4017.32,76329.16,April,4,Q2,2025
+51358,22-04-2025,Nagpur,Grocery,Rice,2,1266.55,5,Debit Card,New,Amit,2533.1,126.66,2406.44,April,4,Q2,2025
+51225,22-04-2025,Mumbai,Grocery,Tea,2,183.04,5,UPI,VIP,Karan,366.08,18.3,347.78,April,4,Q2,2025
+50058,22-04-2025,Aurangabad,Electronics,Headphones,7,3216.85,5,UPI,New,Anjali,22517.95,1125.9,21392.05,April,4,Q2,2025
+50432,23-04-2025,Nagpur,Furniture,Bed,2,33233.11,15,Debit Card,Returning,Sneha,66466.22,9969.93,56496.29,April,4,Q2,2025
+50298,23-04-2025,Navi Mumbai,Electronics,Headphones,5,5737.04,10,Cash,Returning,Pooja,28685.2,2868.52,25816.68,April,4,Q2,2025
+50149,23-04-2025,Nashik,Electronics,Tablet,7,33711.57,10,UPI,VIP,Karan,235980.99,23598.1,212382.89,April,4,Q2,2025
+51376,23-04-2025,Aurangabad,Beauty,Sunscreen,8,780.26,10,UPI,VIP,Rohan,6242.08,624.21,5617.87,April,4,Q2,2025
+50304,23-04-2025,Aurangabad,Clothing,Saree,6,6836.54,5,Credit Card,New,Anjali,41019.24,2050.96,38968.28,April,4,Q2,2025
+51085,24-04-2025,Navi Mumbai,Sports,Tennis Racket,2,1501.21,15,Net Banking,New,Amit,3002.42,450.36,2552.06,April,4,Q2,2025
+50245,24-04-2025,Navi Mumbai,Electronics,Laptop,8,58903.02,10,Debit Card,New,Karan,471224.16,47122.42,424101.74,April,4,Q2,2025
+50691,24-04-2025,Nagpur,Grocery,Coffee,6,358.57,15,UPI,Returning,Pooja,2151.42,322.71,1828.71,April,4,Q2,2025
+50702,25-04-2025,Thane,Electronics,Smartwatch,4,5788.88,0,Credit Card,New,Vikas,23155.52,0,23155.52,April,4,Q2,2025
+51234,25-04-2025,Nashik,Electronics,Smartwatch,2,3793.28,15,Credit Card,New,Sneha,7586.56,1137.98,6448.58,April,4,Q2,2025
+50153,25-04-2025,Kolhapur,Electronics,Tablet,7,34963.26,10,UPI,Returning,Rohan,244742.82,24474.28,220268.54,April,4,Q2,2025
+51400,25-04-2025,Pune,Furniture,Table,8,8583.34,5,UPI,New,Priya,68666.72,3433.34,65233.38,April,4,Q2,2025
+50074,25-04-2025,Nagpur,Beauty,Moisturizer,5,896.63,10,UPI,New,Karan,4483.15,448.32,4034.83,April,4,Q2,2025
+50026,26-04-2025,Kolhapur,Beauty,Perfume,2,4075.19,10,UPI,Returning,Priya,8150.38,815.04,7335.34,April,4,Q2,2025
+50266,26-04-2025,Pune,Furniture,Office Desk,8,13861.19,20,Cash,Returning,Anjali,110889.52,22177.9,88711.62,April,4,Q2,2025
+51233,27-04-2025,Kolhapur,Electronics,Keyboard,2,3591.28,15,UPI,Returning,Priya,7182.56,1077.38,6105.18,April,4,Q2,2025
+50301,28-04-2025,Thane,Electronics,Laptop,3,87909.08,0,UPI,Returning,Neha,263727.24,0,263727.24,April,4,Q2,2025
+50411,28-04-2025,Mumbai,Grocery,Biscuits,5,137.43,5,Credit Card,VIP,Anjali,687.15,34.36,652.79,April,4,Q2,2025
+51037,28-04-2025,Mumbai,Grocery,Sugar,7,48.87,10,Credit Card,New,Anjali,342.09,34.21,307.88,April,4,Q2,2025
+50032,28-04-2025,Pune,Electronics,Headphones,3,2930.79,10,Debit Card,Returning,Pooja,8792.37,879.24,7913.13,April,4,Q2,2025
+50175,28-04-2025,Nagpur,Clothing,Jacket,7,4759.55,5,UPI,VIP,Amit,33316.85,1665.84,31651.01,April,4,Q2,2025
+50229,29-04-2025,Navi Mumbai,Sports,Cricket Bat,3,1051.47,,Cash,New,Anjali,3154.41,315.44,2838.97,April,4,Q2,2025
+50081,29-04-2025,Kolhapur,Beauty,Perfume,5,3941.6,0,Debit Card,New,Anjali,19708,0,19708,April,4,Q2,2025
+51367,30-04-2025,Nagpur,Furniture,Table,2,6243.38,5,UPI,New,Anjali,12486.76,624.34,11862.42,April,4,Q2,2025
+51380,01-05-2025,Kolhapur,Clothing,Jacket,7,5172.36,5,UPI,VIP,Vikas,36206.52,1810.33,34396.19,May,5,Q2,2025
+50154,01-05-2025,Navi Mumbai,Clothing,Jacket,1,3239.79,5,UPI,New,Pooja,3239.79,161.99,3077.8,May,5,Q2,2025
+51056,02-05-2025,Navi Mumbai,Grocery,Flour,7,61.19,0,UPI,Returning,Neha,428.33,0,428.33,May,5,Q2,2025
+51238,02-05-2025,Navi Mumbai,Clothing,Jacket,3,3361.55,0,Credit Card,VIP,Neha,10084.65,0,10084.65,May,5,Q2,2025
+51334,02-05-2025,Aurangabad,Sports,Running Shoes,8,2139.47,10,Credit Card,New,Amit,17115.76,1711.58,15404.18,May,5,Q2,2025
+50878,02-05-2025,Nashik,Furniture,Chair,2,3189.68,10,Debit Card,New,Sneha,6379.36,637.94,5741.42,May,5,Q2,2025
+51280,03-05-2025,Kolhapur,Clothing,Saree,7,5565.93,10,Credit Card,VIP,Priya,38961.51,3896.15,35065.36,May,5,Q2,2025
+51476,03-05-2025,Aurangabad,Furniture,Bed,4,15349.78,10,UPI,New,Vikas,61399.12,6139.91,55259.21,May,5,Q2,2025
+51068,03-05-2025,Kolhapur,Electronics,Tablet,6,29266.51,0,Cash,VIP,Pooja,175599.06,0,175599.06,May,5,Q2,2025
+50657,03-05-2025,Thane,Grocery,Oil,1,147.58,10,UPI,Returning,Vikas,147.58,14.76,132.82,May,5,Q2,2025
+51116,04-05-2025,Mumbai,Clothing,T-Shirt,3,522.54,0,Cash,Returning,Rohan,1567.62,0,1567.62,May,5,Q2,2025
+50579,05-05-2025,Nashik,Clothing,Kurta,4,2862.51,0,Credit Card,Returning,Sneha,11450.04,0,11450.04,May,5,Q2,2025
+50467,05-05-2025,Navi Mumbai,Grocery,Biscuits,6,111.32,0,Credit Card,Returning,Amit,667.92,0,667.92,May,5,Q2,2025
+50910,06-05-2025,Thane,Grocery,Tea,1,161,10,Credit Card,Returning,Anjali,161,16.1,144.9,May,5,Q2,2025
+51275,06-05-2025,Nagpur,Clothing,Saree,5,4653.19,10,Net Banking,New,Vikas,23265.95,2326.59,20939.36,May,5,Q2,2025
+50110,07-05-2025,Aurangabad,Electronics,Tablet,1,10542.79,15,UPI,VIP,Amit,10542.79,1581.42,8961.37,May,5,Q2,2025
+50390,07-05-2025,Nagpur,Beauty,Sunscreen,1,993.83,15,UPI,New,Vikas,993.83,149.07,844.76,May,5,Q2,2025
+50717,08-05-2025,Nashik,Beauty,Sunscreen,1,582.93,10,Debit Card,New,Rohan,582.93,58.29,524.64,May,5,Q2,2025
+50306,08-05-2025,Thane,Sports,Cricket Bat,1,1707.02,0,UPI,New,Sneha,1707.02,0,1707.02,May,5,Q2,2025
+50761,08-05-2025,Nagpur,Electronics,Smartwatch,6,9133.17,15,Debit Card,Returning,Neha,54799.02,8219.85,46579.17,May,5,Q2,2025
+50364,08-05-2025,Nashik,Clothing,T-Shirt,2,1647.36,0,Debit Card,Returning,Neha,3294.72,0,3294.72,May,5,Q2,2025
+50486,08-05-2025,Aurangabad,Sports,Yoga Mat,5,984.79,5,Debit Card,VIP,Sneha,4923.95,246.2,4677.75,May,5,Q2,2025
+50337,09-05-2025,Pune,Beauty,Shampoo,4,822.16,5,Credit Card,New,Karan,3288.64,164.43,3124.21,May,5,Q2,2025
+51307,09-05-2025,Thane,Furniture,Chair,5,1462.78,5,Debit Card,Returning,Rahul,7313.9,365.7,6948.2,May,5,Q2,2025
+50554,10-05-2025,Aurangabad,Clothing,Shirt,6,1397.56,0,Credit Card,Returning,Amit,8385.36,0,8385.36,May,5,Q2,2025
+50202,10-05-2025,Kolhapur,Electronics,Mobile,3,55374.64,10,Cash,New,Neha,166123.92,16612.39,149511.53,May,5,Q2,2025
+50667,10-05-2025,Nagpur,Grocery,Flour,4,66.17,15,Net Banking,VIP,Rohan,264.68,39.7,224.98,May,5,Q2,2025
+50679,10-05-2025,Thane,Sports,Badminton Racket,8,1695.36,0,UPI,New,Anjali,13562.88,0,13562.88,May,5,Q2,2025
+51024,11-05-2025,Nagpur,Sports,Football,1,1065.08,0,Cash,Returning,Rohan,1065.08,0,1065.08,May,5,Q2,2025
+50855,11-05-2025,Nagpur,Electronics,Tablet,3,11050.75,20,Credit Card,New,Anjali,33152.25,6630.45,26521.8,May,5,Q2,2025
+51379,12-05-2025,Mumbai,Grocery,Coffee,8,814.44,15,UPI,New,Anjali,6515.52,977.33,5538.19,May,5,Q2,2025
+50669,12-05-2025,Kolhapur,Electronics,Keyboard,1,2128.07,0,UPI,Returning,Rahul,2128.07,0,2128.07,May,5,Q2,2025
+50742,12-05-2025,Nashik,Grocery,Flour,4,57.62,10,Debit Card,VIP,Anjali,230.48,23.05,207.43,May,5,Q2,2025
+50650,13-05-2025,Aurangabad,Clothing,Jeans,1,3273.52,10,Credit Card,Returning,Amit,3273.52,327.35,2946.17,May,5,Q2,2025
+50866,13-05-2025,Mumbai,Clothing,Saree,5,4040.53,10,Cash,Returning,Rohan,20202.65,2020.26,18182.39,May,5,Q2,2025
+50505,13-05-2025,Kolhapur,Furniture,Bed,7,20009.7,20,Credit Card,Returning,Amit,140067.9,28013.58,112054.32,May,5,Q2,2025
+50280,13-05-2025,Nagpur,Beauty,Sunscreen,8,733.19,5,Credit Card,,Vikas,5865.52,293.28,5572.24,May,5,Q2,2025
+50847,13-05-2025,Kolhapur,Electronics,Headphones,1,4728.19,5,Debit Card,Returning,Rahul,4728.19,236.41,4491.78,May,5,Q2,2025
+50462,14-05-2025,Nashik,Clothing,Shirt,1,2349.04,15,UPI,New,Priya,2349.04,352.36,1996.68,May,5,Q2,2025
+51282,14-05-2025,Pune,Furniture,Chair,2,3767.89,0,UPI,Returning,Sneha,7535.78,0,7535.78,May,5,Q2,2025
+50987,15-05-2025,Thane,Furniture,Bed,8,49575.75,10,Debit Card,VIP,Anjali,396606,39660.6,356945.4,May,5,Q2,2025
+51486,16-05-2025,Navi Mumbai,Grocery,Oil,1,218.12,15,Credit Card,New,Amit,218.12,32.72,185.4,May,5,Q2,2025
+50137,16-05-2025,Nashik,Clothing,Jeans,1,3061.56,15,UPI,New,Karan,3061.56,459.23,2602.33,May,5,Q2,2025
+50238,16-05-2025,Kolhapur,Electronics,Headphones,8,898.63,10,Debit Card,New,Vikas,7189.04,718.9,6470.14,May,5,Q2,2025
+50767,16-05-2025,Pune,Furniture,Sofa,3,51223.37,0,Debit Card,New,Rohan,153670.11,0,153670.11,May,5,Q2,2025
+50120,17-05-2025,Thane,Clothing,Shirt,7,1400.96,15,UPI,Returning,Karan,9806.72,1471.01,8335.71,May,5,Q2,2025
+50744,18-05-2025,Navi Mumbai,Clothing,Kurta,3,1579.18,10,UPI,New,Priya,4737.54,473.75,4263.79,May,5,Q2,2025
+50497,18-05-2025,Pune,Clothing,T-Shirt,5,583.71,5,Credit Card,New,Amit,2918.55,145.93,2772.62,May,5,Q2,2025
+50542,18-05-2025,Navi Mumbai,Clothing,Jeans,7,1131.37,0,Debit Card,New,Vikas,7919.59,0,7919.59,May,5,Q2,2025
+50637,18-05-2025,Kolhapur,Clothing,Kurta,3,1017.14,0,UPI,New,Anjali,3051.42,0,3051.42,May,5,Q2,2025
+50336,18-05-2025,Pune,Electronics,Headphones,2,5619.02,0,Credit Card,Returning,Anjali,11238.04,0,11238.04,May,5,Q2,2025
+51197,19-05-2025,Nagpur,Sports,Badminton Racket,1,4795.39,10,Debit Card,New,Anjali,4795.39,479.54,4315.85,May,5,Q2,2025
+50695,19-05-2025,Pune,Electronics,Tablet,7,11020.43,0,Cash,New,Priya,77143.01,0,77143.01,May,5,Q2,2025
+50775,19-05-2025,Nagpur,Beauty,Shampoo,5,399.31,10,Debit Card,New,Sneha,1996.55,199.66,1796.89,May,5,Q2,2025
+51144,19-05-2025,Pune,Clothing,Shirt,3,520.99,0,Credit Card,VIP,Amit,1562.97,0,1562.97,May,5,Q2,2025
+50395,19-05-2025,Nashik,Grocery,Flour,3,62.5,5,UPI,Returning,Priya,187.5,9.38,178.12,May,5,Q2,2025
+50211,20-05-2025,Pune,Clothing,Kurta,3,2673.68,0,UPI,Returning,Pooja,8021.04,0,8021.04,May,5,Q2,2025
+50481,21-05-2025,Thane,Clothing,Saree,3,5690.23,0,UPI,New,Vikas,17070.69,0,17070.69,May,5,Q2,2025
+50434,21-05-2025,Nagpur,Electronics,Monitor,5,25284.15,10,Credit Card,VIP,Karan,126420.75,12642.08,113778.67,May,5,Q2,2025
+51142,21-05-2025,Aurangabad,Grocery,Coffee,8,466.99,5,Net Banking,New,Karan,3735.92,186.8,3549.12,May,5,Q2,2025
+50203,21-05-2025,Kolhapur,Electronics,Headphones,2,1884.38,0,Credit Card,New,Karan,3768.76,0,3768.76,May,5,Q2,2025
+50803,22-05-2025,Nashik,Clothing,Jacket,5,2235.01,15,Net Banking,Returning,Rahul,11175.05,1676.26,9498.79,May,5,Q2,2025
+51345,22-05-2025,Pune,Furniture,Table,4,5844.7,20,UPI,Returning,Rahul,23378.8,4675.76,18703.04,May,5,Q2,2025
+50806,23-05-2025,Navi Mumbai,Furniture,Bed,5,21856.76,15,UPI,New,Vikas,109283.8,16392.57,92891.23,May,5,Q2,2025
+50726,24-05-2025,Thane,Beauty,Face Wash,2,388.57,10,Net Banking,VIP,Neha,777.14,77.71,699.43,May,5,Q2,2025
+51347,24-05-2025,Nashik,Grocery,Oil,5,200.84,10,Credit Card,New,Rohan,1004.2,100.42,903.78,May,5,Q2,2025
+50927,24-05-2025,Kolhapur,Grocery,Coffee,5,625.06,0,Credit Card,Returning,Neha,3125.3,0,3125.3,May,5,Q2,2025
+50420,24-05-2025,Pune,Furniture,Bed,1,47428.26,0,Cash,New,Anjali,47428.26,0,47428.26,May,5,Q2,2025
+50708,25-05-2025,Thane,Beauty,Perfume,8,2590.76,10,UPI,Returning,Karan,20726.08,2072.61,18653.47,May,5,Q2,2025
+51185,25-05-2025,Aurangabad,Electronics,Tablet,2,19917.74,10,UPI,New,Sneha,39835.48,3983.55,35851.93,May,5,Q2,2025
+50248,25-05-2025,Aurangabad,Sports,Football,4,513.37,5,Cash,New,Karan,2053.48,102.67,1950.81,May,5,Q2,2025
+50482,26-05-2025,Nagpur,Furniture,Bed,4,29796.55,10,Cash,Returning,Pooja,119186.2,11918.62,107267.58,May,5,Q2,2025
+51078,26-05-2025,Pune,Furniture,Sofa,7,37468.63,5,Debit Card,New,Amit,262280.41,13114.02,249166.39,May,5,Q2,2025
+51494,26-05-2025,Nashik,Electronics,Keyboard,2,2008.24,5,Credit Card,New,Karan,4016.48,200.82,3815.66,May,5,Q2,2025
+50567,26-05-2025,Nagpur,Grocery,Oil,7,166.24,5,UPI,New,Karan,1163.68,58.18,1105.5,May,5,Q2,2025
+51343,27-05-2025,Thane,Beauty,Face Wash,2,216.93,5,UPI,VIP,Neha,433.86,21.69,412.17,May,5,Q2,2025
+50692,27-05-2025,Thane,Grocery,Flour,2,48.68,0,UPI,Returning,Rohan,97.36,0,97.36,May,5,Q2,2025
+50088,27-05-2025,Nagpur,Clothing,Jacket,5,4529.61,5,Debit Card,New,Amit,22648.05,1132.4,21515.65,May,5,Q2,2025
+50923,27-05-2025,Aurangabad,Sports,Running Shoes,7,9663.28,0,Cash,Returning,Rohan,67642.96,0,67642.96,May,5,Q2,2025
+51237,27-05-2025,Thane,Beauty,Sunscreen,1,824.48,5,UPI,Returning,Pooja,824.48,41.22,783.26,May,5,Q2,2025
+50512,28-05-2025,Nagpur,Grocery,Rice,8,1474.25,10,UPI,Returning,Karan,11794,1179.4,10614.6,May,5,Q2,2025
+51199,28-05-2025,Navi Mumbai,Furniture,Sofa,4,27177.9,0,Cash,Returning,Rahul,108711.6,0,108711.6,May,5,Q2,2025
+50899,28-05-2025,Nagpur,Electronics,Mobile,5,33929.84,5,Credit Card,New,Karan,169649.2,8482.46,161166.74,May,5,Q2,2025
+50418,29-05-2025,Pune,Grocery,Oil,4,160.28,15,UPI,New,Rohan,641.12,96.17,544.95,May,5,Q2,2025
+50514,29-05-2025,Mumbai,Beauty,Face Wash,6,198.15,10,UPI,Returning,Rahul,1188.9,118.89,1070.01,May,5,Q2,2025
+51055,29-05-2025,Pune,Sports,Yoga Mat,2,2377.31,5,Credit Card,New,Karan,4754.62,237.73,4516.89,May,5,Q2,2025
+50566,30-05-2025,Nashik,Clothing,T-Shirt,2,1476.31,5,UPI,Returning,Sneha,2952.62,147.63,2804.99,May,5,Q2,2025
+50130,01-06-2025,Mumbai,Clothing,Shirt,7,1913.27,5,UPI,New,Neha,13392.89,669.64,12723.25,June,6,Q2,2025
+50940,01-06-2025,Nagpur,Clothing,Jeans,7,1291.79,,Credit Card,Returning,Rohan,9042.53,452.13,8590.4,June,6,Q2,2025
+50809,01-06-2025,Pune,Grocery,Oil,4,139.32,0,UPI,VIP,Neha,557.28,0,557.28,June,6,Q2,2025
+50439,01-06-2025,Pune,Furniture,Table,8,9565.17,5,Debit Card,VIP,Karan,76521.36,3826.07,72695.29,June,6,Q2,2025
+50714,02-06-2025,Nashik,Grocery,Flour,4,41.72,0,Debit Card,VIP,Pooja,166.88,0,166.88,June,6,Q2,2025
+50406,02-06-2025,Thane,Sports,Tennis Racket,8,6698.17,0,UPI,New,Vikas,53585.36,0,53585.36,June,6,Q2,2025
+50389,02-06-2025,Nagpur,Furniture,Bookshelf,3,11661.33,5,Debit Card,Returning,Amit,34983.99,1749.2,33234.79,June,6,Q2,2025
+51437,03-06-2025,Kolhapur,Grocery,Coffee,5,211.8,15,Credit Card,Returning,Sneha,1059,158.85,900.15,June,6,Q2,2025
+50700,03-06-2025,Navi Mumbai,Clothing,Kurta,5,2333.26,5,Cash,VIP,Karan,11666.3,583.32,11082.98,June,6,Q2,2025
+50113,04-06-2025,Navi Mumbai,Sports,Cricket Bat,2,1377.87,15,Cash,New,Rahul,2755.74,413.36,2342.38,June,6,Q2,2025
+50459,04-06-2025,Pune,Electronics,Mobile,2,67013.17,10,UPI,Returning,Neha,134026.34,13402.63,120623.71,June,6,Q2,2025
+50444,05-06-2025,Aurangabad,Grocery,Rice,2,828.44,5,Cash,Returning,Rahul,1656.88,82.84,1574.04,June,6,Q2,2025
+50737,05-06-2025,Thane,Grocery,Biscuits,6,62.16,15,Net Banking,New,Priya,372.96,55.94,317.02,June,6,Q2,2025
+50005,05-06-2025,Nashik,Electronics,Keyboard,2,4675.61,,Credit Card,New,Amit,9351.22,1402.68,7948.54,June,6,Q2,2025
+51060,05-06-2025,Aurangabad,Clothing,Saree,1,6832.43,0,Credit Card,Returning,Karan,6832.43,0,6832.43,June,6,Q2,2025
+50839,06-06-2025,Pune,Clothing,Kurta,5,1475.82,15,Net Banking,New,Priya,7379.1,1106.86,6272.24,June,6,Q2,2025
+51134,06-06-2025,Navi Mumbai,Grocery,Tea,2,439.25,0,Credit Card,New,Karan,878.5,0,878.5,June,6,Q2,2025
+51168,07-06-2025,Navi Mumbai,Clothing,Jacket,3,3765.96,5,Net Banking,New,Anjali,11297.88,564.89,10732.99,June,6,Q2,2025
+50995,07-06-2025,Aurangabad,Grocery,Tea,7,302.36,0,Cash,Returning,Vikas,2116.52,0,2116.52,June,6,Q2,2025
+50875,07-06-2025,Nashik,Electronics,Monitor,5,10841.84,15,UPI,Returning,Rahul,54209.2,8131.38,46077.82,June,6,Q2,2025
+50007,07-06-2025,Nagpur,Electronics,Laptop,1,69902.11,20,Debit Card,VIP,Rohan,69902.11,13980.42,55921.69,June,6,Q2,2025
+50307,07-06-2025,Mumbai,Clothing,Jacket,7,4832.54,10,UPI,Returning,Karan,33827.78,3382.78,30445,June,6,Q2,2025
+50810,07-06-2025,Kolhapur,Electronics,Smartwatch,1,2182.55,10,Cash,New,Rohan,2182.55,218.26,1964.29,June,6,Q2,2025
+50720,08-06-2025,Aurangabad,Furniture,Bookshelf,3,4112.83,5,Credit Card,VIP,Anjali,12338.49,616.92,11721.57,June,6,Q2,2025
+51218,09-06-2025,Aurangabad,Furniture,Sofa,1,35442.53,,UPI,Returning,Sneha,35442.53,1772.13,33670.4,June,6,Q2,2025
+50144,10-06-2025,Nashik,Grocery,Tea,3,390.51,15,Debit Card,Returning,Vikas,1171.53,175.73,995.8,June,6,Q2,2025
+50294,10-06-2025,Pune,Grocery,Oil,1,122.5,20,Credit Card,New,Pooja,122.5,24.5,98,June,6,Q2,2025
+51386,10-06-2025,Mumbai,Grocery,Oil,8,151.97,15,UPI,New,Rohan,1215.76,182.36,1033.4,June,6,Q2,2025
+50414,10-06-2025,Nashik,Clothing,Saree,5,4571.04,5,UPI,Returning,Karan,22855.2,1142.76,21712.44,June,6,Q2,2025
+50609,11-06-2025,Aurangabad,Clothing,Shirt,4,651.32,10,UPI,Returning,Sneha,2605.28,260.53,2344.75,June,6,Q2,2025
+50291,11-06-2025,Aurangabad,Electronics,Tablet,7,43206.05,10,UPI,New,Priya,302442.35,30244.24,272198.11,June,6,Q2,2025
+50535,12-06-2025,Nagpur,Furniture,Sofa,2,30609.87,5,UPI,Returning,Amit,61219.74,3060.99,58158.75,June,6,Q2,2025
+51028,12-06-2025,Kolhapur,Beauty,Perfume,4,1841.34,15,Credit Card,New,Sneha,7365.36,1104.8,6260.56,June,6,Q2,2025
+50267,12-06-2025,Mumbai,Furniture,Sofa,6,37236.65,10,UPI,Returning,Rahul,223419.9,22341.99,201077.91,June,6,Q2,2025
+50169,13-06-2025,Nashik,Electronics,Laptop,5,62379.54,10,Net Banking,New,Rahul,311897.7,31189.77,280707.93,June,6,Q2,2025
+51286,13-06-2025,Navi Mumbai,Clothing,Shirt,8,1765.61,0,Credit Card,New,Anjali,14124.88,0,14124.88,June,6,Q2,2025
+50620,13-06-2025,Thane,Furniture,Bed,7,45178.14,15,Debit Card,Returning,Priya,316246.98,47437.05,268809.93,June,6,Q2,2025
+51127,14-06-2025,Kolhapur,Electronics,Headphones,6,2245.55,5,UPI,VIP,Neha,13473.3,673.66,12799.64,June,6,Q2,2025
+50537,14-06-2025,Kolhapur,Beauty,Sunscreen,1,845.86,5,UPI,Returning,Vikas,845.86,42.29,803.57,June,6,Q2,2025
+50578,14-06-2025,Mumbai,Sports,Badminton Racket,7,3837.76,5,UPI,New,Neha,26864.32,1343.22,25521.1,June,6,Q2,2025
+50387,14-06-2025,Aurangabad,Grocery,Coffee,3,293.04,15,UPI,VIP,Rahul,879.12,131.87,747.25,June,6,Q2,2025
+51248,15-06-2025,Aurangabad,Electronics,Keyboard,8,2808.76,5,Debit Card,Returning,Amit,22470.08,1123.5,21346.58,June,6,Q2,2025
+50693,15-06-2025,Kolhapur,Clothing,Saree,6,3016.04,15,Credit Card,Returning,Rohan,18096.24,2714.44,15381.8,June,6,Q2,2025
+50253,15-06-2025,Nagpur,Beauty,Face Wash,5,188.13,10,UPI,New,Rohan,940.65,94.06,846.59,June,6,Q2,2025
+51454,15-06-2025,Aurangabad,Clothing,T-Shirt,4,395.53,15,Debit Card,Returning,Priya,1582.12,237.32,1344.8,June,6,Q2,2025
+50880,16-06-2025,Mumbai,Grocery,Biscuits,3,81.22,15,Debit Card,Returning,Amit,243.66,36.55,207.11,June,6,Q2,2025
+51417,16-06-2025,Thane,Electronics,Keyboard,7,1588.3,15,Credit Card,Returning,Anjali,11118.1,1667.72,9450.38,June,6,Q2,2025
+51129,16-06-2025,Navi Mumbai,Grocery,Tea,3,495.7,5,Credit Card,Returning,Vikas,1487.1,74.36,1412.74,June,6,Q2,2025
+50569,16-06-2025,Aurangabad,Sports,Cricket Bat,1,3245.12,10,Credit Card,New,Neha,3245.12,324.51,2920.61,June,6,Q2,2025
+51008,17-06-2025,Pune,Beauty,Shampoo,3,711.72,20,Credit Card,New,Sneha,2135.16,427.03,1708.13,June,6,Q2,2025
+50563,17-06-2025,Nagpur,Electronics,Smartwatch,1,5472.6,5,UPI,Returning,Neha,5472.6,273.63,5198.97,June,6,Q2,2025
+51089,18-06-2025,Pune,Sports,Running Shoes,8,5667.95,5,Credit Card,New,Rahul,45343.6,2267.18,43076.42,June,6,Q2,2025
+50615,18-06-2025,Nagpur,Beauty,Lipstick,8,1229.38,0,UPI,New,Sneha,9835.04,0,9835.04,June,6,Q2,2025
+50478,19-06-2025,Pune,Clothing,Saree,7,1318.17,10,UPI,Returning,Neha,9227.19,922.72,8304.47,June,6,Q2,2025
+51258,19-06-2025,Pune,Clothing,Kurta,7,2143.81,20,UPI,New,Pooja,15006.67,3001.33,12005.34,June,6,Q2,2025
+51194,19-06-2025,Thane,Clothing,Saree,7,5186.06,5,Cash,New,Anjali,36302.42,1815.12,34487.3,June,6,Q2,2025
+51330,20-06-2025,Navi Mumbai,Clothing,Saree,5,3230.83,10,Credit Card,New,Anjali,16154.15,1615.42,14538.73,June,6,Q2,2025
+51296,20-06-2025,Aurangabad,Electronics,Keyboard,1,2002.17,0,UPI,New,Vikas,2002.17,0,2002.17,June,6,Q2,2025
+50936,21-06-2025,Mumbai,Grocery,Flour,7,73.59,10,Cash,New,Priya,515.13,51.51,463.62,June,6,Q2,2025
+50077,22-06-2025,Navi Mumbai,Beauty,Face Wash,8,391.5,10,Debit Card,VIP,Anjali,3132,313.2,2818.8,June,6,Q2,2025
+51443,22-06-2025,Aurangabad,Furniture,Chair,2,4183.32,0,Credit Card,New,Pooja,8366.64,0,8366.64,June,6,Q2,2025
+50594,25-06-2025,Nagpur,Grocery,Biscuits,4,25.88,10,UPI,Returning,Anjali,103.52,10.35,93.17,June,6,Q2,2025
+50470,25-06-2025,Kolhapur,Sports,Football,5,1782.31,,Credit Card,Returning,Karan,8911.55,891.16,8020.39,June,6,Q2,2025
+50853,25-06-2025,Pune,Electronics,Mobile,7,14026.48,5,UPI,VIP,Rahul,98185.36,4909.27,93276.09,June,6,Q2,2025
+51323,25-06-2025,Pune,Beauty,Moisturizer,1,894.02,10,Credit Card,Returning,Neha,894.02,89.4,804.62,June,6,Q2,2025
+50315,26-06-2025,Thane,Beauty,Moisturizer,6,446.29,15,UPI,Returning,Rahul,2677.74,401.66,2276.08,June,6,Q2,2025
+50165,26-06-2025,Thane,Electronics,Laptop,7,79122.03,10,Credit Card,VIP,Priya,553854.21,55385.42,498468.79,June,6,Q2,2025
+50823,26-06-2025,Aurangabad,Grocery,Tea,3,204.29,5,Debit Card,New,Pooja,612.87,30.64,582.23,June,6,Q2,2025
+50447,26-06-2025,Mumbai,Sports,Yoga Mat,3,1636.76,10,UPI,VIP,Vikas,4910.28,491.03,4419.25,June,6,Q2,2025
+51191,27-06-2025,Thane,Electronics,Smartwatch,3,3429.97,5,Debit Card,Returning,Sneha,10289.91,514.5,9775.41,June,6,Q2,2025
+50698,27-06-2025,Nagpur,Clothing,Jacket,6,2490.4,10,UPI,VIP,Priya,14942.4,1494.24,13448.16,June,6,Q2,2025
+51265,27-06-2025,Kolhapur,Electronics,Headphones,1,4327.07,5,Credit Card,Returning,Pooja,4327.07,216.35,4110.72,June,6,Q2,2025
+50711,28-06-2025,Kolhapur,Furniture,Sofa,2,27856.48,10,Credit Card,New,Rahul,55712.96,5571.3,50141.66,June,6,Q2,2025
+51026,29-06-2025,Thane,Clothing,Kurta,4,1904.2,5,UPI,New,Vikas,7616.8,380.84,7235.96,June,6,Q2,2025
+50177,29-06-2025,Mumbai,Furniture,Bookshelf,2,11810.98,10,Credit Card,Returning,Neha,23621.96,2362.2,21259.76,June,6,Q2,2025
+51220,30-06-2025,Pune,Grocery,Oil,2,213.69,5,Credit Card,New,Karan,427.38,21.37,406.01,June,6,Q2,2025
+50254,30-06-2025,Navi Mumbai,Grocery,Rice,5,1329.82,5,Net Banking,New,Priya,6649.1,332.46,6316.64,June,6,Q2,2025
+50325,30-06-2025,Pune,Sports,Football,5,1001.38,10,UPI,Returning,Sneha,5006.9,500.69,4506.21,June,6,Q2,2025
+50270,01-07-2025,Nagpur,Grocery,Biscuits,2,142.19,10,UPI,New,Rohan,284.38,28.44,255.94,July,7,Q3,2025
+50106,02-07-2025,Kolhapur,Grocery,Coffee,6,513.26,0,Credit Card,New,Rohan,3079.56,0,3079.56,July,7,Q3,2025
+50941,02-07-2025,Mumbai,Grocery,Rice,5,1607.07,,Cash,New,Anjali,8035.35,803.54,7231.81,July,7,Q3,2025
+51288,02-07-2025,Navi Mumbai,Grocery,Rice,1,1792.31,10,UPI,Returning,Neha,1792.31,179.23,1613.08,July,7,Q3,2025
+51305,03-07-2025,Nagpur,Furniture,Bed,3,23970.4,10,UPI,New,Anjali,71911.2,7191.12,64720.08,July,7,Q3,2025
+51458,03-07-2025,Navi Mumbai,Furniture,Chair,4,1520.17,10,Credit Card,VIP,Karan,6080.68,608.07,5472.61,July,7,Q3,2025
+50485,03-07-2025,Nashik,Clothing,Shirt,4,1752.64,5,Net Banking,Returning,Amit,7010.56,350.53,6660.03,July,7,Q3,2025
+50460,05-07-2025,Aurangabad,Electronics,Headphones,8,7601.59,0,Net Banking,New,Anjali,60812.72,0,60812.72,July,7,Q3,2025
+51049,05-07-2025,Nagpur,Beauty,Sunscreen,7,305.98,15,UPI,New,Amit,2141.86,321.28,1820.58,July,7,Q3,2025
+50760,05-07-2025,Aurangabad,Beauty,Face Wash,8,221.78,10,Credit Card,New,Vikas,1774.24,177.42,1596.82,July,7,Q3,2025
+51310,05-07-2025,Nagpur,Beauty,Perfume,6,2628.62,0,Debit Card,Returning,Rohan,15771.72,0,15771.72,July,7,Q3,2025
+50543,06-07-2025,Nagpur,Grocery,Sugar,1,69.75,5,Debit Card,VIP,Amit,69.75,3.49,66.26,July,7,Q3,2025
+51138,06-07-2025,Navi Mumbai,Clothing,Shirt,4,1288.27,10,UPI,Returning,Vikas,5153.08,515.31,4637.77,July,7,Q3,2025
+50966,06-07-2025,Navi Mumbai,Grocery,Biscuits,3,79.89,5,UPI,VIP,Rohan,239.67,11.98,227.69,July,7,Q3,2025
+51119,06-07-2025,Pune,Grocery,Sugar,5,56.75,20,UPI,Returning,Neha,283.75,56.75,227,July,7,Q3,2025
+50635,07-07-2025,Mumbai,Electronics,Mobile,3,69387.04,0,UPI,Returning,Priya,208161.12,0,208161.12,July,7,Q3,2025
+51319,08-07-2025,Kolhapur,Electronics,Monitor,5,17691.86,10,Credit Card,Returning,Amit,88459.3,8845.93,79613.37,July,7,Q3,2025
+51080,08-07-2025,Nagpur,Sports,Cricket Bat,7,2027.26,0,UPI,Returning,Karan,14190.82,0,14190.82,July,7,Q3,2025
+51251,08-07-2025,Aurangabad,Beauty,Moisturizer,8,817.53,5,Net Banking,New,Amit,6540.24,327.01,6213.23,July,7,Q3,2025
+50050,09-07-2025,Pune,Electronics,Tablet,3,32212.37,5,Net Banking,VIP,Karan,96637.11,4831.86,91805.25,July,7,Q3,2025
+50086,10-07-2025,Mumbai,Grocery,Biscuits,8,99.47,10,Cash,New,Karan,795.76,79.58,716.18,July,7,Q3,2025
+50610,10-07-2025,Pune,Furniture,Sofa,2,31269.36,10,Credit Card,Returning,Vikas,62538.72,6253.87,56284.85,July,7,Q3,2025
+50890,10-07-2025,Navi Mumbai,Grocery,Oil,5,129.33,0,Debit Card,Returning,Neha,646.65,0,646.65,July,7,Q3,2025
+50285,11-07-2025,Mumbai,Clothing,T-Shirt,7,1515.39,5,Credit Card,Returning,Anjali,10607.73,530.39,10077.34,July,7,Q3,2025
+50185,11-07-2025,Nagpur,Grocery,Biscuits,2,89.32,15,Cash,New,Karan,178.64,26.8,151.84,July,7,Q3,2025
+51461,11-07-2025,Nashik,Grocery,Oil,7,214.36,15,Debit Card,New,Vikas,1500.52,225.08,1275.44,July,7,Q3,2025
+50961,11-07-2025,Kolhapur,Electronics,Headphones,5,6828.29,10,Debit Card,VIP,Karan,34141.45,3414.14,30727.31,July,7,Q3,2025
+50581,11-07-2025,Thane,Grocery,Coffee,3,797.35,10,Cash,Returning,Karan,2392.05,239.2,2152.85,July,7,Q3,2025
+51039,11-07-2025,Pune,Electronics,Headphones,3,4567.13,0,Debit Card,Returning,Karan,13701.39,0,13701.39,July,7,Q3,2025
+50474,12-07-2025,Aurangabad,Sports,Cricket Bat,2,7373.1,5,UPI,Returning,Rohan,14746.2,737.31,14008.89,July,7,Q3,2025
+50391,12-07-2025,Kolhapur,Sports,Yoga Mat,6,1794.82,0,UPI,New,Amit,10768.92,0,10768.92,July,7,Q3,2025
+50962,13-07-2025,Aurangabad,Clothing,Jacket,5,2073.16,0,Credit Card,New,Pooja,10365.8,0,10365.8,July,7,Q3,2025
+50163,14-07-2025,Nagpur,Clothing,Jacket,8,5336.63,5,Credit Card,,Karan,42693.04,2134.65,40558.39,July,7,Q3,2025
+51262,14-07-2025,Pune,Beauty,Shampoo,6,674.85,0,Debit Card,Returning,Amit,4049.1,0,4049.1,July,7,Q3,2025
+50894,15-07-2025,Kolhapur,Grocery,Oil,2,208.96,0,UPI,Returning,Vikas,417.92,0,417.92,July,7,Q3,2025
+50371,15-07-2025,Thane,Electronics,Monitor,8,23546.86,0,UPI,Returning,Neha,188374.88,0,188374.88,July,7,Q3,2025
+50061,16-07-2025,Pune,Grocery,Tea,4,593.12,10,UPI,Returning,Vikas,2372.48,237.25,2135.23,July,7,Q3,2025
+51381,16-07-2025,Navi Mumbai,Electronics,Tablet,1,10663.09,0,Cash,New,Neha,10663.09,0,10663.09,July,7,Q3,2025
+50152,16-07-2025,Nagpur,Grocery,Tea,8,203.62,15,Debit Card,New,Neha,1628.96,244.34,1384.62,July,7,Q3,2025
+51148,17-07-2025,Navi Mumbai,Furniture,Sofa,7,42806.92,10,UPI,New,Karan,299648.44,29964.84,269683.6,July,7,Q3,2025
+50493,17-07-2025,Mumbai,Grocery,Oil,5,153.6,15,Credit Card,New,Sneha,768,115.2,652.8,July,7,Q3,2025
+51092,18-07-2025,Kolhapur,Clothing,T-Shirt,2,1395.74,0,UPI,New,Vikas,2791.48,0,2791.48,July,7,Q3,2025
+50124,18-07-2025,Pune,Electronics,Keyboard,6,4752.95,0,Debit Card,Returning,Neha,28517.7,0,28517.7,July,7,Q3,2025
+50833,18-07-2025,Navi Mumbai,Electronics,Laptop,2,71317.74,5,Cash,VIP,Pooja,142635.48,7131.77,135503.71,July,7,Q3,2025
+50331,19-07-2025,Thane,Grocery,Flour,4,71.04,5,UPI,New,Pooja,284.16,14.21,269.95,July,7,Q3,2025
+51388,19-07-2025,Kolhapur,Electronics,Smartwatch,8,3358,10,Net Banking,Returning,Anjali,26864,2686.4,24177.6,July,7,Q3,2025
+50701,20-07-2025,Nagpur,Clothing,Jeans,8,1148.9,10,Debit Card,New,Rohan,9191.2,919.12,8272.08,July,7,Q3,2025
+50597,20-07-2025,Nashik,Furniture,Sofa,5,41163.77,0,Debit Card,New,Karan,205818.85,0,205818.85,July,7,Q3,2025
+50452,21-07-2025,Navi Mumbai,Clothing,Saree,1,3635.71,10,UPI,New,Priya,3635.71,363.57,3272.14,July,7,Q3,2025
+50431,21-07-2025,Aurangabad,Electronics,Tablet,5,30181.49,20,UPI,New,Karan,150907.45,30181.49,120725.96,July,7,Q3,2025
+50590,21-07-2025,Navi Mumbai,Electronics,Keyboard,8,3418.62,15,Cash,VIP,Karan,27348.96,4102.34,23246.62,July,7,Q3,2025
+51411,22-07-2025,Nashik,Electronics,Tablet,8,43782.34,10,UPI,Returning,Pooja,350258.72,35025.87,315232.85,July,7,Q3,2025
+51101,22-07-2025,Thane,Electronics,Laptop,1,52314.21,15,Debit Card,Returning,Sneha,52314.21,7847.13,44467.08,July,7,Q3,2025
+50451,22-07-2025,Kolhapur,Beauty,Shampoo,7,218.53,0,Cash,VIP,Priya,1529.71,0,1529.71,July,7,Q3,2025
+50496,22-07-2025,Thane,Grocery,Flour,3,76.6,0,UPI,New,Karan,229.8,0,229.8,July,7,Q3,2025
+51267,22-07-2025,Aurangabad,Grocery,Oil,4,193.97,10,UPI,New,Rohan,775.88,77.59,698.29,July,7,Q3,2025
+51206,23-07-2025,Navi Mumbai,Beauty,Lipstick,3,1493.23,10,Cash,New,Pooja,4479.69,447.97,4031.72,July,7,Q3,2025
+50980,23-07-2025,Nagpur,Clothing,T-Shirt,7,1641.61,10,Credit Card,Returning,Anjali,11491.27,1149.13,10342.14,July,7,Q3,2025
+50322,23-07-2025,Aurangabad,Furniture,Bed,4,42402.79,5,Debit Card,New,Rohan,169611.16,8480.56,161130.6,July,7,Q3,2025
+51479,23-07-2025,Nashik,Beauty,Perfume,1,3544.9,10,Cash,New,Karan,3544.9,354.49,3190.41,July,7,Q3,2025
+50235,23-07-2025,Nashik,Electronics,Mobile,2,63719.23,15,Credit Card,Returning,Amit,127438.46,19115.77,108322.69,July,7,Q3,2025
+50150,24-07-2025,Nashik,Grocery,Coffee,5,718.88,0,Debit Card,Returning,Sneha,3594.4,0,3594.4,July,7,Q3,2025
+51259,24-07-2025,Pune,Electronics,Smartwatch,3,10240.68,15,Credit Card,Returning,Rohan,30722.04,4608.31,26113.73,July,7,Q3,2025
+50786,24-07-2025,Thane,Sports,Badminton Racket,2,4771.05,5,Credit Card,Returning,Priya,9542.1,477.1,9065,July,7,Q3,2025
+51149,24-07-2025,Thane,Beauty,Shampoo,6,426.13,10,Credit Card,Returning,Karan,2556.78,255.68,2301.1,July,7,Q3,2025
+50029,25-07-2025,Nagpur,Clothing,Jacket,5,3578.3,15,Debit Card,Returning,Anjali,17891.5,2683.72,15207.78,July,7,Q3,2025
+50935,26-07-2025,Aurangabad,Electronics,Mobile,1,43708.39,10,Cash,New,Rahul,43708.39,4370.84,39337.55,July,7,Q3,2025
+51130,26-07-2025,Mumbai,Grocery,Sugar,4,67.47,5,UPI,Returning,Neha,269.88,13.49,256.39,July,7,Q3,2025
+51475,27-07-2025,Nagpur,Grocery,Sugar,8,46.53,10,Cash,New,Rohan,372.24,37.22,335.02,July,7,Q3,2025
+50249,27-07-2025,Aurangabad,Sports,Cricket Bat,5,9445.72,0,Credit Card,New,Vikas,47228.6,0,47228.6,July,7,Q3,2025
+50528,27-07-2025,Aurangabad,Grocery,Coffee,8,529.75,0,UPI,VIP,Rohan,4238,0,4238,July,7,Q3,2025
+51115,27-07-2025,Nashik,Clothing,Jeans,8,2441.2,0,Net Banking,VIP,Neha,19529.6,0,19529.6,July,7,Q3,2025
+50625,27-07-2025,Nashik,Clothing,Jacket,1,3405.97,10,Credit Card,New,Vikas,3405.97,340.6,3065.37,July,7,Q3,2025
+50888,28-07-2025,Nashik,Grocery,Rice,8,579.31,,UPI,New,Rahul,4634.48,926.9,3707.58,July,7,Q3,2025
+50918,28-07-2025,Nashik,Sports,Yoga Mat,3,458.47,10,UPI,New,Karan,1375.41,137.54,1237.87,July,7,Q3,2025
+50344,28-07-2025,Thane,Grocery,Tea,2,127.61,5,Credit Card,New,Pooja,255.22,12.76,242.46,July,7,Q3,2025
+50273,29-07-2025,Pune,Beauty,Moisturizer,8,1032.83,5,UPI,New,Amit,8262.64,413.13,7849.51,July,7,Q3,2025
+50762,29-07-2025,Nashik,Grocery,Tea,8,321.13,5,Cash,VIP,Rahul,2569.04,128.45,2440.59,July,7,Q3,2025
+50075,29-07-2025,Pune,Furniture,Office Desk,7,14914.08,15,Credit Card,Returning,Vikas,104398.56,15659.78,88738.78,July,7,Q3,2025
+51046,29-07-2025,Kolhapur,Clothing,Shirt,8,1589.54,5,Credit Card,New,Rohan,12716.32,635.82,12080.5,July,7,Q3,2025
+50976,29-07-2025,Nagpur,Grocery,Oil,7,175.44,5,Net Banking,VIP,Priya,1228.08,61.4,1166.68,July,7,Q3,2025
+51093,30-07-2025,Nashik,Clothing,Jacket,1,2109.1,0,Cash,VIP,Anjali,2109.1,0,2109.1,July,7,Q3,2025
+51057,30-07-2025,Pune,Furniture,Table,5,9591.5,0,Credit Card,Returning,Vikas,47957.5,0,47957.5,July,7,Q3,2025
+50577,30-07-2025,Pune,Electronics,Smartwatch,5,7440.78,20,Credit Card,Returning,Neha,37203.9,7440.78,29763.12,July,7,Q3,2025
+50302,31-07-2025,Nashik,Clothing,Jeans,1,3192.2,0,Credit Card,New,Neha,3192.2,0,3192.2,July,7,Q3,2025
+50511,01-08-2025,Pune,Clothing,Jacket,6,2931.22,5,Debit Card,Returning,Neha,17587.32,879.37,16707.95,August,8,Q3,2025
+50090,01-08-2025,Aurangabad,Clothing,Jeans,3,3202.61,5,UPI,Returning,Neha,9607.83,480.39,9127.44,August,8,Q3,2025
+50783,01-08-2025,Pune,Grocery,Oil,4,120.97,5,Debit Card,New,Neha,483.88,24.19,459.69,August,8,Q3,2025
+50323,01-08-2025,Navi Mumbai,Furniture,Table,6,10961.25,0,UPI,Returning,Vikas,65767.5,0,65767.5,August,8,Q3,2025
+51331,01-08-2025,Thane,Clothing,Shirt,6,709.35,5,Credit Card,New,Vikas,4256.1,212.8,4043.3,August,8,Q3,2025
+50018,02-08-2025,Navi Mumbai,Clothing,Kurta,8,1324.45,0,Credit Card,Returning,Amit,10595.6,0,10595.6,August,8,Q3,2025
+50582,02-08-2025,Thane,Sports,Running Shoes,1,10136.19,15,Net Banking,VIP,Karan,10136.19,1520.43,8615.76,August,8,Q3,2025
+51210,02-08-2025,Nashik,Sports,Running Shoes,8,11134.2,15,UPI,VIP,Priya,89073.6,13361.04,75712.56,August,8,Q3,2025
+50674,03-08-2025,Nashik,Clothing,T-Shirt,2,1068.45,15,Debit Card,New,Rohan,2136.9,320.54,1816.36,August,8,Q3,2025
+50605,03-08-2025,Mumbai,Electronics,Smartwatch,4,2616.91,0,Credit Card,New,Pooja,10467.64,0,10467.64,August,8,Q3,2025
+50960,03-08-2025,Nagpur,Furniture,Table,6,11124.35,0,Cash,New,Rahul,66746.1,0,66746.1,August,8,Q3,2025
+51287,04-08-2025,Pune,Electronics,Smartwatch,6,11880.42,0,Credit Card,Returning,Vikas,71282.52,0,71282.52,August,8,Q3,2025
+50457,04-08-2025,Kolhapur,Electronics,Laptop,4,58227.71,10,Credit Card,Returning,Anjali,232910.84,23291.08,209619.76,August,8,Q3,2025
+50166,05-08-2025,Mumbai,Beauty,Face Wash,6,318.8,10,Debit Card,VIP,Rohan,1912.8,191.28,1721.52,August,8,Q3,2025
+51123,05-08-2025,Thane,Beauty,Shampoo,8,557.04,10,Cash,New,Pooja,4456.32,445.63,4010.69,August,8,Q3,2025
+51393,06-08-2025,Thane,Electronics,Laptop,6,63731.83,0,UPI,New,Anjali,382390.98,0,382390.98,August,8,Q3,2025
+51401,06-08-2025,Aurangabad,Electronics,Keyboard,7,4156.15,0,Net Banking,Returning,Neha,29093.05,0,29093.05,August,8,Q3,2025
+50171,06-08-2025,Pune,Furniture,Bed,7,19044.17,15,Credit Card,VIP,Priya,133309.19,19996.38,113312.81,August,8,Q3,2025
+51011,06-08-2025,Nagpur,Grocery,Tea,2,386.32,10,UPI,Returning,Priya,772.64,77.26,695.38,August,8,Q3,2025
+50312,07-08-2025,Nashik,Electronics,Smartwatch,2,4615.73,15,UPI,New,Neha,9231.46,1384.72,7846.74,August,8,Q3,2025
+50139,07-08-2025,Thane,Grocery,Coffee,5,429.93,0,Credit Card,New,Anjali,2149.65,0,2149.65,August,8,Q3,2025
+51214,07-08-2025,Aurangabad,Beauty,Face Wash,2,438.69,10,UPI,Returning,Rohan,877.38,87.74,789.64,August,8,Q3,2025
+50354,08-08-2025,Aurangabad,Electronics,Laptop,2,54327.28,5,Cash,Returning,Amit,108654.56,5432.73,103221.83,August,8,Q3,2025
+50939,09-08-2025,Mumbai,Electronics,Monitor,4,26986.2,5,UPI,New,Rahul,107944.8,5397.24,102547.56,August,8,Q3,2025
+51110,09-08-2025,Thane,Electronics,Monitor,3,10562.51,0,Debit Card,VIP,Amit,31687.53,0,31687.53,August,8,Q3,2025
+50098,09-08-2025,Thane,Grocery,Oil,3,207.42,0,UPI,New,Amit,622.26,0,622.26,August,8,Q3,2025
+50282,09-08-2025,Thane,Grocery,Tea,6,134.9,0,UPI,New,Neha,809.4,0,809.4,August,8,Q3,2025
+50100,10-08-2025,Thane,Electronics,Keyboard,4,1247.76,20,Net Banking,Returning,Priya,4991.04,998.21,3992.83,August,8,Q3,2025
+51012,10-08-2025,Nashik,Sports,Football,2,1141.86,5,Cash,New,Karan,2283.72,114.19,2169.53,August,8,Q3,2025
+50004,10-08-2025,Kolhapur,Clothing,Saree,4,1055.75,10,Debit Card,New,Sneha,4223,422.3,3800.7,August,8,Q3,2025
+50768,11-08-2025,Nashik,Beauty,Lipstick,7,315.49,5,Net Banking,Returning,Neha,2208.43,110.42,2098.01,August,8,Q3,2025
+50207,11-08-2025,Aurangabad,Electronics,Monitor,8,17135.3,10,Credit Card,Returning,Priya,137082.4,13708.24,123374.16,August,8,Q3,2025
+50814,12-08-2025,Nagpur,Sports,Tennis Racket,3,3657.99,5,UPI,Returning,Anjali,10973.97,548.7,10425.27,August,8,Q3,2025
+50262,12-08-2025,Thane,Sports,Running Shoes,7,5400.6,5,Cash,Returning,Anjali,37804.2,1890.21,35913.99,August,8,Q3,2025
+51035,13-08-2025,Nashik,Electronics,Mobile,1,15868.25,10,UPI,New,Anjali,15868.25,1586.82,14281.43,August,8,Q3,2025
+50104,13-08-2025,Kolhapur,Clothing,Jacket,4,5192.69,5,UPI,Returning,Sneha,20770.76,1038.54,19732.22,August,8,Q3,2025
+50347,13-08-2025,Kolhapur,Clothing,T-Shirt,1,957.69,0,UPI,New,Pooja,957.69,0,957.69,August,8,Q3,2025
+50613,13-08-2025,Nashik,Clothing,T-Shirt,7,639.41,10,Credit Card,Returning,Neha,4475.87,447.59,4028.28,August,8,Q3,2025
+50268,14-08-2025,Pune,Furniture,Office Desk,4,22220.91,10,Debit Card,Returning,Amit,88883.64,8888.36,79995.28,August,8,Q3,2025
+51154,14-08-2025,Nagpur,Furniture,Bed,8,25358.61,10,UPI,VIP,Rahul,202868.88,20286.89,182581.99,August,8,Q3,2025
+51406,14-08-2025,Nagpur,Clothing,Shirt,3,802.74,0,Debit Card,New,Neha,2408.22,0,2408.22,August,8,Q3,2025
+51335,15-08-2025,Mumbai,Sports,Football,6,577.33,15,UPI,Returning,Rohan,3463.98,519.6,2944.38,August,8,Q3,2025
+50772,16-08-2025,Thane,Beauty,Shampoo,8,349.2,0,UPI,New,Pooja,2793.6,0,2793.6,August,8,Q3,2025
+50316,16-08-2025,Thane,Furniture,Sofa,4,46080.59,10,Debit Card,New,Sneha,184322.36,18432.24,165890.12,August,8,Q3,2025
+50417,16-08-2025,Navi Mumbai,Grocery,Biscuits,8,133.05,10,Debit Card,New,Rohan,1064.4,106.44,957.96,August,8,Q3,2025
+50014,17-08-2025,Nashik,Electronics,Monitor,4,25805.14,10,Credit Card,New,Anjali,103220.56,10322.06,92898.5,August,8,Q3,2025
+50357,17-08-2025,Nashik,Electronics,Tablet,2,10718.23,10,Cash,Returning,Pooja,21436.46,2143.65,19292.81,August,8,Q3,2025
+51329,17-08-2025,Nashik,Furniture,Bookshelf,1,5278.32,10,Net Banking,Returning,Vikas,5278.32,527.83,4750.49,August,8,Q3,2025
+50904,17-08-2025,Aurangabad,Clothing,Jeans,3,1741.93,0,UPI,Returning,Priya,5225.79,0,5225.79,August,8,Q3,2025
+50975,17-08-2025,Mumbai,Electronics,Headphones,4,3123.63,10,Debit Card,Returning,Anjali,12494.52,1249.45,11245.07,August,8,Q3,2025
+50378,17-08-2025,Thane,Electronics,Keyboard,3,713.51,15,Credit Card,New,Rohan,2140.53,321.08,1819.45,August,8,Q3,2025
+50490,18-08-2025,Thane,Sports,Yoga Mat,6,2071.62,20,Credit Card,Returning,Pooja,12429.72,2485.94,9943.78,August,8,Q3,2025
+51200,18-08-2025,Navi Mumbai,Electronics,Tablet,6,16795.7,10,UPI,New,Pooja,100774.2,10077.42,90696.78,August,8,Q3,2025
+50269,18-08-2025,Mumbai,Grocery,Flour,2,58.45,5,Debit Card,VIP,Karan,116.9,5.84,111.06,August,8,Q3,2025
+50734,18-08-2025,Aurangabad,Clothing,Shirt,3,2156.98,0,Cash,Returning,Priya,6470.94,0,6470.94,August,8,Q3,2025
+50836,18-08-2025,Nashik,Grocery,Oil,2,144.65,5,Net Banking,Returning,Sneha,289.3,14.46,274.84,August,8,Q3,2025
+50189,19-08-2025,Thane,Clothing,Kurta,5,1916.07,10,Net Banking,Returning,Priya,9580.35,958.04,8622.31,August,8,Q3,2025
+51495,19-08-2025,Mumbai,Clothing,Jeans,4,1262.04,5,UPI,New,Vikas,5048.16,252.41,4795.75,August,8,Q3,2025
+51299,20-08-2025,Thane,Clothing,Jeans,1,2431.45,10,Credit Card,New,Rohan,2431.45,243.14,2188.31,August,8,Q3,2025
+50192,20-08-2025,Kolhapur,Sports,Running Shoes,2,4423.8,10,Credit Card,New,Rahul,8847.6,884.76,7962.84,August,8,Q3,2025
+51326,21-08-2025,Nagpur,Grocery,Biscuits,1,74.02,10,UPI,Returning,Anjali,74.02,7.4,66.62,August,8,Q3,2025
+50194,21-08-2025,Thane,Clothing,Kurta,8,2594.67,5,Debit Card,Returning,Rahul,20757.36,1037.87,19719.49,August,8,Q3,2025
+50162,21-08-2025,Nashik,Clothing,Shirt,8,2048.61,0,Credit Card,New,Rohan,16388.88,0,16388.88,August,8,Q3,2025
+50078,22-08-2025,Pune,Electronics,Headphones,4,7859.14,10,Credit Card,Returning,Rohan,31436.56,3143.66,28292.9,August,8,Q3,2025
+51020,22-08-2025,Aurangabad,Electronics,Headphones,3,3014.21,0,UPI,New,Karan,9042.63,0,9042.63,August,8,Q3,2025
+50343,22-08-2025,Nagpur,Electronics,Tablet,8,26623.28,10,UPI,New,Priya,212986.24,21298.62,191687.62,August,8,Q3,2025
+50134,23-08-2025,Mumbai,Grocery,Rice,1,954.93,5,Net Banking,Returning,Anjali,954.93,47.75,907.18,August,8,Q3,2025
+51284,23-08-2025,Nagpur,Electronics,Keyboard,1,3144.77,0,Debit Card,Returning,Vikas,3144.77,0,3144.77,August,8,Q3,2025
+50115,23-08-2025,Thane,Clothing,Saree,4,2272.06,10,UPI,Returning,Vikas,9088.24,908.82,8179.42,August,8,Q3,2025
+50179,23-08-2025,Aurangabad,Sports,Yoga Mat,6,680.67,5,Credit Card,VIP,Sneha,4084.02,204.2,3879.82,August,8,Q3,2025
+50109,24-08-2025,Navi Mumbai,Grocery,Oil,6,184.78,20,UPI,New,Rahul,1108.68,221.74,886.94,August,8,Q3,2025
+50105,24-08-2025,Mumbai,Sports,Running Shoes,1,5747.97,0,Credit Card,Returning,Rahul,5747.97,0,5747.97,August,8,Q3,2025
+50770,24-08-2025,Nashik,Beauty,Lipstick,3,669.53,5,Debit Card,Returning,Vikas,2008.59,100.43,1908.16,August,8,Q3,2025
+50607,24-08-2025,Navi Mumbai,Electronics,Keyboard,4,4053.95,5,Credit Card,Returning,Anjali,16215.8,810.79,15405.01,August,8,Q3,2025
+50264,24-08-2025,Nashik,Clothing,Kurta,2,2156.07,10,Debit Card,Returning,Sneha,4312.14,431.21,3880.93,August,8,Q3,2025
+50033,25-08-2025,Pune,Electronics,Tablet,3,26071.62,0,Debit Card,Returning,Neha,78214.86,0,78214.86,August,8,Q3,2025
+51219,25-08-2025,Kolhapur,Furniture,Chair,8,2915.95,15,UPI,VIP,Anjali,23327.6,3499.14,19828.46,August,8,Q3,2025
+51061,26-08-2025,Nashik,Beauty,Perfume,2,1863.58,0,Credit Card,New,Vikas,3727.16,0,3727.16,August,8,Q3,2025
+50236,26-08-2025,Nagpur,Furniture,Chair,6,4426.88,10,UPI,Returning,Neha,26561.28,2656.13,23905.15,August,8,Q3,2025
+50585,27-08-2025,Nagpur,Clothing,Kurta,8,968.92,0,Debit Card,New,Anjali,7751.36,0,7751.36,August,8,Q3,2025
+51160,27-08-2025,Pune,Electronics,Headphones,8,4107.19,10,Debit Card,New,Anjali,32857.52,3285.75,29571.77,August,8,Q3,2025
+50157,27-08-2025,Pune,Furniture,Table,5,6516.8,5,Credit Card,New,Priya,32584,1629.2,30954.8,August,8,Q3,2025
+50754,27-08-2025,Navi Mumbai,Grocery,Biscuits,2,28.54,5,Credit Card,Returning,Rohan,57.08,2.85,54.23,August,8,Q3,2025
+50571,27-08-2025,Mumbai,Clothing,Shirt,4,2212.26,15,UPI,Returning,Karan,8849.04,1327.36,7521.68,August,8,Q3,2025
+50064,28-08-2025,Aurangabad,Grocery,Oil,1,207.15,10,UPI,New,Neha,207.15,20.72,186.43,August,8,Q3,2025
+51140,28-08-2025,Nashik,Clothing,Jeans,7,2984.38,10,Debit Card,New,Amit,20890.66,2089.07,18801.59,August,8,Q3,2025
+50190,28-08-2025,Kolhapur,Grocery,Oil,8,202.59,15,UPI,Returning,Sneha,1620.72,243.11,1377.61,August,8,Q3,2025
+50218,28-08-2025,Nagpur,Furniture,Bookshelf,5,13334.81,10,UPI,,Priya,66674.05,6667.4,60006.65,August,8,Q3,2025
+50332,28-08-2025,Kolhapur,Furniture,Bookshelf,5,5791.12,15,UPI,VIP,Amit,28955.6,4343.34,24612.26,August,8,Q3,2025
+51081,28-08-2025,Navi Mumbai,Beauty,Moisturizer,8,1141.05,0,UPI,New,Vikas,9128.4,0,9128.4,August,8,Q3,2025
+51321,29-08-2025,Thane,Grocery,Biscuits,7,138.55,5,UPI,Returning,Amit,969.85,48.49,921.36,August,8,Q3,2025
+50297,30-08-2025,Thane,Furniture,Office Desk,5,14097.45,10,UPI,VIP,Sneha,70487.25,7048.72,63438.53,August,8,Q3,2025
+51266,30-08-2025,Thane,Electronics,Smartwatch,6,10014.69,0,Cash,New,Amit,60088.14,0,60088.14,August,8,Q3,2025
+51103,01-09-2025,Mumbai,Beauty,Lipstick,2,297.61,20,Cash,VIP,Amit,595.22,119.04,476.18,September,9,Q3,2025
+51043,01-09-2025,Aurangabad,Grocery,Coffee,7,639.71,10,UPI,Returning,Rohan,4477.97,447.8,4030.17,September,9,Q3,2025
+50801,02-09-2025,Aurangabad,Furniture,Bookshelf,3,5304.75,5,Debit Card,VIP,Amit,15914.25,795.71,15118.54,September,9,Q3,2025
+50838,03-09-2025,Nagpur,Grocery,Sugar,4,50.34,5,Credit Card,New,Karan,201.36,10.07,191.29,September,9,Q3,2025
+50852,03-09-2025,Kolhapur,Furniture,Bed,4,15116.9,5,Credit Card,Returning,Priya,60467.6,3023.38,57444.22,September,9,Q3,2025
+50472,03-09-2025,Pune,Sports,Badminton Racket,5,4721.24,5,Credit Card,Returning,Rohan,23606.2,1180.31,22425.89,September,9,Q3,2025
+50826,03-09-2025,Nashik,Sports,Yoga Mat,5,1549.57,5,UPI,New,Sneha,7747.85,387.39,7360.46,September,9,Q3,2025
+51198,04-09-2025,Thane,Sports,Running Shoes,5,10777.43,10,Credit Card,Returning,Anjali,53887.15,5388.72,48498.43,September,9,Q3,2025
+51391,05-09-2025,Nashik,Grocery,Oil,2,122.46,20,Credit Card,VIP,Amit,244.92,48.98,195.94,September,9,Q3,2025
+51366,05-09-2025,Nagpur,Electronics,Laptop,2,45657.4,0,UPI,VIP,Amit,91314.8,0,91314.8,September,9,Q3,2025
+50271,06-09-2025,Nagpur,Beauty,Moisturizer,2,704,0,UPI,Returning,Anjali,1408,0,1408,September,9,Q3,2025
+50461,06-09-2025,Nashik,Electronics,Keyboard,1,3322.75,5,UPI,VIP,Neha,3322.75,166.14,3156.61,September,9,Q3,2025
+50837,06-09-2025,Navi Mumbai,Sports,Cricket Bat,5,9784.29,10,Debit Card,Returning,Rahul,48921.45,4892.15,44029.3,September,9,Q3,2025
+50063,07-09-2025,Navi Mumbai,Beauty,Moisturizer,5,953.87,0,UPI,Returning,Vikas,4769.35,0,4769.35,September,9,Q3,2025
+50993,10-09-2025,Pune,Grocery,Tea,8,514.86,20,UPI,New,Rahul,4118.88,823.78,3295.1,September,9,Q3,2025
+50765,10-09-2025,Mumbai,Electronics,Smartwatch,6,10820.48,10,Credit Card,Returning,Sneha,64922.88,6492.29,58430.59,September,9,Q3,2025
+51050,10-09-2025,Aurangabad,Electronics,Tablet,3,41770.74,10,Debit Card,Returning,Rahul,125312.22,12531.22,112781,September,9,Q3,2025
+50750,10-09-2025,Aurangabad,Clothing,Jeans,3,2095.09,5,Credit Card,Returning,Rohan,6285.27,314.26,5971.01,September,9,Q3,2025
+50552,10-09-2025,Pune,Beauty,Moisturizer,3,472.95,5,UPI,New,Anjali,1418.85,70.94,1347.91,September,9,Q3,2025
+50176,10-09-2025,Aurangabad,Electronics,Keyboard,8,3906.74,10,Cash,New,Neha,31253.92,3125.39,28128.53,September,9,Q3,2025
+50471,10-09-2025,Navi Mumbai,Electronics,Tablet,7,34642.91,5,Debit Card,New,Neha,242500.37,12125.02,230375.35,September,9,Q3,2025
+50488,10-09-2025,Pune,Grocery,Sugar,8,67.85,15,UPI,Returning,Neha,542.8,81.42,461.38,September,9,Q3,2025
+50243,11-09-2025,Pune,Sports,Badminton Racket,3,4641.39,10,Credit Card,Returning,Anjali,13924.17,1392.42,12531.75,September,9,Q3,2025
+50830,12-09-2025,Nagpur,Grocery,Oil,1,132.56,0,UPI,New,Rahul,132.56,0,132.56,September,9,Q3,2025
+51291,14-09-2025,Navi Mumbai,Grocery,Flour,3,62.87,0,UPI,New,Pooja,188.61,0,188.61,September,9,Q3,2025
+50114,14-09-2025,Aurangabad,Beauty,Shampoo,8,525.07,5,Debit Card,New,Karan,4200.56,210.03,3990.53,September,9,Q3,2025
+50917,14-09-2025,Pune,Grocery,Rice,1,664.3,20,UPI,Returning,Anjali,664.3,132.86,531.44,September,9,Q3,2025
+51159,14-09-2025,Mumbai,Beauty,Face Wash,4,254.11,15,UPI,Returning,Amit,1016.44,152.47,863.97,September,9,Q3,2025
+51178,14-09-2025,Nashik,Electronics,Tablet,6,24529.37,0,Credit Card,Returning,Pooja,147176.22,0,147176.22,September,9,Q3,2025
+50931,14-09-2025,Thane,Electronics,Smartwatch,4,9492.23,20,Credit Card,Returning,Priya,37968.92,7593.78,30375.14,September,9,Q3,2025
+51079,14-09-2025,Aurangabad,Electronics,Tablet,5,13721.81,5,UPI,Returning,Karan,68609.05,3430.45,65178.6,September,9,Q3,2025
+50101,15-09-2025,Aurangabad,Electronics,Headphones,5,2855.66,0,UPI,Returning,Neha,14278.3,0,14278.3,September,9,Q3,2025
+51423,15-09-2025,Kolhapur,Electronics,Mobile,6,65447.78,15,Credit Card,VIP,Neha,392686.68,58903,333783.68,September,9,Q3,2025
+51304,17-09-2025,Thane,Clothing,Shirt,6,897.63,20,Debit Card,Returning,Vikas,5385.78,1077.16,4308.62,September,9,Q3,2025
+50038,18-09-2025,Aurangabad,Electronics,Smartwatch,3,7299.72,10,Net Banking,New,Rohan,21899.16,2189.92,19709.24,September,9,Q3,2025
+51091,18-09-2025,Nagpur,Sports,Cricket Bat,4,4734.64,5,UPI,New,Pooja,18938.56,946.93,17991.63,September,9,Q3,2025
+50330,19-09-2025,Aurangabad,Grocery,Flour,7,77.63,10,Debit Card,New,Karan,543.41,54.34,489.07,September,9,Q3,2025
+50012,19-09-2025,Aurangabad,Sports,Running Shoes,7,10195.23,0,Debit Card,New,Sneha,71366.61,0,71366.61,September,9,Q3,2025
+51439,21-09-2025,Kolhapur,Electronics,Headphones,2,4296.66,5,Debit Card,New,Priya,8593.32,429.67,8163.65,September,9,Q3,2025
+50816,21-09-2025,Pune,Clothing,Kurta,3,2702.46,0,Debit Card,Returning,Vikas,8107.38,0,8107.38,September,9,Q3,2025
+50673,22-09-2025,Thane,Electronics,Smartwatch,1,4728.42,0,Credit Card,Returning,Amit,4728.42,0,4728.42,September,9,Q3,2025
+51470,22-09-2025,Kolhapur,Beauty,Shampoo,8,629.99,5,Cash,New,Sneha,5039.92,252,4787.92,September,9,Q3,2025
+51143,22-09-2025,Aurangabad,Furniture,Office Desk,6,24912.76,5,Credit Card,New,Rohan,149476.56,7473.83,142002.73,September,9,Q3,2025
+50990,23-09-2025,Mumbai,Beauty,Lipstick,6,850.06,15,UPI,New,Rohan,5100.36,765.05,4335.31,September,9,Q3,2025
+50646,23-09-2025,Mumbai,Sports,Running Shoes,4,7351.76,10,Credit Card,Returning,Amit,29407.04,2940.7,26466.34,September,9,Q3,2025
+50317,24-09-2025,Kolhapur,Grocery,Sugar,4,57.9,5,Credit Card,Returning,Rahul,231.6,11.58,220.02,September,9,Q3,2025
+51337,24-09-2025,Aurangabad,Electronics,Laptop,6,61274.12,10,Credit Card,Returning,Amit,367644.72,36764.47,330880.25,September,9,Q3,2025
+51450,25-09-2025,Navi Mumbai,Furniture,Table,2,9024.21,0,Cash,Returning,Priya,18048.42,0,18048.42,September,9,Q3,2025
+50906,25-09-2025,Navi Mumbai,Sports,Yoga Mat,7,1769.69,10,UPI,New,Rahul,12387.83,1238.78,11149.05,September,9,Q3,2025
+51175,25-09-2025,Nashik,Clothing,Kurta,5,1269.02,10,Debit Card,Returning,Karan,6345.1,634.51,5710.59,September,9,Q3,2025
+50477,25-09-2025,Kolhapur,Electronics,Tablet,8,36701.27,5,Net Banking,New,Rahul,293610.16,14680.51,278929.65,September,9,Q3,2025
+50818,25-09-2025,Thane,Grocery,Tea,8,463.76,10,UPI,New,Vikas,3710.08,371.01,3339.07,September,9,Q3,2025
+51023,26-09-2025,Mumbai,Sports,Football,6,1081.35,15,Credit Card,Returning,Sneha,6488.1,973.22,5514.88,September,9,Q3,2025
+50745,27-09-2025,Nagpur,Grocery,Coffee,5,614.51,10,UPI,Returning,Rohan,3072.55,307.26,2765.29,September,9,Q3,2025
+50522,27-09-2025,Navi Mumbai,Grocery,Flour,7,63.89,0,UPI,Returning,Rohan,447.23,0,447.23,September,9,Q3,2025
+50415,27-09-2025,Nashik,Clothing,Shirt,5,1972.48,5,Net Banking,Returning,Anjali,9862.4,493.12,9369.28,September,9,Q3,2025
+50214,27-09-2025,Aurangabad,Grocery,Coffee,1,300.8,10,UPI,New,Anjali,300.8,30.08,270.72,September,9,Q3,2025
+50755,27-09-2025,Aurangabad,Electronics,Mobile,2,63452.92,0,Debit Card,VIP,Anjali,126905.84,0,126905.84,September,9,Q3,2025
+50938,27-09-2025,Nashik,Sports,Cricket Bat,8,8201.86,15,UPI,New,Amit,65614.88,9842.23,55772.65,September,9,Q3,2025
+51195,28-09-2025,Pune,Electronics,Smartwatch,7,6698.89,0,UPI,Returning,Anjali,46892.23,0,46892.23,September,9,Q3,2025
+50491,28-09-2025,Aurangabad,Grocery,Flour,1,70.15,5,UPI,New,Amit,70.15,3.51,66.64,September,9,Q3,2025
+51083,28-09-2025,Navi Mumbai,Grocery,Oil,1,165.21,0,Credit Card,New,Rahul,165.21,0,165.21,September,9,Q3,2025
+50871,28-09-2025,Nashik,Grocery,Flour,8,65.79,5,Net Banking,Returning,Rahul,526.32,26.32,500,September,9,Q3,2025
+50834,28-09-2025,Thane,Electronics,Keyboard,6,2151.39,5,UPI,Returning,Amit,12908.34,645.42,12262.92,September,9,Q3,2025
+50851,29-09-2025,Thane,Electronics,Mobile,4,43038.84,5,UPI,VIP,Pooja,172155.36,8607.77,163547.59,September,9,Q3,2025
+50143,30-09-2025,Navi Mumbai,Clothing,Jeans,4,1026.51,10,UPI,Returning,Rahul,4106.04,410.6,3695.44,September,9,Q3,2025
+51473,30-09-2025,Thane,Beauty,Perfume,3,4368.56,10,UPI,New,Pooja,13105.68,1310.57,11795.11,September,9,Q3,2025
+51066,30-09-2025,Aurangabad,Furniture,Table,5,5765.15,5,Cash,New,Amit,28825.75,1441.29,27384.46,September,9,Q3,2025
+50021,01-10-2025,Mumbai,Clothing,T-Shirt,5,1655.34,0,,New,Priya,8276.7,0,8276.7,October,10,Q4,2025
+50752,01-10-2025,Aurangabad,Sports,Cricket Bat,5,3740.43,15,Credit Card,New,Pooja,18702.15,2805.32,15896.83,October,10,Q4,2025
+51114,01-10-2025,Aurangabad,Clothing,Saree,1,5748.74,10,Cash,New,Rahul,5748.74,574.87,5173.87,October,10,Q4,2025
+51263,02-10-2025,Aurangabad,Grocery,Rice,4,1750.1,0,Credit Card,New,Amit,7000.4,0,7000.4,October,10,Q4,2025
+51424,02-10-2025,Aurangabad,Electronics,Tablet,2,38422.72,5,Debit Card,New,Karan,76845.44,3842.27,73003.17,October,10,Q4,2025
+50795,02-10-2025,Nashik,Electronics,Smartwatch,7,8727.47,10,Net Banking,New,Vikas,61092.29,6109.23,54983.06,October,10,Q4,2025
+50709,02-10-2025,Aurangabad,Grocery,Rice,3,993.5,15,Cash,Returning,Pooja,2980.5,447.08,2533.42,October,10,Q4,2025
+50427,02-10-2025,Kolhapur,Grocery,Rice,4,1137.99,10,UPI,Returning,Karan,4551.96,455.2,4096.76,October,10,Q4,2025
+50697,03-10-2025,Thane,Grocery,Oil,3,135.63,5,UPI,New,Karan,406.89,20.34,386.55,October,10,Q4,2025
+50984,03-10-2025,Nashik,Electronics,Laptop,6,81551.62,5,Net Banking,Returning,Vikas,489309.72,24465.49,464844.23,October,10,Q4,2025
+50776,03-10-2025,Mumbai,Electronics,Tablet,6,19258.05,10,UPI,Returning,Rohan,115548.3,11554.83,103993.47,October,10,Q4,2025
+50210,03-10-2025,Kolhapur,Electronics,Mobile,7,48542.31,5,Credit Card,Returning,Pooja,339796.17,16989.81,322806.36,October,10,Q4,2025
+50156,03-10-2025,Aurangabad,Grocery,Tea,4,273.48,0,Net Banking,New,Rahul,1093.92,0,1093.92,October,10,Q4,2025
+50633,04-10-2025,Thane,Clothing,T-Shirt,1,1085.38,5,UPI,Returning,Pooja,1085.38,54.27,1031.11,October,10,Q4,2025
+51328,04-10-2025,Pune,Beauty,Lipstick,4,553.22,10,Cash,Returning,Amit,2212.88,221.29,1991.59,October,10,Q4,2025
+50678,05-10-2025,Nashik,Grocery,Biscuits,7,104.27,0,UPI,Returning,Karan,729.89,0,729.89,October,10,Q4,2025
+51014,05-10-2025,Kolhapur,Electronics,Monitor,3,17370.63,10,UPI,New,Sneha,52111.89,5211.19,46900.7,October,10,Q4,2025
+50132,05-10-2025,Aurangabad,Grocery,Biscuits,3,68.03,0,Net Banking,Returning,Vikas,204.09,0,204.09,October,10,Q4,2025
+51469,05-10-2025,Thane,Beauty,Lipstick,6,1058.55,0,Credit Card,Returning,Karan,6351.3,0,6351.3,October,10,Q4,2025
+50882,06-10-2025,Thane,Furniture,Bookshelf,4,6730.13,0,Debit Card,Returning,Priya,26920.52,0,26920.52,October,10,Q4,2025
+50924,06-10-2025,Thane,Beauty,Sunscreen,5,754.64,5,Debit Card,New,Vikas,3773.2,188.66,3584.54,October,10,Q4,2025
+51058,07-10-2025,Aurangabad,Grocery,Tea,6,562.05,0,Credit Card,New,Karan,3372.3,0,3372.3,October,10,Q4,2025
+50031,07-10-2025,Mumbai,Clothing,Shirt,7,526.5,15,Net Banking,Returning,Amit,3685.5,552.83,3132.67,October,10,Q4,2025
+50015,07-10-2025,Mumbai,Electronics,Tablet,1,37522.52,0,UPI,New,Rohan,37522.52,0,37522.52,October,10,Q4,2025
+50128,08-10-2025,Pune,Beauty,Perfume,8,3781.56,0,UPI,Returning,Priya,30252.48,0,30252.48,October,10,Q4,2025
+50764,08-10-2025,Pune,Furniture,Bed,7,39520.84,15,Net Banking,Returning,Priya,276645.88,41496.88,235149,October,10,Q4,2025
+50919,08-10-2025,Pune,Furniture,Bookshelf,7,12718.25,15,Credit Card,VIP,Rahul,89027.75,13354.16,75673.59,October,10,Q4,2025
+50608,08-10-2025,Mumbai,Grocery,Biscuits,2,32.84,5,UPI,Returning,Amit,65.68,3.28,62.4,October,10,Q4,2025
+51332,09-10-2025,Mumbai,Furniture,Bed,2,16886.67,0,Cash,Returning,Karan,33773.34,0,33773.34,October,10,Q4,2025
+50045,09-10-2025,Kolhapur,Grocery,Flour,5,53.81,5,UPI,Returning,Rahul,269.05,13.45,255.6,October,10,Q4,2025
+51131,09-10-2025,Nashik,Furniture,Sofa,8,31190.73,10,UPI,Returning,Pooja,249525.84,24952.58,224573.26,October,10,Q4,2025
+50013,10-10-2025,Navi Mumbai,Beauty,Moisturizer,6,416.06,5,Credit Card,Returning,Anjali,2496.36,124.82,2371.54,October,10,Q4,2025
+50945,10-10-2025,Navi Mumbai,Electronics,Laptop,5,89748.69,0,UPI,New,Neha,448743.45,0,448743.45,October,10,Q4,2025
+50089,11-10-2025,Nagpur,Beauty,Face Wash,2,374.47,15,Debit Card,Returning,Neha,748.94,112.34,636.6,October,10,Q4,2025
+50206,11-10-2025,Thane,Electronics,Keyboard,1,1835.22,5,Cash,Returning,Amit,1835.22,91.76,1743.46,October,10,Q4,2025
+50540,12-10-2025,Pune,Electronics,Monitor,4,14889.59,5,Net Banking,New,Amit,59558.36,2977.92,56580.44,October,10,Q4,2025
+51316,12-10-2025,Nagpur,Clothing,T-Shirt,4,593.63,15,UPI,VIP,Priya,2374.52,356.18,2018.34,October,10,Q4,2025
+50751,12-10-2025,Nashik,Electronics,Keyboard,3,2553.23,0,Credit Card,New,Pooja,7659.69,0,7659.69,October,10,Q4,2025
+50520,13-10-2025,Thane,Electronics,Headphones,1,1098.79,5,Credit Card,Returning,Priya,1098.79,54.94,1043.85,October,10,Q4,2025
+50041,13-10-2025,Pune,Electronics,Smartwatch,5,8680.5,5,Credit Card,New,Karan,43402.5,2170.12,41232.38,October,10,Q4,2025
+51372,13-10-2025,Kolhapur,Electronics,Mobile,1,29025.02,5,Debit Card,Returning,Pooja,29025.02,1451.25,27573.77,October,10,Q4,2025
+51094,14-10-2025,Kolhapur,Clothing,Jeans,3,1413.86,5,UPI,Returning,Priya,4241.58,212.08,4029.5,October,10,Q4,2025
+50487,14-10-2025,Pune,Electronics,Tablet,4,39854.37,5,Credit Card,Returning,Rahul,159417.48,7970.87,151446.61,October,10,Q4,2025
+50614,14-10-2025,Aurangabad,Electronics,Monitor,5,27705.36,10,Credit Card,New,Rahul,138526.8,13852.68,124674.12,October,10,Q4,2025
+51153,15-10-2025,Pune,Furniture,Bookshelf,2,11936.5,0,Debit Card,VIP,Anjali,23873,0,23873,October,10,Q4,2025
+51018,15-10-2025,Thane,Clothing,T-Shirt,1,1310.55,15,UPI,VIP,Priya,1310.55,196.58,1113.97,October,10,Q4,2025
+50435,16-10-2025,Mumbai,Electronics,Keyboard,6,1787.03,5,UPI,VIP,Priya,10722.18,536.11,10186.07,October,10,Q4,2025
+50827,16-10-2025,Kolhapur,Grocery,Flour,6,69.36,15,Net Banking,Returning,Rahul,416.16,62.42,353.74,October,10,Q4,2025
+50117,16-10-2025,Aurangabad,Beauty,Perfume,4,4315.68,5,Debit Card,VIP,Rahul,17262.72,863.14,16399.58,October,10,Q4,2025
+50233,16-10-2025,Thane,Clothing,Kurta,7,1431.64,5,Debit Card,Returning,Anjali,10021.48,501.07,9520.41,October,10,Q4,2025
+51387,16-10-2025,Nagpur,Beauty,Lipstick,2,321.4,15,UPI,New,Priya,642.8,96.42,546.38,October,10,Q4,2025
+50928,16-10-2025,Pune,Clothing,Kurta,8,2552.71,0,UPI,New,Anjali,20421.68,0,20421.68,October,10,Q4,2025
+50508,17-10-2025,Nagpur,Beauty,Sunscreen,6,876.3,5,Credit Card,Returning,Sneha,5257.8,262.89,4994.91,October,10,Q4,2025
+50320,17-10-2025,Kolhapur,Grocery,Rice,6,1388.49,15,Cash,Returning,Sneha,8330.94,1249.64,7081.3,October,10,Q4,2025
+50362,17-10-2025,Pune,Clothing,T-Shirt,7,1763.06,0,Credit Card,New,Karan,12341.42,0,12341.42,October,10,Q4,2025
+50016,17-10-2025,Aurangabad,Electronics,Monitor,5,21908.77,0,UPI,New,Anjali,109543.85,0,109543.85,October,10,Q4,2025
+50069,17-10-2025,Thane,Electronics,Mobile,6,30998.03,5,UPI,Returning,Pooja,185988.18,9299.41,176688.77,October,10,Q4,2025
+50777,18-10-2025,Kolhapur,Grocery,Biscuits,4,56.39,0,Credit Card,Returning,Karan,225.56,0,225.56,October,10,Q4,2025
+51308,18-10-2025,Pune,Beauty,Face Wash,3,605.12,10,Debit Card,New,Sneha,1815.36,181.54,1633.82,October,10,Q4,2025
+50199,19-10-2025,Kolhapur,Beauty,Moisturizer,6,1183.31,10,UPI,New,Rohan,7099.86,709.99,6389.87,October,10,Q4,2025
+51226,19-10-2025,Pune,Clothing,Jacket,6,1765.98,0,Credit Card,Returning,Anjali,10595.88,0,10595.88,October,10,Q4,2025
+50480,19-10-2025,Thane,Clothing,Shirt,2,953.48,5,Cash,Returning,Neha,1906.96,95.35,1811.61,October,10,Q4,2025
+50858,19-10-2025,Mumbai,Clothing,Saree,1,1820.96,10,UPI,New,Karan,1820.96,182.1,1638.86,October,10,Q4,2025
+50523,19-10-2025,Nashik,Sports,Badminton Racket,6,3509.55,20,Cash,,Anjali,21057.3,4211.46,16845.84,October,10,Q4,2025
+50339,20-10-2025,Navi Mumbai,Clothing,Jacket,7,3983.45,10,Net Banking,Returning,Karan,27884.15,2788.42,25095.73,October,10,Q4,2025
+50047,20-10-2025,Thane,Grocery,Sugar,3,61.97,0,Credit Card,New,Neha,185.91,0,185.91,October,10,Q4,2025
+50290,20-10-2025,Mumbai,Clothing,Saree,5,4170.38,5,Credit Card,New,Rahul,20851.9,1042.6,19809.3,October,10,Q4,2025
+51192,20-10-2025,Mumbai,Clothing,Kurta,2,2407.28,0,Debit Card,Returning,Rahul,4814.56,0,4814.56,October,10,Q4,2025
+50668,20-10-2025,Aurangabad,Electronics,Monitor,4,21623.26,10,Credit Card,New,Pooja,86493.04,8649.3,77843.74,October,10,Q4,2025
+51336,21-10-2025,Pune,Furniture,Bed,8,39147.74,0,Debit Card,New,Priya,313181.92,0,313181.92,October,10,Q4,2025
+50978,21-10-2025,Pune,Electronics,Keyboard,5,1096.02,5,Credit Card,Returning,Amit,5480.1,274,5206.1,October,10,Q4,2025
+50994,22-10-2025,Pune,Clothing,Kurta,3,2946.63,5,Debit Card,Returning,Rohan,8839.89,441.99,8397.9,October,10,Q4,2025
+50538,22-10-2025,Pune,Grocery,Biscuits,4,56.16,0,Net Banking,Returning,Rohan,224.64,0,224.64,October,10,Q4,2025
+50333,22-10-2025,Nashik,Electronics,Keyboard,3,2194.28,10,Credit Card,New,Vikas,6582.84,658.28,5924.56,October,10,Q4,2025
+51099,23-10-2025,Pune,Beauty,Lipstick,6,1335.21,5,Debit Card,New,Sneha,8011.26,400.56,7610.7,October,10,Q4,2025
+50379,24-10-2025,Navi Mumbai,Beauty,Moisturizer,1,374.24,10,Credit Card,Returning,Anjali,374.24,37.42,336.82,October,10,Q4,2025
+50732,24-10-2025,Mumbai,Beauty,Perfume,1,4479.6,0,Debit Card,New,Rohan,4479.6,0,4479.6,October,10,Q4,2025
+50968,24-10-2025,Nashik,Grocery,Coffee,7,388.7,20,Cash,Returning,Rohan,2720.9,544.18,2176.72,October,10,Q4,2025
+50119,25-10-2025,Aurangabad,Sports,Football,6,2954.27,15,UPI,New,Anjali,17725.62,2658.84,15066.78,October,10,Q4,2025
+51052,26-10-2025,Aurangabad,Clothing,Jacket,1,4651.94,0,UPI,VIP,Amit,4651.94,0,4651.94,October,10,Q4,2025
+50221,26-10-2025,Navi Mumbai,Furniture,Bed,8,42883.12,0,Cash,Returning,Anjali,343064.96,0,343064.96,October,10,Q4,2025
+50997,26-10-2025,Kolhapur,Sports,Cricket Bat,4,1592.31,0,Cash,Returning,Amit,6369.24,0,6369.24,October,10,Q4,2025
+50696,26-10-2025,Kolhapur,Clothing,Saree,6,7350.74,0,UPI,Returning,Rohan,44104.44,0,44104.44,October,10,Q4,2025
+50568,26-10-2025,Thane,Grocery,Tea,4,532.48,10,Net Banking,Returning,Karan,2129.92,212.99,1916.93,October,10,Q4,2025
+50893,27-10-2025,Mumbai,Beauty,Sunscreen,7,363.83,0,Debit Card,New,Pooja,2546.81,0,2546.81,October,10,Q4,2025
+51298,27-10-2025,Kolhapur,Electronics,Smartwatch,2,10959.79,0,Cash,Returning,Rohan,21919.58,0,21919.58,October,10,Q4,2025
+50158,29-10-2025,Nagpur,Furniture,Bed,1,18029.8,10,Cash,New,Neha,18029.8,1802.98,16226.82,October,10,Q4,2025
+50135,29-10-2025,Thane,Sports,Badminton Racket,3,4695.94,0,Net Banking,VIP,Amit,14087.82,0,14087.82,October,10,Q4,2025
+50131,29-10-2025,Aurangabad,Grocery,Tea,3,287.24,10,Credit Card,Returning,Karan,861.72,86.17,775.55,October,10,Q4,2025
+50476,29-10-2025,Mumbai,Sports,Yoga Mat,8,1816.24,5,Credit Card,New,Rohan,14529.92,726.5,13803.42,October,10,Q4,2025
+50329,30-10-2025,Nashik,Grocery,Biscuits,6,100.47,5,Credit Card,Returning,Priya,602.82,30.14,572.68,October,10,Q4,2025
+50812,30-10-2025,Kolhapur,Beauty,Moisturizer,8,487.33,5,UPI,New,Amit,3898.64,194.93,3703.71,October,10,Q4,2025
+50073,31-10-2025,Mumbai,Electronics,Headphones,3,7604.82,10,Net Banking,New,Pooja,22814.46,2281.45,20533.01,October,10,Q4,2025
+50039,01-11-2025,Mumbai,Furniture,Sofa,2,48328.18,5,Credit Card,New,Anjali,96656.36,4832.82,91823.54,November,11,Q4,2025
+51135,02-11-2025,Mumbai,Furniture,Sofa,1,29539.49,0,Credit Card,VIP,Amit,29539.49,0,29539.49,November,11,Q4,2025
+50685,02-11-2025,Nashik,Sports,Running Shoes,6,10942.23,0,Credit Card,VIP,Rahul,65653.38,0,65653.38,November,11,Q4,2025
+50911,02-11-2025,Mumbai,Clothing,Jacket,3,4656.22,15,Debit Card,New,Rohan,13968.66,2095.3,11873.36,November,11,Q4,2025
+51352,03-11-2025,Pune,Clothing,Jeans,7,1328.01,10,UPI,New,Rahul,9296.07,929.61,8366.46,November,11,Q4,2025
+50825,03-11-2025,Nagpur,Clothing,Shirt,4,2321.61,5,Debit Card,Returning,Rohan,9286.44,464.32,8822.12,November,11,Q4,2025
+51436,03-11-2025,Thane,Electronics,Laptop,6,81557.58,0,Debit Card,New,Karan,489345.48,0,489345.48,November,11,Q4,2025
+50145,04-11-2025,Aurangabad,Grocery,Biscuits,7,75.39,20,UPI,New,Anjali,527.73,105.55,422.18,November,11,Q4,2025
+50556,04-11-2025,Kolhapur,Grocery,Tea,2,194.7,10,Cash,New,Pooja,389.4,38.94,350.46,November,11,Q4,2025
+50034,05-11-2025,Aurangabad,Sports,Tennis Racket,2,4172.11,5,Debit Card,New,Vikas,8344.22,417.21,7927.01,November,11,Q4,2025
+51374,05-11-2025,Pune,Clothing,Jeans,7,1765.23,5,Debit Card,Returning,Karan,12356.61,617.83,11738.78,November,11,Q4,2025
+51048,05-11-2025,Nashik,Electronics,Mobile,8,63830.84,10,Credit Card,New,Rohan,510646.72,51064.67,459582.05,November,11,Q4,2025
+50857,06-11-2025,Mumbai,Electronics,Mobile,1,41267.9,0,Cash,New,Vikas,41267.9,0,41267.9,November,11,Q4,2025
+50127,06-11-2025,Pune,Beauty,Moisturizer,6,270,15,UPI,New,Neha,1620,243,1377,November,11,Q4,2025
+50757,06-11-2025,Mumbai,Clothing,T-Shirt,8,1045.34,20,Net Banking,New,Amit,8362.72,1672.54,6690.18,November,11,Q4,2025
+50526,07-11-2025,Thane,Grocery,Rice,6,1305.5,5,Debit Card,VIP,Pooja,7833,391.65,7441.35,November,11,Q4,2025
+50341,07-11-2025,Mumbai,Clothing,Kurta,2,1657.3,10,UPI,,Amit,3314.6,331.46,2983.14,November,11,Q4,2025
+51290,07-11-2025,Mumbai,Electronics,Tablet,4,35556.07,5,UPI,Returning,Vikas,142224.28,7111.21,135113.07,November,11,Q4,2025
+51373,08-11-2025,Pune,Beauty,Sunscreen,5,449.5,5,Debit Card,New,Pooja,2247.5,112.38,2135.12,November,11,Q4,2025
+50841,09-11-2025,Pune,Electronics,Tablet,5,14273.9,5,Credit Card,New,Priya,71369.5,3568.48,67801.02,November,11,Q4,2025
+50022,09-11-2025,Nashik,Electronics,Tablet,5,12717.43,5,Cash,VIP,Priya,63587.15,3179.36,60407.79,November,11,Q4,2025
+51021,09-11-2025,Nashik,Furniture,Chair,8,3069.81,0,Credit Card,New,Rahul,24558.48,0,24558.48,November,11,Q4,2025
+50368,09-11-2025,Nagpur,Sports,Badminton Racket,5,1866.87,0,UPI,New,Anjali,9334.35,0,9334.35,November,11,Q4,2025
+50281,10-11-2025,Mumbai,Sports,Football,7,2935.62,10,UPI,VIP,Priya,20549.34,2054.93,18494.41,November,11,Q4,2025
+50484,10-11-2025,Nashik,Clothing,T-Shirt,4,485.1,20,Debit Card,New,Amit,1940.4,388.08,1552.32,November,11,Q4,2025
+50314,11-11-2025,Aurangabad,Sports,Yoga Mat,8,1694.26,5,UPI,New,Rohan,13554.08,677.7,12876.38,November,11,Q4,2025
+50663,11-11-2025,Mumbai,Clothing,Kurta,2,2083.87,15,Credit Card,New,Amit,4167.74,625.16,3542.58,November,11,Q4,2025
+51181,12-11-2025,Pune,Sports,Badminton Racket,8,790.39,10,UPI,VIP,Priya,6323.12,632.31,5690.81,November,11,Q4,2025
+50475,12-11-2025,Nagpur,Clothing,Jacket,1,3640.6,10,Credit Card,New,Priya,3640.6,364.06,3276.54,November,11,Q4,2025
+50645,13-11-2025,Kolhapur,Electronics,Headphones,7,1172.86,10,UPI,Returning,Karan,8210.02,821,7389.02,November,11,Q4,2025
+50656,13-11-2025,Navi Mumbai,Electronics,Laptop,4,80167.75,5,Cash,Returning,Karan,320671,16033.55,304637.45,November,11,Q4,2025
+50636,13-11-2025,Nagpur,Grocery,Biscuits,5,94.68,15,Net Banking,Returning,Rohan,473.4,71.01,402.39,November,11,Q4,2025
+51007,13-11-2025,Nashik,Furniture,Bed,8,25857.49,15,Debit Card,Returning,Karan,206859.92,31028.99,175830.93,November,11,Q4,2025
+50854,13-11-2025,Nashik,Sports,Yoga Mat,2,2478.49,5,UPI,New,Karan,4956.98,247.85,4709.13,November,11,Q4,2025
+50299,14-11-2025,Navi Mumbai,Clothing,Jeans,3,3266.55,10,Credit Card,Returning,Amit,9799.65,979.96,8819.69,November,11,Q4,2025
+50272,14-11-2025,Aurangabad,Beauty,Shampoo,5,863.42,10,Credit Card,Returning,Karan,4317.1,431.71,3885.39,November,11,Q4,2025
+50440,15-11-2025,Thane,Electronics,Headphones,1,4927.21,0,UPI,Returning,Amit,4927.21,0,4927.21,November,11,Q4,2025
+50604,16-11-2025,Thane,Electronics,Keyboard,7,4753.43,5,Debit Card,New,Vikas,33274.01,1663.7,31610.31,November,11,Q4,2025
+50909,16-11-2025,Nashik,Grocery,Coffee,6,309.25,5,UPI,Returning,Rohan,1855.5,92.78,1762.72,November,11,Q4,2025
+50327,16-11-2025,Thane,Clothing,Shirt,7,1882.42,15,UPI,New,Karan,13176.94,1976.54,11200.4,November,11,Q4,2025
+50658,16-11-2025,Navi Mumbai,Grocery,Biscuits,7,46.55,5,Debit Card,Returning,Karan,325.85,16.29,309.56,November,11,Q4,2025
+51462,16-11-2025,Navi Mumbai,Furniture,Bookshelf,6,16197.52,10,UPI,New,Neha,97185.12,9718.51,87466.61,November,11,Q4,2025
+50463,17-11-2025,Pune,Furniture,Table,6,10072.31,5,Cash,New,Rohan,60433.86,3021.69,57412.17,November,11,Q4,2025
+50955,17-11-2025,Nagpur,Grocery,Sugar,1,49.77,15,Cash,VIP,Neha,49.77,7.47,42.3,November,11,Q4,2025
+50533,17-11-2025,Nagpur,Sports,Running Shoes,2,8620.2,10,UPI,New,Karan,17240.4,1724.04,15516.36,November,11,Q4,2025
+50020,17-11-2025,Nagpur,Grocery,Flour,4,52.74,5,UPI,Returning,Neha,210.96,10.55,200.41,November,11,Q4,2025
+50865,17-11-2025,Nagpur,Grocery,Rice,8,1498.41,0,Credit Card,New,Sneha,11987.28,0,11987.28,November,11,Q4,2025
+51247,18-11-2025,Navi Mumbai,Electronics,Headphones,3,1626.23,5,UPI,New,Sneha,4878.69,243.93,4634.76,November,11,Q4,2025
+50324,19-11-2025,Aurangabad,Grocery,Biscuits,4,36.28,10,Credit Card,Returning,Rahul,145.12,14.51,130.61,November,11,Q4,2025
+50494,19-11-2025,Nashik,Electronics,Monitor,4,18245.02,15,UPI,New,Priya,72980.08,10947.01,62033.07,November,11,Q4,2025
+51072,19-11-2025,Nashik,Grocery,Rice,3,949.31,0,UPI,Returning,Pooja,2847.93,0,2847.93,November,11,Q4,2025
+50129,19-11-2025,Thane,Electronics,Mobile,7,47287.72,0,Cash,Returning,Amit,331014.04,0,331014.04,November,11,Q4,2025
+50516,20-11-2025,Pune,Electronics,Monitor,4,17208.81,20,UPI,Returning,Karan,68835.24,13767.05,55068.19,November,11,Q4,2025
+50087,20-11-2025,Mumbai,Furniture,Office Desk,3,22146.18,15,UPI,Returning,Pooja,66438.54,9965.78,56472.76,November,11,Q4,2025
+50956,20-11-2025,Kolhapur,Grocery,Biscuits,2,36.61,0,Credit Card,Returning,Sneha,73.22,0,73.22,November,11,Q4,2025
+50385,20-11-2025,Nagpur,Furniture,Office Desk,2,10638.38,5,UPI,New,Neha,21276.76,1063.84,20212.92,November,11,Q4,2025
+51490,21-11-2025,Mumbai,Grocery,Coffee,8,501.59,10,Net Banking,New,Neha,4012.72,401.27,3611.45,November,11,Q4,2025
+50690,21-11-2025,Thane,Electronics,Monitor,2,19831.22,15,Credit Card,New,Rohan,39662.44,5949.37,33713.07,November,11,Q4,2025
+51102,21-11-2025,Mumbai,Sports,Yoga Mat,6,1818.8,15,Credit Card,New,Priya,10912.8,1636.92,9275.88,November,11,Q4,2025
+51151,21-11-2025,Aurangabad,Furniture,Chair,7,1249.05,10,UPI,VIP,Amit,8743.35,874.34,7869.01,November,11,Q4,2025
+51355,21-11-2025,Thane,Clothing,Jacket,3,3231.3,10,UPI,New,Amit,9693.9,969.39,8724.51,November,11,Q4,2025
+51428,22-11-2025,Aurangabad,Sports,Cricket Bat,6,7886.74,10,UPI,Returning,Rahul,47320.44,4732.04,42588.4,November,11,Q4,2025
+50706,22-11-2025,Nagpur,Sports,Running Shoes,1,10283.23,0,Credit Card,New,Pooja,10283.23,0,10283.23,November,11,Q4,2025
+50382,22-11-2025,Pune,Furniture,Bookshelf,4,17779.28,0,UPI,New,Sneha,71117.12,0,71117.12,November,11,Q4,2025
+50009,22-11-2025,Navi Mumbai,Clothing,Saree,5,6197.72,20,UPI,New,Anjali,30988.6,6197.72,24790.88,November,11,Q4,2025
+50386,22-11-2025,Aurangabad,Beauty,Shampoo,7,441.94,10,UPI,Returning,Amit,3093.58,309.36,2784.22,November,11,Q4,2025
+50346,23-11-2025,Thane,Clothing,Jacket,3,1836.7,10,Credit Card,New,Karan,5510.1,551.01,4959.09,November,11,Q4,2025
+51104,23-11-2025,Mumbai,Sports,Badminton Racket,5,3365.86,15,Net Banking,New,Pooja,16829.3,2524.4,14304.9,November,11,Q4,2025
+51369,23-11-2025,Nashik,Electronics,Tablet,5,23560.8,10,UPI,Returning,Amit,117804,11780.4,106023.6,November,11,Q4,2025
+50042,24-11-2025,Kolhapur,Clothing,Saree,6,6526.03,0,Credit Card,Returning,Neha,39156.18,0,39156.18,November,11,Q4,2025
+50949,24-11-2025,Mumbai,Beauty,Sunscreen,5,710.86,10,UPI,Returning,Vikas,3554.3,355.43,3198.87,November,11,Q4,2025
+51171,24-11-2025,Aurangabad,Clothing,Shirt,4,2370.76,10,,New,Neha,9483.04,948.3,8534.74,November,11,Q4,2025
+50583,24-11-2025,Aurangabad,Clothing,T-Shirt,8,560.01,0,UPI,New,Rohan,4480.08,0,4480.08,November,11,Q4,2025
+51118,25-11-2025,Nagpur,Beauty,Sunscreen,1,909.08,10,UPI,Returning,Vikas,909.08,90.91,818.17,November,11,Q4,2025
+50877,25-11-2025,Mumbai,Furniture,Chair,4,3492.13,5,Credit Card,New,Pooja,13968.52,698.43,13270.09,November,11,Q4,2025
+50349,25-11-2025,Nashik,Grocery,Sugar,1,69.56,10,Cash,VIP,Amit,69.56,6.96,62.6,November,11,Q4,2025
+51070,26-11-2025,Nashik,Grocery,Coffee,4,388.49,10,UPI,New,Rohan,1553.96,155.4,1398.56,November,11,Q4,2025
+50453,26-11-2025,Mumbai,Grocery,Rice,5,801.67,0,Debit Card,Returning,Rohan,4008.35,0,4008.35,November,11,Q4,2025
+50740,26-11-2025,Nashik,Grocery,Tea,2,528.6,0,,New,Sneha,1057.2,0,1057.2,November,11,Q4,2025
+50689,26-11-2025,Pune,Furniture,Chair,6,3220.31,0,Cash,New,Sneha,19321.86,0,19321.86,November,11,Q4,2025
+50749,27-11-2025,Thane,Sports,Cricket Bat,1,2720.19,,Net Banking,,Neha,2720.19,272.02,2448.17,November,11,Q4,2025
+50292,27-11-2025,Pune,Electronics,Mobile,1,15515.08,15,Credit Card,New,Neha,15515.08,2327.26,13187.82,November,11,Q4,2025
+51230,27-11-2025,Nashik,Grocery,Sugar,6,67.84,5,UPI,Returning,Vikas,407.04,20.35,386.69,November,11,Q4,2025
+51001,28-11-2025,Nashik,Electronics,Monitor,6,18482.15,10,Credit Card,New,Sneha,110892.9,11089.29,99803.61,November,11,Q4,2025
+50256,28-11-2025,Navi Mumbai,Clothing,T-Shirt,3,1314.19,15,UPI,Returning,Neha,3942.57,591.39,3351.18,November,11,Q4,2025
+50828,28-11-2025,Pune,Grocery,Sugar,3,50.4,0,Cash,New,Priya,151.2,0,151.2,November,11,Q4,2025
+50398,29-11-2025,Thane,Grocery,Coffee,2,161.87,0,Credit Card,New,Amit,323.74,0,323.74,November,11,Q4,2025
+51348,29-11-2025,Aurangabad,Grocery,Flour,7,64.47,0,Credit Card,New,Rahul,451.29,0,451.29,November,11,Q4,2025
+50215,29-11-2025,Aurangabad,Furniture,Bookshelf,5,11198.81,5,Debit Card,New,Neha,55994.05,2799.7,53194.35,November,11,Q4,2025
+50648,29-11-2025,Nashik,Furniture,Table,3,10511.32,5,Credit Card,New,Amit,31533.96,1576.7,29957.26,November,11,Q4,2025
+50196,29-11-2025,Mumbai,Grocery,Sugar,8,63.3,,Credit Card,Returning,Karan,506.4,50.64,455.76,November,11,Q4,2025
+50288,30-11-2025,Kolhapur,Clothing,Kurta,5,797.39,0,UPI,New,Karan,3986.95,0,3986.95,November,11,Q4,2025
+50820,30-11-2025,Navi Mumbai,Grocery,Oil,5,189.38,0,Credit Card,VIP,Anjali,946.9,0,946.9,November,11,Q4,2025
+51344,30-11-2025,Kolhapur,Furniture,Bookshelf,3,12233.31,0,UPI,VIP,Rahul,36699.93,0,36699.93,November,11,Q4,2025
+51088,30-11-2025,Nashik,Electronics,Laptop,8,65584.94,10,UPI,VIP,Rahul,524679.52,52467.95,472211.57,November,11,Q4,2025
+50985,01-12-2025,Nagpur,Furniture,Bookshelf,5,9376.6,10,Debit Card,Returning,Rohan,46883,4688.3,42194.7,December,12,Q4,2025
+50082,01-12-2025,Nashik,Clothing,Saree,4,5752.28,15,Credit Card,,Amit,23009.12,3451.37,19557.75,December,12,Q4,2025
+50083,02-12-2025,Aurangabad,Grocery,Coffee,6,729.74,5,UPI,New,Neha,4378.44,218.92,4159.52,December,12,Q4,2025
+51235,02-12-2025,Kolhapur,Furniture,Bed,4,14105.8,15,Credit Card,Returning,Pooja,56423.2,8463.48,47959.72,December,12,Q4,2025
+51236,02-12-2025,Nagpur,Grocery,Sugar,1,49.93,0,UPI,Returning,Karan,49.93,0,49.93,December,12,Q4,2025
+50531,02-12-2025,Nagpur,Beauty,Shampoo,1,424.63,15,Net Banking,Returning,Anjali,424.63,63.69,360.94,December,12,Q4,2025
+50580,03-12-2025,Nashik,Grocery,Coffee,7,602.85,0,Credit Card,Returning,Neha,4219.95,0,4219.95,December,12,Q4,2025
+51260,03-12-2025,Navi Mumbai,Clothing,Kurta,5,2640.64,15,UPI,New,Karan,13203.2,1980.48,11222.72,December,12,Q4,2025
+50234,03-12-2025,Nashik,Clothing,Kurta,1,2910.67,0,Credit Card,New,Anjali,2910.67,0,2910.67,December,12,Q4,2025
+51139,03-12-2025,Mumbai,Clothing,Kurta,4,2087.67,10,Credit Card,Returning,Rahul,8350.68,835.07,7515.61,December,12,Q4,2025
+51295,04-12-2025,Navi Mumbai,Beauty,Lipstick,4,692.97,20,Net Banking,VIP,Vikas,2771.88,554.38,2217.5,December,12,Q4,2025
+50861,04-12-2025,Pune,Beauty,Perfume,1,3927.54,10,Credit Card,Returning,Anjali,3927.54,392.75,3534.79,December,12,Q4,2025
+51491,04-12-2025,Aurangabad,Grocery,Biscuits,5,111.73,10,UPI,New,Priya,558.65,55.86,502.79,December,12,Q4,2025
+50092,05-12-2025,Thane,Furniture,Table,5,9431.77,15,Credit Card,New,Neha,47158.85,7073.83,40085.02,December,12,Q4,2025
+51483,05-12-2025,Navi Mumbai,Clothing,T-Shirt,6,761.81,15,UPI,New,Karan,4570.86,685.63,3885.23,December,12,Q4,2025
+51090,05-12-2025,Pune,Grocery,Flour,8,58.22,15,Debit Card,Returning,Rahul,465.76,69.86,395.9,December,12,Q4,2025
+51086,05-12-2025,Nashik,Grocery,Flour,7,64.56,20,Debit Card,VIP,Karan,451.92,90.38,361.54,December,12,Q4,2025
+50399,06-12-2025,Mumbai,Furniture,Bed,7,31864.89,5,UPI,Returning,Rahul,223054.23,11152.71,211901.52,December,12,Q4,2025
+50561,06-12-2025,Thane,Furniture,Bookshelf,8,7822.57,10,Debit Card,Returning,Rahul,62580.56,6258.06,56322.5,December,12,Q4,2025
+50421,06-12-2025,Thane,Beauty,Lipstick,4,1177,5,UPI,VIP,Neha,4708,235.4,4472.6,December,12,Q4,2025
+51221,07-12-2025,Thane,Sports,Cricket Bat,6,9856.28,5,UPI,New,Sneha,59137.68,2956.88,56180.8,December,12,Q4,2025
+50448,07-12-2025,Nashik,Furniture,Office Desk,4,20033.52,0,UPI,New,Amit,80134.08,0,80134.08,December,12,Q4,2025
+51455,08-12-2025,Mumbai,Electronics,Smartwatch,3,3891.22,0,Credit Card,Returning,Priya,11673.66,0,11673.66,December,12,Q4,2025
+51109,08-12-2025,Thane,Furniture,Chair,5,1574.66,0,Credit Card,New,Pooja,7873.3,0,7873.3,December,12,Q4,2025
+50638,09-12-2025,Nagpur,Grocery,Coffee,3,666.57,10,Net Banking,New,Neha,1999.71,199.97,1799.74,December,12,Q4,2025
+50846,09-12-2025,Aurangabad,Grocery,Oil,2,134.11,15,Debit Card,Returning,Amit,268.22,40.23,227.99,December,12,Q4,2025
+50358,10-12-2025,Aurangabad,Clothing,Jeans,8,3049.21,10,Credit Card,New,Pooja,24393.68,2439.37,21954.31,December,12,Q4,2025
+50424,10-12-2025,Kolhapur,Clothing,Saree,6,6982.92,5,Credit Card,New,Karan,41897.52,2094.88,39802.64,December,12,Q4,2025
+50011,10-12-2025,Mumbai,Electronics,Keyboard,3,4452.33,0,Credit Card,New,Priya,13356.99,0,13356.99,December,12,Q4,2025
+51452,10-12-2025,Mumbai,Clothing,T-Shirt,4,665.36,10,Debit Card,VIP,Pooja,2661.44,266.14,2395.3,December,12,Q4,2025
+50718,11-12-2025,Kolhapur,Sports,Yoga Mat,8,2276.55,5,UPI,Returning,Neha,18212.4,910.62,17301.78,December,12,Q4,2025
+50933,11-12-2025,Thane,Sports,Yoga Mat,2,451.84,15,Net Banking,New,Pooja,903.68,135.55,768.13,December,12,Q4,2025
+50200,11-12-2025,Thane,Beauty,Sunscreen,7,840.03,10,Cash,New,Amit,5880.21,588.02,5292.19,December,12,Q4,2025
+50958,12-12-2025,Aurangabad,Electronics,Tablet,7,11486.45,15,Debit Card,New,Rohan,80405.15,12060.77,68344.38,December,12,Q4,2025
+50932,12-12-2025,Pune,Beauty,Perfume,3,1246.55,5,Credit Card,New,Amit,3739.65,186.98,3552.67,December,12,Q4,2025
+50140,14-12-2025,Nagpur,Sports,Yoga Mat,6,1727.18,15,UPI,New,Sneha,10363.08,1554.46,8808.62,December,12,Q4,2025
+50617,15-12-2025,Mumbai,Electronics,Monitor,4,21572.77,0,Debit Card,Returning,Pooja,86291.08,0,86291.08,December,12,Q4,2025
+50870,15-12-2025,Thane,Sports,Yoga Mat,5,1451.49,0,UPI,Returning,Vikas,7257.45,0,7257.45,December,12,Q4,2025
+50103,15-12-2025,Mumbai,Grocery,Sugar,8,55.32,0,Net Banking,Returning,Rohan,442.56,0,442.56,December,12,Q4,2025
+51069,15-12-2025,Thane,Grocery,Rice,4,1527.02,5,Cash,Returning,Rohan,6108.08,305.4,5802.68,December,12,Q4,2025
+50680,16-12-2025,Pune,Beauty,Lipstick,5,1101.69,0,UPI,Returning,Pooja,5508.45,0,5508.45,December,12,Q4,2025
+51432,16-12-2025,Aurangabad,Clothing,Shirt,1,551.14,10,UPI,Returning,Vikas,551.14,55.11,496.03,December,12,Q4,2025
+51025,17-12-2025,Mumbai,Sports,Badminton Racket,1,3069.52,15,Net Banking,New,Neha,3069.52,460.43,2609.09,December,12,Q4,2025
+50973,17-12-2025,Kolhapur,Furniture,Bookshelf,3,16476.8,10,Credit Card,Returning,Neha,49430.4,4943.04,44487.36,December,12,Q4,2025
+50807,18-12-2025,Thane,Sports,Badminton Racket,5,1076.64,15,UPI,Returning,Anjali,5383.2,807.48,4575.72,December,12,Q4,2025
+50915,18-12-2025,Pune,Clothing,T-Shirt,3,1191.21,5,UPI,New,Rahul,3573.63,178.68,3394.95,December,12,Q4,2025
+50360,19-12-2025,Mumbai,Clothing,Shirt,6,1207.39,10,Debit Card,Returning,Anjali,7244.34,724.43,6519.91,December,12,Q4,2025
+50428,19-12-2025,Nagpur,Beauty,Perfume,3,2329.51,15,Debit Card,New,Rohan,6988.53,1048.28,5940.25,December,12,Q4,2025
+51032,19-12-2025,Mumbai,Clothing,Shirt,5,2164.83,10,Debit Card,New,Pooja,10824.15,1082.42,9741.73,December,12,Q4,2025
+50644,20-12-2025,Thane,Grocery,Rice,7,705.8,15,UPI,New,Vikas,4940.6,741.09,4199.51,December,12,Q4,2025
+50040,20-12-2025,Navi Mumbai,Grocery,Oil,1,206.3,15,Net Banking,New,Sneha,206.3,30.94,175.36,December,12,Q4,2025
+50699,20-12-2025,Aurangabad,Electronics,Headphones,6,4531.59,10,Net Banking,New,Sneha,27189.54,2718.95,24470.59,December,12,Q4,2025
+50195,20-12-2025,Thane,Grocery,Rice,3,582.08,20,UPI,New,Karan,1746.24,349.25,1396.99,December,12,Q4,2025
+50914,21-12-2025,Nagpur,Grocery,Sugar,7,45.5,15,UPI,New,Sneha,318.5,47.78,270.72,December,12,Q4,2025
+50947,21-12-2025,Navi Mumbai,Electronics,Headphones,1,3016.78,10,UPI,Returning,Karan,3016.78,301.68,2715.1,December,12,Q4,2025
+50670,22-12-2025,Nagpur,Grocery,Flour,3,77.12,10,Debit Card,Returning,Vikas,231.36,23.14,208.22,December,12,Q4,2025
+50456,22-12-2025,Mumbai,Clothing,Shirt,5,899.01,10,Credit Card,New,Anjali,4495.05,449.5,4045.55,December,12,Q4,2025
+50898,22-12-2025,Nagpur,Sports,Yoga Mat,4,402.83,10,UPI,Returning,Amit,1611.32,161.13,1450.19,December,12,Q4,2025
+51126,22-12-2025,Mumbai,Clothing,Kurta,8,1855.73,0,UPI,New,Karan,14845.84,0,14845.84,December,12,Q4,2025
+51065,22-12-2025,Mumbai,Grocery,Sugar,1,60.28,5,UPI,Returning,Sneha,60.28,3.01,57.27,December,12,Q4,2025
+50562,22-12-2025,Nashik,Electronics,Tablet,5,16201.74,10,Cash,New,Pooja,81008.7,8100.87,72907.83,December,12,Q4,2025
+50212,23-12-2025,Pune,Furniture,Office Desk,1,20675.45,10,UPI,New,Amit,20675.45,2067.54,18607.91,December,12,Q4,2025
+50321,23-12-2025,Mumbai,Clothing,Saree,2,3628.09,10,UPI,New,Anjali,7256.18,725.62,6530.56,December,12,Q4,2025
+51166,23-12-2025,Kolhapur,Beauty,Lipstick,6,499.26,10,UPI,Returning,Sneha,2995.56,299.56,2696,December,12,Q4,2025
+51017,25-12-2025,Pune,Electronics,Laptop,6,80115.65,5,Cash,New,Sneha,480693.9,24034.7,456659.2,December,12,Q4,2025
+51087,25-12-2025,Nagpur,Clothing,Kurta,4,2117.78,0,UPI,New,Anjali,8471.12,0,8471.12,December,12,Q4,2025
+50707,25-12-2025,Aurangabad,Grocery,Flour,1,42.01,0,UPI,VIP,Pooja,42.01,0,42.01,December,12,Q4,2025
+50366,25-12-2025,Mumbai,Grocery,Rice,1,599.42,5,UPI,Returning,Priya,599.42,29.97,569.45,December,12,Q4,2025
+50384,25-12-2025,Thane,Beauty,Moisturizer,4,915.19,5,Credit Card,VIP,Neha,3660.76,183.04,3477.72,December,12,Q4,2025
+50172,26-12-2025,Navi Mumbai,Electronics,Laptop,6,71989.71,10,Debit Card,VIP,Sneha,431938.26,43193.83,388744.43,December,12,Q4,2025
+50860,27-12-2025,Pune,Electronics,Tablet,2,22313.18,10,Credit Card,New,Neha,44626.36,4462.64,40163.72,December,12,Q4,2025
+50953,28-12-2025,Pune,Electronics,Mobile,6,16736.7,10,Credit Card,Returning,Pooja,100420.2,10042.02,90378.18,December,12,Q4,2025
+50241,28-12-2025,Navi Mumbai,Sports,Football,7,539.36,0,Cash,VIP,Neha,3775.52,0,3775.52,December,12,Q4,2025
+50588,29-12-2025,Aurangabad,Electronics,Smartwatch,1,3350.71,5,Credit Card,VIP,Karan,3350.71,167.54,3183.17,December,12,Q4,2025
+50023,29-12-2025,Nashik,Grocery,Biscuits,1,127.75,5,UPI,New,Priya,127.75,6.39,121.36,December,12,Q4,2025
+50219,29-12-2025,Nashik,Clothing,T-Shirt,5,441.49,0,UPI,Returning,Rahul,2207.45,0,2207.45,December,12,Q4,2025
+50383,29-12-2025,Aurangabad,Clothing,Jacket,4,3280.69,15,Credit Card,New,Rahul,13122.76,1968.41,11154.35,December,12,Q4,2025
+50454,29-12-2025,Kolhapur,Sports,Cricket Bat,2,3388.33,10,Debit Card,Returning,Rohan,6776.66,677.67,6098.99,December,12,Q4,2025
+51255,30-12-2025,Pune,Furniture,Chair,2,2461.55,5,Debit Card,VIP,Karan,4923.1,246.16,4676.94,December,12,Q4,2025
+50901,30-12-2025,Kolhapur,Electronics,Laptop,8,45827.38,10,Debit Card,Returning,Karan,366619.04,36661.9,329957.14,December,12,Q4,2025
+50057,30-12-2025,Mumbai,Electronics,Keyboard,5,1850.68,10,Debit Card,New,Rohan,9253.4,925.34,8328.06,December,12,Q4,2025
+51108,31-12-2025,Kolhapur,Furniture,Bookshelf,3,9091.04,15,Credit Card,New,Amit,27273.12,4090.97,23182.15,December,12,Q4,2025
+51022,31-12-2025,Thane,Grocery,Flour,2,71.86,20,Credit Card,Returning,Neha,143.72,28.74,114.98,December,12,Q4,2025
+51031,31-12-2025,Pune,Electronics,Keyboard,3,3503.17,0,UPI,Returning,Karan,10509.51,0,10509.51,December,12,Q4,2025
+50900,31-12-2025,Nagpur,Electronics,Smartwatch,5,3435.84,10,Credit Card,New,Amit,17179.2,1717.92,15461.28,December,12,Q4,2025
+51186,01-01-2026,Pune,Sports,Running Shoes,8,10290.99,10,UPI,New,Karan,82327.92,8232.79,74095.13,January,1,Q1,2026
+50068,01-01-2026,Mumbai,Beauty,Face Wash,8,262.02,10,UPI,VIP,Sneha,2096.16,209.62,1886.54,January,1,Q1,2026
+50102,02-01-2026,Aurangabad,Clothing,Jeans,1,2282.1,10,Cash,Returning,Sneha,2282.1,228.21,2053.89,January,1,Q1,2026
+50062,02-01-2026,Thane,Grocery,Sugar,3,52.44,10,UPI,Returning,Karan,157.32,15.73,141.59,January,1,Q1,2026
+51500,03-01-2026,Navi Mumbai,Beauty,Lipstick,5,687.25,10,Credit Card,New,Neha,3436.25,343.62,3092.63,January,1,Q1,2026
+50804,03-01-2026,Nagpur,Clothing,Shirt,3,943.56,15,Cash,New,Pooja,2830.68,424.6,2406.08,January,1,Q1,2026
+50654,04-01-2026,Thane,Furniture,Office Desk,8,16529.45,0,UPI,Returning,Neha,132235.6,0,132235.6,January,1,Q1,2026
+50161,04-01-2026,Nashik,Grocery,Biscuits,1,76.31,20,UPI,VIP,Anjali,76.31,15.26,61.05,January,1,Q1,2026
+50441,04-01-2026,Nagpur,Electronics,Headphones,3,3231.07,5,Credit Card,New,Priya,9693.21,484.66,9208.55,January,1,Q1,2026
+50010,06-01-2026,Nagpur,Furniture,Table,5,3689.72,15,Credit Card,Returning,Pooja,18448.6,2767.29,15681.31,January,1,Q1,2026
+50222,06-01-2026,Navi Mumbai,Clothing,Jacket,5,4680.77,15,UPI,Returning,Neha,23403.85,3510.58,19893.27,January,1,Q1,2026
+50575,06-01-2026,Nagpur,Beauty,Sunscreen,5,474.14,10,UPI,New,Rohan,2370.7,237.07,2133.63,January,1,Q1,2026
+50549,06-01-2026,Navi Mumbai,Clothing,Shirt,6,829.77,10,Debit Card,Returning,Amit,4978.62,497.86,4480.76,January,1,Q1,2026
+50501,07-01-2026,Aurangabad,Furniture,Bookshelf,6,6797.78,5,Cash,VIP,Amit,40786.68,2039.33,38747.35,January,1,Q1,2026
+50952,08-01-2026,Kolhapur,Furniture,Sofa,6,49035.04,10,Credit Card,Returning,Pooja,294210.24,29421.02,264789.22,January,1,Q1,2026
+51201,09-01-2026,Aurangabad,Furniture,Office Desk,7,14488.7,0,Debit Card,Returning,Anjali,101420.9,0,101420.9,January,1,Q1,2026
+50146,09-01-2026,Kolhapur,Electronics,Monitor,7,20056.71,10,Credit Card,Returning,Neha,140396.97,14039.7,126357.27,January,1,Q1,2026
+50198,10-01-2026,Aurangabad,Sports,Badminton Racket,1,2684.55,15,Cash,New,Karan,2684.55,402.68,2281.87,January,1,Q1,2026
+50982,10-01-2026,Mumbai,Beauty,Perfume,2,4544.55,10,Debit Card,New,Priya,9089.1,908.91,8180.19,January,1,Q1,2026
+51240,10-01-2026,Thane,Electronics,Keyboard,4,3192.36,5,Debit Card,VIP,Karan,12769.44,638.47,12130.97,January,1,Q1,2026
+50251,11-01-2026,Nashik,Grocery,Oil,8,160.23,0,Net Banking,Returning,Karan,1281.84,0,1281.84,January,1,Q1,2026
+51062,11-01-2026,Pune,Sports,Running Shoes,3,11648.75,5,Credit Card,New,Anjali,34946.25,1747.31,33198.94,January,1,Q1,2026
+50869,11-01-2026,Thane,Beauty,Shampoo,4,659.06,10,Credit Card,New,Rahul,2636.24,263.62,2372.62,January,1,Q1,2026
+50555,11-01-2026,Navi Mumbai,Beauty,Shampoo,1,837.53,5,Credit Card,Returning,Amit,837.53,41.88,795.65,January,1,Q1,2026
+50121,11-01-2026,Kolhapur,Beauty,Lipstick,7,891.71,10,Net Banking,New,Karan,6241.97,624.2,5617.77,January,1,Q1,2026
+50509,11-01-2026,Pune,Sports,Football,5,2818.39,15,Net Banking,New,Priya,14091.95,2113.79,11978.16,January,1,Q1,2026
+50437,12-01-2026,Navi Mumbai,Electronics,Smartwatch,7,13568.8,15,UPI,New,Priya,94981.6,14247.24,80734.36,January,1,Q1,2026
+50736,13-01-2026,Kolhapur,Beauty,Sunscreen,7,772.52,0,UPI,Returning,Rohan,5407.64,0,5407.64,January,1,Q1,2026
+50318,14-01-2026,Kolhapur,Electronics,Laptop,8,67570.91,0,UPI,Returning,Rohan,540567.28,0,540567.28,January,1,Q1,2026
+50287,14-01-2026,Aurangabad,Grocery,Flour,6,48.17,5,Debit Card,Returning,Karan,289.02,14.45,274.57,January,1,Q1,2026
+51253,14-01-2026,Nagpur,Electronics,Mobile,6,46086.43,10,Net Banking,Returning,Karan,276518.58,27651.86,248866.72,January,1,Q1,2026
+50694,14-01-2026,Nashik,Grocery,Tea,5,378.16,0,Net Banking,Returning,Anjali,1890.8,0,1890.8,January,1,Q1,2026
+50099,14-01-2026,Navi Mumbai,Electronics,Tablet,7,17120.28,20,Net Banking,Returning,Sneha,119841.96,23968.39,95873.57,January,1,Q1,2026
+50028,14-01-2026,Navi Mumbai,Clothing,Saree,6,3413.47,5,UPI,New,Rahul,20480.82,1024.04,19456.78,January,1,Q1,2026
+50963,15-01-2026,Kolhapur,Grocery,Rice,4,664.15,0,UPI,Returning,Priya,2656.6,0,2656.6,January,1,Q1,2026
+50065,15-01-2026,Aurangabad,Grocery,Coffee,3,659.23,15,UPI,New,Anjali,1977.69,296.65,1681.04,January,1,Q1,2026
+50641,15-01-2026,Aurangabad,Electronics,Mobile,8,16433.51,5,Debit Card,Returning,Rohan,131468.08,6573.4,124894.68,January,1,Q1,2026
+50024,15-01-2026,Mumbai,Grocery,Biscuits,1,65.36,5,Credit Card,Returning,Amit,65.36,3.27,62.09,January,1,Q1,2026
+51107,15-01-2026,Thane,Grocery,Flour,8,41.68,10,Credit Card,Returning,Pooja,333.44,33.34,300.1,January,1,Q1,2026
+50584,16-01-2026,Thane,Grocery,Tea,3,342.91,0,Cash,Returning,Rohan,1028.73,0,1028.73,January,1,Q1,2026
+51003,16-01-2026,Mumbai,Beauty,Lipstick,6,861.29,10,UPI,New,Pooja,5167.74,516.77,4650.97,January,1,Q1,2026
+51449,16-01-2026,Navi Mumbai,Sports,Running Shoes,6,2064.61,10,UPI,New,Rohan,12387.66,1238.77,11148.89,January,1,Q1,2026
+50242,16-01-2026,Mumbai,Sports,Yoga Mat,6,436.01,0,UPI,New,Sneha,2616.06,0,2616.06,January,1,Q1,2026
+50787,16-01-2026,Navi Mumbai,Clothing,Jeans,7,2932.2,5,Credit Card,VIP,Sneha,20525.4,1026.27,19499.13,January,1,Q1,2026
+51207,17-01-2026,Nagpur,Furniture,Bookshelf,8,6825.79,5,Credit Card,Returning,Rohan,54606.32,2730.32,51876,January,1,Q1,2026
+51041,17-01-2026,Aurangabad,Clothing,T-Shirt,1,898.75,5,Credit Card,Returning,Pooja,898.75,44.94,853.81,January,1,Q1,2026
+50521,17-01-2026,Mumbai,Clothing,Kurta,3,2165.32,0,UPI,New,Amit,6495.96,0,6495.96,January,1,Q1,2026
+50802,17-01-2026,Nagpur,Electronics,Laptop,1,63472.31,0,Credit Card,New,Anjali,63472.31,0,63472.31,January,1,Q1,2026
+50743,17-01-2026,Navi Mumbai,Furniture,Sofa,4,20958.21,0,UPI,New,Neha,83832.84,0,83832.84,January,1,Q1,2026
+50237,17-01-2026,Navi Mumbai,Grocery,Biscuits,6,72.78,5,Credit Card,New,Priya,436.68,21.83,414.85,January,1,Q1,2026
+50230,17-01-2026,Thane,Clothing,Kurta,2,1771.4,10,UPI,New,Vikas,3542.8,354.28,3188.52,January,1,Q1,2026
+51227,18-01-2026,Nashik,Grocery,Tea,2,445.36,15,Credit Card,Returning,Rohan,890.72,133.61,757.11,January,1,Q1,2026
+51167,18-01-2026,Navi Mumbai,Beauty,Lipstick,5,580.59,5,Net Banking,Returning,Anjali,2902.95,145.15,2757.8,January,1,Q1,2026
+51392,18-01-2026,Navi Mumbai,Electronics,Laptop,3,54425.51,10,Debit Card,VIP,Vikas,163276.53,16327.65,146948.88,January,1,Q1,2026
+51273,19-01-2026,Thane,Beauty,Face Wash,2,552.36,20,UPI,Returning,Rahul,1104.72,220.94,883.78,January,1,Q1,2026
+50438,19-01-2026,Nagpur,Beauty,Moisturizer,4,537.48,10,Credit Card,Returning,Pooja,2149.92,214.99,1934.93,January,1,Q1,2026
+51418,19-01-2026,Mumbai,Electronics,Smartwatch,8,5729.1,10,Debit Card,Returning,Sneha,45832.8,4583.28,41249.52,January,1,Q1,2026
+50957,19-01-2026,Kolhapur,Clothing,T-Shirt,8,963.55,5,Debit Card,New,Sneha,7708.4,385.42,7322.98,January,1,Q1,2026
+50173,20-01-2026,Nagpur,Clothing,Jacket,5,5376.81,10,Credit Card,Returning,Rohan,26884.05,2688.4,24195.65,January,1,Q1,2026
+51147,20-01-2026,Mumbai,Beauty,Perfume,8,4036.66,5,UPI,Returning,Neha,32293.28,1614.66,30678.62,January,1,Q1,2026
+50550,20-01-2026,Thane,Beauty,Perfume,5,1579.95,10,Debit Card,Returning,Anjali,7899.75,789.98,7109.77,January,1,Q1,2026
+50489,21-01-2026,Navi Mumbai,Sports,Cricket Bat,6,9967.58,0,Net Banking,Returning,Amit,59805.48,0,59805.48,January,1,Q1,2026
+50929,21-01-2026,Pune,Clothing,Jacket,8,3290.48,10,Credit Card,Returning,Rohan,26323.84,2632.38,23691.46,January,1,Q1,2026
+51434,22-01-2026,Navi Mumbai,Furniture,Bookshelf,4,16645.47,5,Credit Card,New,Pooja,66581.88,3329.09,63252.79,January,1,Q1,2026
+51324,22-01-2026,Aurangabad,Electronics,Tablet,4,16396.29,15,Credit Card,VIP,Pooja,65585.16,9837.77,55747.39,January,1,Q1,2026
+51487,22-01-2026,Kolhapur,Grocery,Tea,6,566.24,0,Credit Card,New,Sneha,3397.44,0,3397.44,January,1,Q1,2026
+51362,22-01-2026,Navi Mumbai,Electronics,Monitor,1,23907.58,5,Debit Card,VIP,Rohan,23907.58,1195.38,22712.2,January,1,Q1,2026
+51405,22-01-2026,Pune,Furniture,Chair,7,4567.9,5,Debit Card,Returning,Neha,31975.3,1598.76,30376.54,January,1,Q1,2026
+50672,22-01-2026,Pune,Sports,Football,6,1059.96,10,Cash,New,Vikas,6359.76,635.98,5723.78,January,1,Q1,2026
+50425,22-01-2026,Aurangabad,Electronics,Keyboard,1,1410.8,10,Credit Card,New,Rahul,1410.8,141.08,1269.72,January,1,Q1,2026
+50541,22-01-2026,Mumbai,Sports,Running Shoes,8,10420.11,15,Debit Card,New,Neha,83360.88,12504.13,70856.75,January,1,Q1,2026
+51320,23-01-2026,Nashik,Electronics,Smartwatch,4,5783.62,0,UPI,VIP,Amit,23134.48,0,23134.48,January,1,Q1,2026
+50220,24-01-2026,Mumbai,Beauty,Sunscreen,8,811,10,Debit Card,Returning,Sneha,6488,648.8,5839.2,January,1,Q1,2026
+50921,24-01-2026,Pune,Beauty,Moisturizer,3,1042.02,10,Debit Card,VIP,Rohan,3126.06,312.61,2813.45,January,1,Q1,2026
+50464,25-01-2026,Navi Mumbai,Clothing,Jeans,3,2433.86,0,UPI,New,Rohan,7301.58,0,7301.58,January,1,Q1,2026
+51042,25-01-2026,Kolhapur,Beauty,Shampoo,1,610.99,10,UPI,Returning,Neha,610.99,61.1,549.89,January,1,Q1,2026
+51274,26-01-2026,Nashik,Electronics,Keyboard,6,2300.12,10,UPI,New,Sneha,13800.72,1380.07,12420.65,January,1,Q1,2026
+50231,27-01-2026,Nashik,Beauty,Lipstick,7,963.95,0,Credit Card,New,Neha,6747.65,0,6747.65,January,1,Q1,2026
+50159,27-01-2026,Mumbai,Grocery,Tea,1,229.12,0,Credit Card,New,Anjali,229.12,0,229.12,January,1,Q1,2026
+50274,27-01-2026,Pune,Sports,Cricket Bat,7,4261.88,0,Cash,New,Pooja,29833.16,0,29833.16,January,1,Q1,2026
+50558,28-01-2026,Mumbai,Electronics,Smartwatch,6,2311.3,15,Credit Card,Returning,Pooja,13867.8,2080.17,11787.63,January,1,Q1,2026
+50892,28-01-2026,Aurangabad,Beauty,Sunscreen,4,351.31,5,UPI,Returning,Priya,1405.24,70.26,1334.98,January,1,Q1,2026
+51002,28-01-2026,Pune,Clothing,Shirt,5,1136.61,0,UPI,Returning,Amit,5683.05,0,5683.05,January,1,Q1,2026
+50601,28-01-2026,Nashik,Electronics,Tablet,2,34489.15,15,Credit Card,VIP,Rohan,68978.3,10346.75,58631.55,January,1,Q1,2026
+50091,29-01-2026,Aurangabad,Electronics,Laptop,6,54985.52,10,Debit Card,New,Rohan,329913.12,32991.31,296921.81,January,1,Q1,2026
+50308,29-01-2026,Pune,Grocery,Coffee,7,221.18,15,Cash,Returning,Rohan,1548.26,232.24,1316.02,January,1,Q1,2026
+50599,29-01-2026,Kolhapur,Electronics,Monitor,5,27206.43,0,UPI,Returning,Karan,136032.15,0,136032.15,January,1,Q1,2026
+50278,29-01-2026,Nagpur,Clothing,Saree,7,5421.5,5,Debit Card,Returning,Rahul,37950.5,1897.52,36052.98,January,1,Q1,2026
+51136,30-01-2026,Thane,Electronics,Headphones,4,7911.8,0,Credit Card,Returning,Rahul,31647.2,0,31647.2,January,1,Q1,2026
+50506,30-01-2026,Nagpur,Electronics,Keyboard,5,3092.76,0,Credit Card,New,Priya,15463.8,0,15463.8,January,1,Q1,2026
+50335,31-01-2026,Aurangabad,Electronics,Smartwatch,8,6845.48,0,Net Banking,Returning,Pooja,54763.84,0,54763.84,January,1,Q1,2026
+50517,31-01-2026,Navi Mumbai,Grocery,Oil,6,149.25,0,Credit Card,Returning,Vikas,895.5,0,895.5,January,1,Q1,2026
+50361,31-01-2026,Nagpur,Grocery,Coffee,1,376.86,0,UPI,VIP,Karan,376.86,0,376.86,January,1,Q1,2026
+51350,31-01-2026,Aurangabad,Electronics,Laptop,4,56508.47,0,Cash,Returning,Rohan,226033.88,0,226033.88,January,1,Q1,2026
+50259,31-01-2026,Aurangabad,Clothing,Kurta,2,2009.81,10,Net Banking,New,Vikas,4019.62,401.96,3617.66,January,1,Q1,2026
+50187,31-01-2026,Nagpur,Beauty,Perfume,8,3867.05,10,Credit Card,Returning,Karan,30936.4,3093.64,27842.76,January,1,Q1,2026
+50746,31-01-2026,Navi Mumbai,Sports,Badminton Racket,3,2653.93,10,Cash,VIP,Rohan,7961.79,796.18,7165.61,January,1,Q1,2026
+51158,01-02-2026,Kolhapur,Beauty,Moisturizer,2,327.1,15,Credit Card,VIP,Amit,654.2,98.13,556.07,February,2,Q1,2026
+50001,03-02-2026,Mumbai,Grocery,Oil,3,202.65,15,UPI,VIP,Sneha,607.95,91.19,516.76,February,2,Q1,2026
+50942,03-02-2026,Pune,Clothing,Kurta,5,2980.34,5,Credit Card,VIP,Amit,14901.7,745.08,14156.62,February,2,Q1,2026
+50884,04-02-2026,Thane,Electronics,Tablet,7,37332.18,5,Net Banking,Returning,Rahul,261325.26,13066.26,248259,February,2,Q1,2026
+50934,04-02-2026,Pune,Clothing,Shirt,1,1225.51,10,Net Banking,New,Priya,1225.51,122.55,1102.96,February,2,Q1,2026
+50446,05-02-2026,Thane,Sports,Running Shoes,6,6980.51,0,Debit Card,New,Priya,41883.06,0,41883.06,February,2,Q1,2026
+50403,05-02-2026,Mumbai,Clothing,Kurta,4,2280.19,10,UPI,Returning,Priya,9120.76,912.08,8208.68,February,2,Q1,2026
+50889,06-02-2026,Kolhapur,Electronics,Laptop,5,57952.41,0,UPI,New,Karan,289762.05,0,289762.05,February,2,Q1,2026
+50593,06-02-2026,Thane,Electronics,Mobile,3,32597.64,0,UPI,Returning,Priya,97792.92,0,97792.92,February,2,Q1,2026
+50261,06-02-2026,Pune,Clothing,Jeans,1,1885.73,5,Credit Card,VIP,Rahul,1885.73,94.29,1791.44,February,2,Q1,2026
+50902,06-02-2026,Thane,Electronics,Mobile,1,38915.87,10,Debit Card,New,Priya,38915.87,3891.59,35024.28,February,2,Q1,2026
+50964,07-02-2026,Pune,Grocery,Flour,3,72.54,20,Net Banking,Returning,Rahul,217.62,43.52,174.1,February,2,Q1,2026
+50070,07-02-2026,Kolhapur,Sports,Yoga Mat,1,1548.04,10,Credit Card,New,Vikas,1548.04,154.8,1393.24,February,2,Q1,2026
+50079,07-02-2026,Aurangabad,Grocery,Biscuits,5,86.6,0,UPI,VIP,Rahul,433,0,433,February,2,Q1,2026
+50518,08-02-2026,Navi Mumbai,Beauty,Perfume,2,1994.93,0,UPI,Returning,Rahul,3989.86,0,3989.86,February,2,Q1,2026
+50907,09-02-2026,Mumbai,Beauty,Sunscreen,6,438.31,15,UPI,Returning,Amit,2629.86,394.48,2235.38,February,2,Q1,2026
+50375,09-02-2026,Kolhapur,Electronics,Headphones,1,6420,10,Credit Card,Returning,Anjali,6420,642,5778,February,2,Q1,2026
+50151,09-02-2026,Mumbai,Sports,Running Shoes,3,1653.6,5,Debit Card,VIP,Amit,4960.8,248.04,4712.76,February,2,Q1,2026
+51232,10-02-2026,Thane,Grocery,Flour,5,51.44,5,Credit Card,New,Rohan,257.2,12.86,244.34,February,2,Q1,2026
+50239,11-02-2026,Nagpur,Clothing,Kurta,4,884.51,0,Credit Card,VIP,Rohan,3538.04,0,3538.04,February,2,Q1,2026
+50002,11-02-2026,Navi Mumbai,Sports,Badminton Racket,7,2618.67,0,Credit Card,Returning,Rahul,18330.69,0,18330.69,February,2,Q1,2026
+51408,12-02-2026,Nashik,Beauty,Moisturizer,3,528.56,5,UPI,New,Priya,1585.68,79.28,1506.4,February,2,Q1,2026
+50059,13-02-2026,Navi Mumbai,Electronics,Mobile,2,55464.65,0,Credit Card,New,Rohan,110929.3,0,110929.3,February,2,Q1,2026
+51071,13-02-2026,Navi Mumbai,Grocery,Tea,5,389.87,0,Debit Card,New,Anjali,1949.35,0,1949.35,February,2,Q1,2026
+51163,14-02-2026,Kolhapur,Grocery,Flour,1,73.41,0,UPI,Returning,Amit,73.41,0,73.41,February,2,Q1,2026
+50792,14-02-2026,Pune,Clothing,Shirt,4,1632.43,10,Credit Card,Returning,Karan,6529.72,652.97,5876.75,February,2,Q1,2026
+50436,15-02-2026,Navi Mumbai,Furniture,Table,8,11450.05,10,Credit Card,New,Neha,91600.4,9160.04,82440.36,February,2,Q1,2026
+51442,15-02-2026,Aurangabad,Electronics,Keyboard,5,4446.66,10,Debit Card,New,Rahul,22233.3,2223.33,20009.97,February,2,Q1,2026
+50969,15-02-2026,Nagpur,Clothing,Kurta,4,2756.81,5,Debit Card,New,Pooja,11027.24,551.36,10475.88,February,2,Q1,2026
+51036,16-02-2026,Pune,Furniture,Office Desk,1,5961.85,0,Credit Card,New,Rahul,5961.85,0,5961.85,February,2,Q1,2026
+51364,16-02-2026,Aurangabad,Clothing,Jeans,1,2758.74,5,Net Banking,New,Pooja,2758.74,137.94,2620.8,February,2,Q1,2026
+50422,17-02-2026,Thane,Beauty,Lipstick,7,599.27,10,Debit Card,Returning,Vikas,4194.89,419.49,3775.4,February,2,Q1,2026
+51182,17-02-2026,Aurangabad,Grocery,Tea,3,509.8,5,Credit Card,Returning,Rahul,1529.4,76.47,1452.93,February,2,Q1,2026
+50763,18-02-2026,Pune,Grocery,Tea,4,498.61,5,Credit Card,VIP,Amit,1994.44,99.72,1894.72,February,2,Q1,2026
+50713,18-02-2026,Pune,Clothing,Saree,7,3203.78,15,Credit Card,VIP,Amit,22426.46,3363.97,19062.49,February,2,Q1,2026
+51216,19-02-2026,Aurangabad,Grocery,Rice,2,929.51,0,Debit Card,New,Anjali,1859.02,0,1859.02,February,2,Q1,2026
+50178,19-02-2026,Aurangabad,Grocery,Sugar,8,57.54,10,Cash,New,Sneha,460.32,46.03,414.29,February,2,Q1,2026
+50204,19-02-2026,Pune,Sports,Yoga Mat,8,856.18,5,Credit Card,Returning,Priya,6849.44,342.47,6506.97,February,2,Q1,2026
+50277,19-02-2026,Mumbai,Beauty,Shampoo,2,846.03,10,Debit Card,Returning,Rahul,1692.06,169.21,1522.85,February,2,Q1,2026
+50492,19-02-2026,Navi Mumbai,Clothing,Saree,4,2508.51,20,Debit Card,Returning,Rohan,10034.04,2006.81,8027.23,February,2,Q1,2026
+50729,20-02-2026,Mumbai,Electronics,Laptop,4,57347.31,5,Credit Card,Returning,Vikas,229389.24,11469.46,217919.78,February,2,Q1,2026
+50545,20-02-2026,Thane,Clothing,Shirt,4,2469.69,10,Debit Card,New,Neha,9878.76,987.88,8890.88,February,2,Q1,2026
+50547,20-02-2026,Kolhapur,Electronics,Monitor,4,17961.9,20,Credit Card,Returning,Karan,71847.6,14369.52,57478.08,February,2,Q1,2026
+50008,20-02-2026,Aurangabad,Beauty,Moisturizer,1,454.88,10,UPI,New,Amit,454.88,45.49,409.39,February,2,Q1,2026
+51413,20-02-2026,Nagpur,Grocery,Flour,3,65.28,5,Debit Card,New,Rahul,195.84,9.79,186.05,February,2,Q1,2026
+51322,21-02-2026,Aurangabad,Electronics,Laptop,1,47741.79,15,Cash,Returning,Neha,47741.79,7161.27,40580.52,February,2,Q1,2026
+51412,21-02-2026,Pune,Electronics,Mobile,6,36834.67,0,Credit Card,New,Sneha,221008.02,0,221008.02,February,2,Q1,2026
+51272,21-02-2026,Nashik,Beauty,Face Wash,7,299.96,5,Debit Card,Returning,Amit,2099.72,104.99,1994.73,February,2,Q1,2026
+51165,21-02-2026,Mumbai,Electronics,Smartwatch,4,7455.53,0,Cash,New,Sneha,29822.12,0,29822.12,February,2,Q1,2026
+51317,21-02-2026,Kolhapur,Clothing,T-Shirt,1,1069.76,10,Credit Card,Returning,Pooja,1069.76,106.98,962.78,February,2,Q1,2026
+51354,21-02-2026,Nagpur,Furniture,Sofa,5,50581.1,15,Credit Card,New,Priya,252905.5,37935.82,214969.68,February,2,Q1,2026
+50895,21-02-2026,Nagpur,Furniture,Chair,4,4786.93,10,UPI,New,Pooja,19147.72,1914.77,17232.95,February,2,Q1,2026
+51196,21-02-2026,Navi Mumbai,Beauty,Face Wash,4,620.14,10,Credit Card,VIP,Rohan,2480.56,248.06,2232.5,February,2,Q1,2026
+50756,22-02-2026,Thane,Beauty,Shampoo,7,482.29,5,Net Banking,VIP,Amit,3376.03,168.8,3207.23,February,2,Q1,2026
+50944,22-02-2026,Mumbai,Beauty,Moisturizer,6,984.77,10,UPI,New,Sneha,5908.62,590.86,5317.76,February,2,Q1,2026
+50303,22-02-2026,Nagpur,Clothing,Shirt,1,1669,5,Credit Card,VIP,Priya,1669,83.45,1585.55,February,2,Q1,2026
+50123,23-02-2026,Nashik,Grocery,Tea,4,215.77,5,Debit Card,VIP,Rohan,863.08,43.15,819.93,February,2,Q1,2026
+50727,23-02-2026,Aurangabad,Electronics,Mobile,6,26471.18,10,UPI,Returning,Neha,158827.08,15882.71,142944.37,February,2,Q1,2026
+50621,24-02-2026,Navi Mumbai,Electronics,Monitor,8,25368.83,5,Debit Card,Returning,Pooja,202950.64,10147.53,192803.11,February,2,Q1,2026
+51187,24-02-2026,Kolhapur,Furniture,Bookshelf,1,11601.97,0,Credit Card,New,Neha,11601.97,0,11601.97,February,2,Q1,2026
+50896,24-02-2026,Thane,Electronics,Mobile,7,56418.08,15,UPI,Returning,Sneha,394926.56,59238.98,335687.58,February,2,Q1,2026
+50138,25-02-2026,Nashik,Furniture,Sofa,3,52904.65,10,UPI,New,Karan,158713.95,15871.4,142842.55,February,2,Q1,2026
+51246,25-02-2026,Navi Mumbai,Clothing,Kurta,1,2915.27,20,Credit Card,Returning,Priya,2915.27,583.05,2332.22,February,2,Q1,2026
+51440,25-02-2026,Aurangabad,Furniture,Bed,8,32745.09,0,UPI,New,Neha,261960.72,0,261960.72,February,2,Q1,2026
+50738,25-02-2026,Aurangabad,Beauty,Face Wash,6,278.64,0,Credit Card,Returning,Rahul,1671.84,0,1671.84,February,2,Q1,2026
+50532,26-02-2026,Kolhapur,Sports,Yoga Mat,4,1356.8,10,Credit Card,Returning,Sneha,5427.2,542.72,4884.48,February,2,Q1,2026
+50225,26-02-2026,Aurangabad,Grocery,Biscuits,1,137.4,15,Cash,Returning,Neha,137.4,20.61,116.79,February,2,Q1,2026
+50498,26-02-2026,Thane,Electronics,Headphones,1,7441.05,5,Debit Card,Returning,Neha,7441.05,372.05,7069,February,2,Q1,2026
+50374,27-02-2026,Thane,Furniture,Bookshelf,3,10698.95,5,Net Banking,Returning,Amit,32096.85,1604.84,30492.01,February,2,Q1,2026
+51353,27-02-2026,Aurangabad,Grocery,Biscuits,4,43.55,20,Credit Card,Returning,Neha,174.2,34.84,139.36,February,2,Q1,2026
+50483,01-03-2026,Navi Mumbai,Grocery,Rice,6,1505.62,15,UPI,VIP,Rahul,9033.72,1355.06,7678.66,March,3,Q1,2026
+51498,01-03-2026,Navi Mumbai,Grocery,Oil,7,152.61,0,UPI,Returning,Vikas,1068.27,0,1068.27,March,3,Q1,2026
+50628,02-03-2026,Nashik,Furniture,Chair,4,4171.79,20,Credit Card,New,Priya,16687.16,3337.43,13349.73,March,3,Q1,2026
+50546,02-03-2026,Aurangabad,Grocery,Oil,2,213.9,0,Debit Card,Returning,Rahul,427.8,0,427.8,March,3,Q1,2026
+50722,02-03-2026,Nashik,Electronics,Keyboard,8,1719.72,10,Debit Card,Returning,Anjali,13757.76,1375.78,12381.98,March,3,Q1,2026
+51464,03-03-2026,Pune,Furniture,Office Desk,3,20664.31,20,Debit Card,New,Rohan,61992.93,12398.59,49594.34,March,3,Q1,2026
+51245,03-03-2026,Kolhapur,Furniture,Bookshelf,2,11698.1,20,Cash,Returning,Neha,23396.2,4679.24,18716.96,March,3,Q1,2026
+50265,03-03-2026,Navi Mumbai,Beauty,Perfume,4,2611.78,15,UPI,Returning,Neha,10447.12,1567.07,8880.05,March,3,Q1,2026
+51257,03-03-2026,Mumbai,Electronics,Monitor,7,17615.13,10,Debit Card,Returning,Vikas,123305.91,12330.59,110975.32,March,3,Q1,2026
+50974,04-03-2026,Thane,Electronics,Smartwatch,7,1684.06,15,UPI,VIP,Vikas,11788.42,1768.26,10020.16,March,3,Q1,2026
+50006,04-03-2026,Navi Mumbai,Electronics,Mobile,4,37711.78,0,Debit Card,New,Amit,150847.12,0,150847.12,March,3,Q1,2026
+50201,04-03-2026,Nagpur,Clothing,Jacket,3,4981.48,10,Debit Card,Returning,Anjali,14944.44,1494.44,13450,March,3,Q1,2026
+51244,04-03-2026,Navi Mumbai,Beauty,Moisturizer,2,1167.8,5,Debit Card,New,Amit,2335.6,116.78,2218.82,March,3,Q1,2026
+51150,07-03-2026,Mumbai,Beauty,Perfume,8,4432.44,0,Credit Card,Returning,Vikas,35459.52,0,35459.52,March,3,Q1,2026
+51173,07-03-2026,Navi Mumbai,Clothing,Jacket,6,3504.24,20,Credit Card,Returning,Pooja,21025.44,4205.09,16820.35,March,3,Q1,2026
+50977,07-03-2026,Nashik,Clothing,T-Shirt,1,522.33,10,UPI,Returning,Pooja,522.33,52.23,470.1,March,3,Q1,2026
+50544,07-03-2026,Nashik,Furniture,Table,8,7869.03,5,Debit Card,New,Amit,62952.24,3147.61,59804.63,March,3,Q1,2026
+50097,08-03-2026,Thane,Clothing,Shirt,6,1430.11,15,Net Banking,Returning,Vikas,8580.66,1287.1,7293.56,March,3,Q1,2026
+50684,08-03-2026,Kolhapur,Furniture,Bookshelf,5,10134.47,5,UPI,New,Karan,50672.35,2533.62,48138.73,March,3,Q1,2026
+51172,09-03-2026,Navi Mumbai,Sports,Cricket Bat,1,5195.05,15,Cash,Returning,Sneha,5195.05,779.26,4415.79,March,3,Q1,2026
+51075,09-03-2026,Mumbai,Sports,Tennis Racket,1,1998.7,0,Debit Card,VIP,Rohan,1998.7,0,1998.7,March,3,Q1,2026
+51363,09-03-2026,Aurangabad,Clothing,Shirt,3,2045.34,0,UPI,New,Vikas,6136.02,0,6136.02,March,3,Q1,2026
+51169,09-03-2026,Navi Mumbai,Electronics,Laptop,5,48064.91,5,UPI,New,Vikas,240324.55,12016.23,228308.32,March,3,Q1,2026
+50465,10-03-2026,Thane,Sports,Football,6,516.09,10,Debit Card,New,Rohan,3096.54,309.65,2786.89,March,3,Q1,2026
+51189,10-03-2026,Navi Mumbai,Grocery,Rice,6,1312.93,5,UPI,New,Sneha,7877.58,393.88,7483.7,March,3,Q1,2026
+50926,10-03-2026,Mumbai,Electronics,Keyboard,2,2818.18,0,Cash,New,Amit,5636.36,0,5636.36,March,3,Q1,2026
+51183,10-03-2026,Aurangabad,Clothing,Shirt,1,2149.71,10,UPI,New,Neha,2149.71,214.97,1934.74,March,3,Q1,2026
+51009,11-03-2026,Thane,Grocery,Flour,7,66.66,0,Debit Card,New,Pooja,466.62,0,466.62,March,3,Q1,2026
+51466,12-03-2026,Mumbai,Electronics,Monitor,1,29704.39,0,Credit Card,New,Rohan,29704.39,0,29704.39,March,3,Q1,2026
+50784,12-03-2026,Navi Mumbai,Grocery,Biscuits,8,131.53,5,Credit Card,New,Karan,1052.24,52.61,999.63,March,3,Q1,2026
+51033,12-03-2026,Aurangabad,Grocery,Flour,5,79.02,0,Credit Card,Returning,Pooja,395.1,0,395.1,March,3,Q1,2026
+51499,13-03-2026,Mumbai,Grocery,Flour,3,42.84,15,Cash,Returning,Anjali,128.52,19.28,109.24,March,3,Q1,2026
+50126,13-03-2026,Nagpur,Grocery,Sugar,1,53.39,0,Credit Card,New,Neha,53.39,0,53.39,March,3,Q1,2026
+50529,14-03-2026,Pune,Electronics,Smartwatch,5,6230.58,10,UPI,VIP,Neha,31152.9,3115.29,28037.61,March,3,Q1,2026
+51484,14-03-2026,Mumbai,Electronics,Mobile,2,39677.6,0,Credit Card,VIP,Karan,79355.2,0,79355.2,March,3,Q1,2026
+50283,14-03-2026,Nagpur,Grocery,Tea,8,377.34,0,Credit Card,Returning,Sneha,3018.72,0,3018.72,March,3,Q1,2026
+50404,15-03-2026,Mumbai,Beauty,Shampoo,3,653.82,5,Cash,New,Priya,1961.46,98.07,1863.39,March,3,Q1,2026
+50741,15-03-2026,Nashik,Grocery,Flour,6,72.82,15,UPI,Returning,Rohan,436.92,65.54,371.38,March,3,Q1,2026
+50197,15-03-2026,Aurangabad,Furniture,Table,6,10394.83,10,Debit Card,Returning,Neha,62368.98,6236.9,56132.08,March,3,Q1,2026
+51438,16-03-2026,Kolhapur,Furniture,Table,1,8399.71,5,Net Banking,New,Priya,8399.71,419.99,7979.72,March,3,Q1,2026
+50183,16-03-2026,Kolhapur,Sports,Badminton Racket,3,2553.67,10,Credit Card,Returning,Anjali,7661.01,766.1,6894.91,March,3,Q1,2026
+50355,17-03-2026,Mumbai,Electronics,Mobile,5,48573.69,0,Credit Card,Returning,Pooja,242868.45,0,242868.45,March,3,Q1,2026
+50046,17-03-2026,Nashik,Furniture,Office Desk,4,13284.02,15,UPI,New,Karan,53136.08,7970.41,45165.67,March,3,Q1,2026
+50602,17-03-2026,Thane,Grocery,Coffee,4,458.14,0,UPI,VIP,Amit,1832.56,0,1832.56,March,3,Q1,2026
+50618,18-03-2026,Thane,Grocery,Flour,2,74.54,0,UPI,New,Anjali,149.08,0,149.08,March,3,Q1,2026
+51152,18-03-2026,Aurangabad,Beauty,Moisturizer,3,426.69,5,Debit Card,New,Rohan,1280.07,64,1216.07,March,3,Q1,2026
+51010,18-03-2026,Mumbai,Clothing,Jacket,7,2038.03,0,UPI,Returning,Vikas,14266.21,0,14266.21,March,3,Q1,2026
+50799,18-03-2026,Nagpur,Furniture,Bookshelf,6,11184.56,0,Net Banking,Returning,Rahul,67107.36,0,67107.36,March,3,Q1,2026
+51122,18-03-2026,Nashik,Sports,Tennis Racket,6,5493.6,10,Cash,New,Priya,32961.6,3296.16,29665.44,March,3,Q1,2026
+51482,19-03-2026,Pune,Electronics,Tablet,6,30223.98,5,Debit Card,VIP,Rohan,181343.88,9067.19,172276.69,March,3,Q1,2026
+50313,19-03-2026,Mumbai,Electronics,Smartwatch,4,13861.58,5,UPI,New,Vikas,55446.32,2772.32,52674,March,3,Q1,2026
+50920,19-03-2026,Mumbai,Electronics,Mobile,8,58791.94,10,Net Banking,Returning,Priya,470335.52,47033.55,423301.97,March,3,Q1,2026
+51188,20-03-2026,Mumbai,Electronics,Mobile,3,33680.87,15,Net Banking,New,Anjali,101042.61,15156.39,85886.22,March,3,Q1,2026
+50148,20-03-2026,Pune,Clothing,Shirt,4,1200.41,10,UPI,Returning,Amit,4801.64,480.16,4321.48,March,3,Q1,2026
+50107,20-03-2026,Mumbai,Grocery,Oil,2,121.34,5,UPI,Returning,Priya,242.68,12.13,230.55,March,3,Q1,2026
+50255,20-03-2026,Kolhapur,Electronics,Laptop,3,77985.16,,Net Banking,New,Rohan,233955.48,23395.55,210559.93,March,3,Q1,2026
+50704,21-03-2026,Navi Mumbai,Electronics,Tablet,3,19182,0,Credit Card,Returning,Anjali,57546,0,57546,March,3,Q1,2026
+50705,21-03-2026,Aurangabad,Electronics,Monitor,4,14887.1,0,UPI,Returning,Amit,59548.4,0,59548.4,March,3,Q1,2026
+51485,21-03-2026,Nagpur,Grocery,Sugar,1,63.79,10,Cash,VIP,Neha,63.79,6.38,57.41,March,3,Q1,2026
+50168,22-03-2026,Nashik,Electronics,Smartwatch,3,11122.5,0,Debit Card,Returning,Vikas,33367.5,0,33367.5,March,3,Q1,2026
+50624,22-03-2026,Thane,Clothing,Shirt,1,992.49,0,Debit Card,Returning,Pooja,992.49,0,992.49,March,3,Q1,2026
+50811,22-03-2026,Thane,Sports,Badminton Racket,6,3393.77,10,UPI,New,Rahul,20362.62,2036.26,18326.36,March,3,Q1,2026
+50352,23-03-2026,Aurangabad,Beauty,Shampoo,7,186.27,10,Credit Card,Returning,Anjali,1303.89,130.39,1173.5,March,3,Q1,2026
+50951,23-03-2026,Thane,Clothing,Shirt,4,1007.27,10,Debit Card,New,Anjali,4029.08,402.91,3626.17,March,3,Q1,2026
+51005,23-03-2026,Kolhapur,Beauty,Lipstick,8,990.38,5,Credit Card,New,Karan,7923.04,396.15,7526.89,March,3,Q1,2026
+51414,24-03-2026,Thane,Electronics,Tablet,2,35413.89,5,Credit Card,New,Sneha,70827.78,3541.39,67286.39,March,3,Q1,2026
+50450,24-03-2026,Kolhapur,Electronics,Keyboard,4,3281.21,5,Credit Card,New,Karan,13124.84,656.24,12468.6,March,3,Q1,2026
+51243,25-03-2026,Aurangabad,Beauty,Moisturizer,3,241.43,5,Debit Card,Returning,Karan,724.29,36.21,688.08,March,3,Q1,2026
+51177,25-03-2026,Kolhapur,Beauty,Lipstick,4,455.79,5,UPI,VIP,Vikas,1823.16,91.16,1732,March,3,Q1,2026
+51340,25-03-2026,Thane,Electronics,Monitor,2,22125.9,10,UPI,New,Amit,44251.8,4425.18,39826.62,March,3,Q1,2026
+50397,25-03-2026,Mumbai,Beauty,Sunscreen,1,955.31,5,UPI,VIP,Karan,955.31,47.77,907.54,March,3,Q1,2026
+50748,26-03-2026,Aurangabad,Clothing,T-Shirt,2,1796.43,10,Debit Card,Returning,Amit,3592.86,359.29,3233.57,March,3,Q1,2026
+50813,26-03-2026,Pune,Electronics,Monitor,7,14154.41,5,UPI,New,Sneha,99080.87,4954.04,94126.83,March,3,Q1,2026
+51339,27-03-2026,Mumbai,Electronics,Smartwatch,2,4923.77,10,Debit Card,New,Karan,9847.54,984.75,8862.79,March,3,Q1,2026
+51327,28-03-2026,Navi Mumbai,Electronics,Keyboard,2,4604.46,0,Credit Card,New,Rahul,9208.92,0,9208.92,March,3,Q1,2026
+50564,28-03-2026,Aurangabad,Electronics,Laptop,1,50165.86,10,Credit Card,Returning,Rahul,50165.86,5016.59,45149.27,March,3,Q1,2026
+50353,28-03-2026,Aurangabad,Furniture,Table,1,4400.14,15,Cash,VIP,Amit,4400.14,660.02,3740.12,March,3,Q1,2026
+50524,29-03-2026,Mumbai,Beauty,Face Wash,1,255.77,15,Debit Card,,Priya,255.77,38.37,217.4,March,3,Q1,2026
+50574,29-03-2026,Aurangabad,Clothing,Saree,3,3065.51,10,Debit Card,New,Vikas,9196.53,919.65,8276.88,March,3,Q1,2026
+50455,30-03-2026,Kolhapur,Electronics,Laptop,5,69945.19,15,Credit Card,Returning,Neha,349725.95,52458.89,297267.06,March,3,Q1,2026
+50067,31-03-2026,Navi Mumbai,Electronics,Monitor,2,24579.08,0,UPI,Returning,Neha,49158.16,0,49158.16,March,3,Q1,2026
+50388,31-03-2026,Thane,Electronics,Keyboard,5,2192.37,15,UPI,New,Rahul,10961.85,1644.28,9317.57,March,3,Q1,2026
+50479,31-03-2026,Mumbai,Sports,Running Shoes,4,8289.3,0,Credit Card,New,Priya,33157.2,0,33157.2,March,3,Q1,2026
+50363,31-03-2026,Nashik,Grocery,Rice,8,721.15,10,Cash,New,Anjali,5769.2,576.92,5192.28,March,3,Q1,2026
+50035,01-04-2026,Thane,Sports,Running Shoes,2,9080.26,0,,Returning,Neha,18160.52,0,18160.52,April,4,Q2,2026
+50731,01-04-2026,Aurangabad,Electronics,Headphones,5,2349.47,0,Credit Card,New,Pooja,11747.35,0,11747.35,April,4,Q2,2026
+51377,01-04-2026,Thane,Grocery,Rice,4,1361.34,10,UPI,Returning,Neha,5445.36,544.54,4900.82,April,4,Q2,2026
+50660,02-04-2026,Kolhapur,Clothing,Jacket,1,4556.4,5,Cash,Returning,Amit,4556.4,227.82,4328.58,April,4,Q2,2026
+51472,02-04-2026,Navi Mumbai,Furniture,Office Desk,5,11142.91,0,Net Banking,Returning,Anjali,55714.55,0,55714.55,April,4,Q2,2026
+51409,02-04-2026,Thane,Clothing,Saree,7,1381.26,10,Debit Card,New,Rahul,9668.82,966.88,8701.94,April,4,Q2,2026
+50193,02-04-2026,Nashik,Sports,Football,1,2136.77,0,Credit Card,Returning,Neha,2136.77,0,2136.77,April,4,Q2,2026
+51222,03-04-2026,Aurangabad,Electronics,Keyboard,5,4124.88,15,,Returning,Rohan,20624.4,3093.66,17530.74,April,4,Q2,2026
+50676,03-04-2026,Pune,Sports,Yoga Mat,3,492.48,0,Cash,New,Neha,1477.44,0,1477.44,April,4,Q2,2026
+51250,04-04-2026,Kolhapur,Clothing,Kurta,4,817.24,0,UPI,New,Rahul,3268.96,0,3268.96,April,4,Q2,2026
+50096,04-04-2026,Kolhapur,Clothing,Jeans,5,2856.86,0,Credit Card,Returning,Amit,14284.3,0,14284.3,April,4,Q2,2026
+51145,04-04-2026,Navi Mumbai,Grocery,Sugar,1,66.85,10,UPI,Returning,Sneha,66.85,6.68,60.17,April,4,Q2,2026
+50675,05-04-2026,Aurangabad,Grocery,Oil,6,197.36,20,UPI,New,Rahul,1184.16,236.83,947.33,April,4,Q2,2026
+51164,06-04-2026,Pune,Furniture,Office Desk,1,8937.76,10,Credit Card,Returning,Pooja,8937.76,893.78,8043.98,April,4,Q2,2026
+51249,06-04-2026,Nashik,Sports,Tennis Racket,2,2601.78,20,Debit Card,Returning,Karan,5203.56,1040.71,4162.85,April,4,Q2,2026
+50527,06-04-2026,Kolhapur,Grocery,Oil,4,179.96,5,UPI,Returning,Anjali,719.84,35.99,683.85,April,4,Q2,2026
+51269,07-04-2026,Aurangabad,Clothing,T-Shirt,3,325.01,5,UPI,Returning,Vikas,975.03,48.75,926.28,April,4,Q2,2026
+50053,07-04-2026,Thane,Sports,Badminton Racket,7,1611.15,10,UPI,Returning,Priya,11278.05,1127.8,10150.25,April,4,Q2,2026
+50442,07-04-2026,Kolhapur,Sports,Football,7,2971.3,0,Net Banking,VIP,Priya,20799.1,0,20799.1,April,4,Q2,2026
+51378,08-04-2026,Pune,Clothing,Shirt,7,2115.44,5,Debit Card,New,Rohan,14808.08,740.4,14067.68,April,4,Q2,2026
+50208,08-04-2026,Thane,Furniture,Chair,7,4576.16,5,UPI,VIP,Anjali,32033.12,1601.66,30431.46,April,4,Q2,2026
+50125,08-04-2026,Navi Mumbai,Grocery,Coffee,3,182.13,10,UPI,New,Pooja,546.39,54.64,491.75,April,4,Q2,2026
+50832,08-04-2026,Aurangabad,Grocery,Sugar,3,64.82,10,Cash,New,Amit,194.46,19.45,175.01,April,4,Q2,2026
+50998,08-04-2026,Pune,Electronics,Headphones,7,7217.49,20,Debit Card,Returning,Pooja,50522.43,10104.49,40417.94,April,4,Q2,2026
+50747,09-04-2026,Pune,Grocery,Flour,5,71.21,10,UPI,Returning,Karan,356.05,35.6,320.45,April,4,Q2,2026
+50937,09-04-2026,Thane,Electronics,Mobile,5,19394.17,0,Net Banking,Returning,Neha,96970.85,0,96970.85,April,4,Q2,2026
+51252,09-04-2026,Kolhapur,Clothing,Jeans,2,1440.24,0,UPI,New,Pooja,2880.48,0,2880.48,April,4,Q2,2026
+51279,09-04-2026,Nagpur,Electronics,Tablet,6,41154.83,15,Credit Card,Returning,Neha,246928.98,37039.35,209889.63,April,4,Q2,2026
+50821,09-04-2026,Nagpur,Beauty,Face Wash,7,454.02,10,UPI,New,Priya,3178.14,317.81,2860.33,April,4,Q2,2026
+50573,09-04-2026,Thane,Grocery,Biscuits,8,118.47,5,Debit Card,VIP,Pooja,947.76,47.39,900.37,April,4,Q2,2026
+50771,10-04-2026,Nagpur,Electronics,Tablet,4,12688.26,15,Credit Card,New,Karan,50753.04,7612.96,43140.08,April,4,Q2,2026
+50030,11-04-2026,Mumbai,Electronics,Monitor,3,17119.35,15,UPI,New,Rohan,51358.05,7703.71,43654.34,April,4,Q2,2026
+50401,11-04-2026,Nagpur,Electronics,Smartwatch,5,10356.74,5,Credit Card,Returning,Pooja,51783.7,2589.18,49194.52,April,4,Q2,2026
+50095,11-04-2026,Nashik,Beauty,Lipstick,6,1121.59,0,Debit Card,Returning,Priya,6729.54,0,6729.54,April,4,Q2,2026
+51015,11-04-2026,Mumbai,Furniture,Sofa,2,59760.79,5,Debit Card,New,Priya,119521.58,5976.08,113545.5,April,4,Q2,2026
+50510,12-04-2026,Pune,Furniture,Office Desk,5,12317.72,0,UPI,VIP,Vikas,61588.6,0,61588.6,April,4,Q2,2026
+50596,12-04-2026,Navi Mumbai,Clothing,Jacket,3,1568.3,20,Cash,New,Anjali,4704.9,940.98,3763.92,April,4,Q2,2026
+51315,12-04-2026,Thane,Grocery,Tea,5,306.2,10,Net Banking,Returning,Sneha,1531,153.1,1377.9,April,4,Q2,2026
+51365,12-04-2026,Aurangabad,Furniture,Bed,1,34001.15,5,Cash,Returning,Sneha,34001.15,1700.06,32301.09,April,4,Q2,2026
+51044,13-04-2026,Nagpur,Clothing,Jacket,8,2192.64,10,Credit Card,New,Sneha,17541.12,1754.11,15787.01,April,4,Q2,2026
+51419,13-04-2026,Kolhapur,Grocery,Oil,3,183.61,5,Credit Card,New,Amit,550.83,27.54,523.29,April,4,Q2,2026
+50413,13-04-2026,Aurangabad,Sports,Football,3,2544.64,5,Net Banking,VIP,Vikas,7633.92,381.7,7252.22,April,4,Q2,2026
+50883,14-04-2026,Nagpur,Electronics,Mobile,7,49821.4,5,Credit Card,Returning,Sneha,348749.8,17437.49,331312.31,April,4,Q2,2026
+50626,15-04-2026,Mumbai,Grocery,Biscuits,3,123.16,10,Net Banking,VIP,Amit,369.48,36.95,332.53,April,4,Q2,2026
+50025,15-04-2026,Mumbai,Grocery,Coffee,5,541.2,15,Net Banking,VIP,Anjali,2706,405.9,2300.1,April,4,Q2,2026
+51370,15-04-2026,Aurangabad,Grocery,Sugar,8,65.9,0,Debit Card,Returning,Karan,527.2,0,527.2,April,4,Q2,2026
+50513,16-04-2026,Thane,Sports,Cricket Bat,2,4880.01,0,Net Banking,VIP,Sneha,9760.02,0,9760.02,April,4,Q2,2026
+50066,16-04-2026,Kolhapur,Clothing,Saree,4,3883.05,0,Net Banking,VIP,Anjali,15532.2,0,15532.2,April,4,Q2,2026
+51325,16-04-2026,Mumbai,Sports,Running Shoes,3,4849.97,0,UPI,New,Amit,14549.91,0,14549.91,April,4,Q2,2026
+51095,17-04-2026,Navi Mumbai,Grocery,Rice,3,734.67,5,Credit Card,New,Anjali,2204.01,110.2,2093.81,April,4,Q2,2026
+51404,17-04-2026,Nashik,Furniture,Chair,6,2621,5,,VIP,Priya,15726,786.3,14939.7,April,4,Q2,2026
+51261,17-04-2026,Navi Mumbai,Grocery,Rice,7,922.4,10,Credit Card,New,Rahul,6456.8,645.68,5811.12,April,4,Q2,2026
+51359,17-04-2026,Pune,Grocery,Flour,3,42.7,10,Debit Card,New,Amit,128.1,12.81,115.29,April,4,Q2,2026
+51445,17-04-2026,Pune,Beauty,Moisturizer,2,1111.82,5,Debit Card,VIP,Priya,2223.64,111.18,2112.46,April,4,Q2,2026
+50426,18-04-2026,Nashik,Clothing,Jacket,5,5344.17,5,Debit Card,New,Neha,26720.85,1336.04,25384.81,April,4,Q2,2026
+51422,18-04-2026,Mumbai,Clothing,Jacket,3,3855.33,0,Net Banking,New,Neha,11565.99,0,11565.99,April,4,Q2,2026
+51224,18-04-2026,Thane,Sports,Running Shoes,1,8645.86,15,Cash,New,Rahul,8645.86,1296.88,7348.98,April,4,Q2,2026
+51385,19-04-2026,Nagpur,Furniture,Bed,3,36262.57,10,Debit Card,Returning,Sneha,108787.71,10878.77,97908.94,April,4,Q2,2026
+51281,19-04-2026,Pune,Clothing,Jacket,3,3568.4,0,UPI,New,Rahul,10705.2,0,10705.2,April,4,Q2,2026
+50402,20-04-2026,Pune,Sports,Yoga Mat,1,1575.12,10,Cash,VIP,Vikas,1575.12,157.51,1417.61,April,4,Q2,2026
+50036,20-04-2026,Nashik,Beauty,Lipstick,8,731,15,Credit Card,Returning,Priya,5848,877.2,4970.8,April,4,Q2,2026
+51463,20-04-2026,Thane,Electronics,Headphones,8,2883.97,5,Credit Card,VIP,Vikas,23071.76,1153.59,21918.17,April,4,Q2,2026
+51278,21-04-2026,Nagpur,Sports,Badminton Racket,3,4815.95,10,UPI,VIP,Karan,14447.85,1444.78,13003.07,April,4,Q2,2026
+50051,21-04-2026,Aurangabad,Sports,Football,1,1955.36,15,Credit Card,New,Pooja,1955.36,293.3,1662.06,April,4,Q2,2026
+50794,21-04-2026,Thane,Clothing,Jacket,2,1778.49,0,UPI,VIP,Sneha,3556.98,0,3556.98,April,4,Q2,2026
+51208,21-04-2026,Pune,Grocery,Biscuits,6,53.55,0,Cash,Returning,Pooja,321.3,0,321.3,April,4,Q2,2026
+50445,22-04-2026,Thane,Beauty,Lipstick,8,900.09,0,Credit Card,VIP,Amit,7200.72,0,7200.72,April,4,Q2,2026
+50182,22-04-2026,Thane,Electronics,Tablet,3,43547.42,15,Debit Card,Returning,Amit,130642.26,19596.34,111045.92,April,4,Q2,2026
+50712,22-04-2026,Aurangabad,Clothing,Kurta,3,910.16,10,Credit Card,New,Vikas,2730.48,273.05,2457.43,April,4,Q2,2026
+50244,22-04-2026,Pune,Grocery,Flour,3,68.25,10,Credit Card,New,Amit,204.75,20.48,184.27,April,4,Q2,2026
+51361,24-04-2026,Nagpur,Sports,Tennis Racket,4,2652.62,5,Debit Card,Returning,Vikas,10610.48,530.52,10079.96,April,4,Q2,2026
+51311,24-04-2026,Nagpur,Electronics,Tablet,4,11516.03,10,Credit Card,VIP,Karan,46064.12,4606.41,41457.71,April,4,Q2,2026
+50665,24-04-2026,Mumbai,Electronics,Keyboard,2,2040.75,10,Credit Card,Returning,Anjali,4081.5,408.15,3673.35,April,4,Q2,2026
+50226,25-04-2026,Pune,Grocery,Flour,7,77.34,5,Debit Card,New,Pooja,541.38,27.07,514.31,April,4,Q2,2026
+50003,25-04-2026,Kolhapur,Furniture,Bookshelf,6,15281.82,10,Credit Card,Returning,Rahul,91690.92,9169.09,82521.83,April,4,Q2,2026
+51027,25-04-2026,Navi Mumbai,Beauty,Lipstick,8,602.83,5,Credit Card,Returning,Sneha,4822.64,241.13,4581.51,April,4,Q2,2026
+50112,25-04-2026,Pune,Electronics,Mobile,3,24061.47,10,UPI,New,Pooja,72184.41,7218.44,64965.97,April,4,Q2,2026
+51407,26-04-2026,Thane,Beauty,Sunscreen,4,363.91,5,Net Banking,VIP,Amit,1455.64,72.78,1382.86,April,4,Q2,2026
+50396,26-04-2026,Pune,Sports,Badminton Racket,5,3990.19,10,UPI,Returning,Sneha,19950.95,1995.1,17955.85,April,4,Q2,2026
+50730,27-04-2026,Mumbai,Electronics,Tablet,3,41555.41,15,UPI,Returning,Pooja,124666.23,18699.93,105966.3,April,4,Q2,2026
+51382,27-04-2026,Kolhapur,Grocery,Flour,1,69.44,10,Debit Card,New,Pooja,69.44,6.94,62.5,April,4,Q2,2026
+51456,27-04-2026,Pune,Sports,Tennis Racket,5,1533.41,5,Credit Card,Returning,Sneha,7667.05,383.35,7283.7,April,4,Q2,2026
+51038,27-04-2026,Nagpur,Furniture,Bookshelf,1,17055.62,5,UPI,New,Karan,17055.62,852.78,16202.84,April,4,Q2,2026
+51096,27-04-2026,Nashik,Electronics,Monitor,4,13774.35,10,Cash,Returning,Anjali,55097.4,5509.74,49587.66,April,4,Q2,2026
+50922,28-04-2026,Pune,Clothing,Kurta,8,1810.24,5,UPI,Returning,Rahul,14481.92,724.1,13757.82,April,4,Q2,2026
+50872,28-04-2026,Mumbai,Grocery,Coffee,3,167.65,15,Credit Card,,Rahul,502.95,75.44,427.51,April,4,Q2,2026
+50412,30-04-2026,Thane,Sports,Football,5,2724.71,10,Credit Card,New,Vikas,13623.55,1362.36,12261.19,April,4,Q2,2026
+51231,01-05-2026,Nashik,Sports,Football,1,727.85,0,Debit Card,New,Pooja,727.85,0,727.85,May,5,Q2,2026
+51431,01-05-2026,Nagpur,Grocery,Sugar,7,59.25,0,UPI,Returning,Amit,414.75,0,414.75,May,5,Q2,2026
+50055,01-05-2026,Kolhapur,Clothing,Jeans,5,1334.02,10,Debit Card,New,Sneha,6670.1,667.01,6003.09,May,5,Q2,2026
+50576,02-05-2026,Nashik,Sports,Yoga Mat,4,624.82,15,Cash,Returning,Neha,2499.28,374.89,2124.39,May,5,Q2,2026
+50864,02-05-2026,Nashik,Grocery,Flour,2,79.41,5,Net Banking,New,Anjali,158.82,7.94,150.88,May,5,Q2,2026
+50319,04-05-2026,Aurangabad,Electronics,Smartwatch,2,14678.52,0,UPI,Returning,Rahul,29357.04,0,29357.04,May,5,Q2,2026
+51426,05-05-2026,Aurangabad,Sports,Running Shoes,1,9848.11,5,UPI,New,Priya,9848.11,492.41,9355.7,May,5,Q2,2026
+51427,05-05-2026,Nashik,Electronics,Headphones,5,3130.86,5,Credit Card,New,Vikas,15654.3,782.72,14871.58,May,5,Q2,2026
+51179,05-05-2026,Nashik,Furniture,Chair,5,1254.46,10,UPI,Returning,Karan,6272.3,627.23,5645.07,May,5,Q2,2026
+50056,05-05-2026,Pune,Sports,Cricket Bat,3,3193.57,0,Credit Card,New,Neha,9580.71,0,9580.71,May,5,Q2,2026
+50903,07-05-2026,Nashik,Electronics,Mobile,8,66697.59,0,Cash,Returning,Pooja,533580.72,0,533580.72,May,5,Q2,2026
+51312,07-05-2026,Aurangabad,Sports,Cricket Bat,2,7294.06,5,UPI,Returning,Priya,14588.12,729.41,13858.71,May,5,Q2,2026
+51064,07-05-2026,Kolhapur,Grocery,Rice,5,1709.84,0,Debit Card,New,Amit,8549.2,0,8549.2,May,5,Q2,2026
+51229,08-05-2026,Pune,Sports,Cricket Bat,4,1422.76,0,Credit Card,VIP,Priya,5691.04,0,5691.04,May,5,Q2,2026
+51441,08-05-2026,Kolhapur,Sports,Running Shoes,3,11225.15,10,UPI,Returning,Neha,33675.45,3367.54,30307.91,May,5,Q2,2026
+51371,08-05-2026,Navi Mumbai,Sports,Yoga Mat,7,1048.48,0,Credit Card,New,Anjali,7339.36,0,7339.36,May,5,Q2,2026
+51276,09-05-2026,Thane,Electronics,Laptop,2,48058.8,0,UPI,VIP,Anjali,96117.6,0,96117.6,May,5,Q2,2026
+51496,10-05-2026,Mumbai,Furniture,Bed,5,35256.32,0,Credit Card,VIP,Neha,176281.6,0,176281.6,May,5,Q2,2026
+50659,10-05-2026,Pune,Clothing,Shirt,7,533.51,5,UPI,Returning,Amit,3734.57,186.73,3547.84,May,5,Q2,2026
+50859,10-05-2026,Navi Mumbai,Clothing,Shirt,5,838.12,5,UPI,Returning,Amit,4190.6,209.53,3981.07,May,5,Q2,2026
+50653,11-05-2026,Kolhapur,Clothing,Shirt,6,779.2,0,UPI,Returning,Vikas,4675.2,0,4675.2,May,5,Q2,2026
+51468,11-05-2026,Navi Mumbai,Grocery,Rice,4,606.56,0,Debit Card,New,Sneha,2426.24,0,2426.24,May,5,Q2,2026
+50992,11-05-2026,Nagpur,Furniture,Office Desk,6,6620.77,5,UPI,Returning,Amit,39724.62,1986.23,37738.39,May,5,Q2,2026
+51349,12-05-2026,Nagpur,Sports,Badminton Racket,1,1971.71,5,UPI,New,Karan,1971.71,98.59,1873.12,May,5,Q2,2026
+50534,12-05-2026,Mumbai,Clothing,Jacket,4,3943.6,10,UPI,Returning,Vikas,15774.4,1577.44,14196.96,May,5,Q2,2026
+50948,12-05-2026,Nashik,Sports,Tennis Racket,1,6943.95,10,Credit Card,Returning,Sneha,6943.95,694.4,6249.55,May,5,Q2,2026
+51156,13-05-2026,Thane,Furniture,Chair,3,1291.62,5,Debit Card,VIP,Neha,3874.86,193.74,3681.12,May,5,Q2,2026
+50773,14-05-2026,Mumbai,Electronics,Tablet,2,39055.28,10,Debit Card,New,Neha,78110.56,7811.06,70299.5,May,5,Q2,2026
+50326,14-05-2026,Nashik,Furniture,Bookshelf,8,7027.18,0,UPI,VIP,Pooja,56217.44,0,56217.44,May,5,Q2,2026
+51397,15-05-2026,Pune,Grocery,Sugar,8,55.37,0,UPI,VIP,Pooja,442.96,0,442.96,May,5,Q2,2026
+50410,15-05-2026,Pune,Electronics,Monitor,7,19304.72,20,UPI,New,Sneha,135133.04,27026.61,108106.43,May,5,Q2,2026
+50116,15-05-2026,Aurangabad,Beauty,Face Wash,4,558.69,20,Debit Card,Returning,Pooja,2234.76,446.95,1787.81,May,5,Q2,2026
+51309,16-05-2026,Thane,Grocery,Biscuits,8,53.09,0,Credit Card,Returning,Amit,424.72,0,424.72,May,5,Q2,2026
+50279,16-05-2026,Mumbai,Furniture,Sofa,3,17447.58,10,Cash,New,Anjali,52342.74,5234.27,47108.47,May,5,Q2,2026
+51342,17-05-2026,Nashik,Grocery,Biscuits,6,84.29,5,Cash,Returning,Priya,505.74,25.29,480.45,May,5,Q2,2026
+51390,18-05-2026,Nashik,Grocery,Tea,5,551.61,10,UPI,Returning,Karan,2758.05,275.8,2482.25,May,5,Q2,2026
+51082,18-05-2026,Nashik,Electronics,Keyboard,1,4452.42,10,Credit Card,New,Priya,4452.42,445.24,4007.18,May,5,Q2,2026
+50408,18-05-2026,Nashik,Electronics,Smartwatch,2,10930.16,15,UPI,Returning,Rohan,21860.32,3279.05,18581.27,May,5,Q2,2026
+50257,18-05-2026,Navi Mumbai,Sports,Tennis Racket,6,2399.83,0,UPI,New,Pooja,14398.98,0,14398.98,May,5,Q2,2026
+51113,19-05-2026,Nashik,Grocery,Flour,1,61.2,5,Net Banking,Returning,Vikas,61.2,3.06,58.14,May,5,Q2,2026
+50591,19-05-2026,Mumbai,Electronics,Keyboard,5,3209.5,10,UPI,Returning,Karan,16047.5,1604.75,14442.75,May,5,Q2,2026
+51242,19-05-2026,Aurangabad,Beauty,Moisturizer,3,1188.54,10,UPI,New,Rohan,3565.62,356.56,3209.06,May,5,Q2,2026
+50252,19-05-2026,Nashik,Grocery,Sugar,2,51.72,5,UPI,Returning,Vikas,103.44,5.17,98.27,May,5,Q2,2026
+50589,20-05-2026,Navi Mumbai,Electronics,Headphones,8,6083.96,10,UPI,Returning,Sneha,48671.68,4867.17,43804.51,May,5,Q2,2026
+50603,21-05-2026,Mumbai,Electronics,Headphones,5,4836.17,5,Credit Card,New,Priya,24180.85,1209.04,22971.81,May,5,Q2,2026
+51301,21-05-2026,Pune,Electronics,Smartwatch,5,6223.03,20,UPI,Returning,Rohan,31115.15,6223.03,24892.12,May,5,Q2,2026
+51489,21-05-2026,Nashik,Grocery,Biscuits,5,72.29,0,Debit Card,New,Rohan,361.45,0,361.45,May,5,Q2,2026
+50240,23-05-2026,Nashik,Electronics,Headphones,6,3047.81,15,Debit Card,Returning,Rahul,18286.86,2743.03,15543.83,May,5,Q2,2026
+50785,23-05-2026,Mumbai,Electronics,Headphones,4,6064.33,10,Credit Card,VIP,Rohan,24257.32,2425.73,21831.59,May,5,Q2,2026
+50405,24-05-2026,Navi Mumbai,Grocery,Tea,1,158.51,15,Debit Card,Returning,Anjali,158.51,23.78,134.73,May,5,Q2,2026
+50710,24-05-2026,Kolhapur,Furniture,Office Desk,5,11331.74,0,Debit Card,Returning,Priya,56658.7,0,56658.7,May,5,Q2,2026
+50118,25-05-2026,Navi Mumbai,Electronics,Headphones,8,4728.21,10,Net Banking,Returning,Priya,37825.68,3782.57,34043.11,May,5,Q2,2026
+51030,25-05-2026,Nashik,Beauty,Moisturizer,1,971.51,15,Net Banking,New,Sneha,971.51,145.73,825.78,May,5,Q2,2026
+50831,25-05-2026,Aurangabad,Grocery,Oil,7,137.13,5,Net Banking,VIP,Priya,959.91,48,911.91,May,5,Q2,2026
+50380,25-05-2026,Aurangabad,Grocery,Flour,3,75.02,15,Credit Card,New,Vikas,225.06,33.76,191.3,May,5,Q2,2026
+50912,26-05-2026,Navi Mumbai,Grocery,Sugar,4,43.4,5,Credit Card,New,Vikas,173.6,8.68,164.92,May,5,Q2,2026
+50052,26-05-2026,Aurangabad,Beauty,Moisturizer,4,318.42,10,Credit Card,Returning,Pooja,1273.68,127.37,1146.31,May,5,Q2,2026
+50334,27-05-2026,Aurangabad,Electronics,Monitor,7,17578.66,10,Debit Card,VIP,Neha,123050.62,12305.06,110745.56,May,5,Q2,2026
+51415,27-05-2026,Nashik,Clothing,Saree,6,3568.73,10,Credit Card,New,Karan,21412.38,2141.24,19271.14,May,5,Q2,2026
+51384,27-05-2026,Aurangabad,Grocery,Sugar,5,43.99,15,Debit Card,Returning,Priya,219.95,32.99,186.96,May,5,Q2,2026
+50309,27-05-2026,Navi Mumbai,Beauty,Sunscreen,8,695.56,15,Net Banking,Returning,Pooja,5564.48,834.67,4729.81,May,5,Q2,2026
+51478,28-05-2026,Navi Mumbai,Furniture,Table,7,10384.97,0,Cash,New,Karan,72694.79,0,72694.79,May,5,Q2,2026
+51313,28-05-2026,Navi Mumbai,Clothing,Saree,6,3313.93,20,Credit Card,VIP,Anjali,19883.58,3976.72,15906.86,May,5,Q2,2026
+50649,28-05-2026,Thane,Beauty,Shampoo,1,438,5,UPI,New,Priya,438,21.9,416.1,May,5,Q2,2026
+50502,29-05-2026,Navi Mumbai,Clothing,T-Shirt,2,383.29,10,Debit Card,Returning,Amit,766.58,76.66,689.92,May,5,Q2,2026
+50407,29-05-2026,Aurangabad,Grocery,Biscuits,7,36.02,5,Credit Card,New,Neha,252.14,12.61,239.53,May,5,Q2,2026
+51133,31-05-2026,Aurangabad,Electronics,Monitor,3,12294.34,15,Debit Card,VIP,Amit,36883.02,5532.45,31350.57,May,5,Q2,2026
+50789,31-05-2026,Navi Mumbai,Grocery,Tea,5,223.94,0,Credit Card,VIP,Pooja,1119.7,0,1119.7,May,5,Q2,2026
+51481,01-06-2026,Mumbai,Beauty,Sunscreen,3,551.34,10,UPI,New,Priya,1654.02,165.4,1488.62,June,6,Q2,2026
+51480,02-06-2026,Nagpur,Grocery,Tea,7,418.02,20,Net Banking,New,Rohan,2926.14,585.23,2340.91,June,6,Q2,2026
+50263,02-06-2026,Navi Mumbai,Electronics,Mobile,2,47874.57,10,UPI,New,Sneha,95749.14,9574.91,86174.23,June,6,Q2,2026
+50423,04-06-2026,Pune,Electronics,Mobile,1,19635.91,15,Credit Card,New,Karan,19635.91,2945.39,16690.52,June,6,Q2,2026
+50662,04-06-2026,Mumbai,Sports,Tennis Racket,2,4234.95,10,UPI,New,Neha,8469.9,846.99,7622.91,June,6,Q2,2026
+50688,04-06-2026,Navi Mumbai,Grocery,Flour,6,70,10,Credit Card,New,Neha,420,42,378,June,6,Q2,2026
+50286,04-06-2026,Pune,Electronics,Monitor,3,17104.2,0,UPI,Returning,Anjali,51312.6,0,51312.6,June,6,Q2,2026
+51084,04-06-2026,Navi Mumbai,Beauty,Shampoo,3,889.78,5,UPI,Returning,Neha,2669.34,133.47,2535.87,June,6,Q2,2026
+50850,04-06-2026,Navi Mumbai,Clothing,Saree,5,5594.7,15,Net Banking,New,Rohan,27973.5,4196.02,23777.48,June,6,Q2,2026
+50622,04-06-2026,Kolhapur,Electronics,Mobile,4,55393.33,5,Credit Card,New,Pooja,221573.32,11078.67,210494.65,June,6,Q2,2026
+50925,05-06-2026,Thane,Grocery,Coffee,4,693.19,10,Debit Card,New,Anjali,2772.76,277.28,2495.48,June,6,Q2,2026
+50072,05-06-2026,Mumbai,Electronics,Headphones,2,959.42,5,Cash,New,Amit,1918.84,95.94,1822.9,June,6,Q2,2026
+51421,05-06-2026,Navi Mumbai,Grocery,Flour,8,40.27,10,Debit Card,VIP,Karan,322.16,32.22,289.94,June,6,Q2,2026
+50774,05-06-2026,Pune,Grocery,Tea,6,574.13,5,Credit Card,VIP,Pooja,3444.78,172.24,3272.54,June,6,Q2,2026
+50631,06-06-2026,Nashik,Furniture,Table,1,4041.31,15,UPI,New,Pooja,4041.31,606.2,3435.11,June,6,Q2,2026
+50897,06-06-2026,Thane,Grocery,Biscuits,2,20.7,10,Debit Card,New,Anjali,41.4,4.14,37.26,June,6,Q2,2026
+50991,06-06-2026,Pune,Beauty,Moisturizer,1,338.02,10,Cash,Returning,Rohan,338.02,33.8,304.22,June,6,Q2,2026
+50160,06-06-2026,Thane,Furniture,Bookshelf,1,12475.76,0,Credit Card,New,Neha,12475.76,0,12475.76,June,6,Q2,2026
+50661,06-06-2026,Mumbai,Grocery,Sugar,6,42.3,10,Credit Card,VIP,Neha,253.8,25.38,228.42,June,6,Q2,2026
+51271,07-06-2026,Aurangabad,Furniture,Table,3,10294.21,15,UPI,New,Karan,30882.63,4632.39,26250.24,June,6,Q2,2026
+50725,09-06-2026,Nashik,Clothing,Shirt,3,1500.95,10,Credit Card,New,Rohan,4502.85,450.28,4052.57,June,6,Q2,2026
+50367,11-06-2026,Nashik,Sports,Running Shoes,6,11860.66,0,Credit Card,New,Vikas,71163.96,0,71163.96,June,6,Q2,2026
+50829,11-06-2026,Aurangabad,Furniture,Bookshelf,3,9708.02,10,Net Banking,Returning,Sneha,29124.06,2912.41,26211.65,June,6,Q2,2026
+50686,11-06-2026,Kolhapur,Clothing,Shirt,6,2424.52,5,Credit Card,Returning,Rahul,14547.12,727.36,13819.76,June,6,Q2,2026
+51013,12-06-2026,Navi Mumbai,Sports,Tennis Racket,8,6726.62,15,UPI,VIP,Priya,53812.96,8071.94,45741.02,June,6,Q2,2026
+50247,12-06-2026,Kolhapur,Grocery,Biscuits,6,86.51,5,Debit Card,New,Karan,519.06,25.95,493.11,June,6,Q2,2026
+51403,12-06-2026,Pune,Electronics,Smartwatch,2,6710.18,10,Cash,Returning,Sneha,13420.36,1342.04,12078.32,June,6,Q2,2026
+51389,12-06-2026,Kolhapur,Sports,Tennis Racket,3,1506.04,10,UPI,Returning,Neha,4518.12,451.81,4066.31,June,6,Q2,2026
+51429,13-06-2026,Navi Mumbai,Clothing,T-Shirt,3,514.74,0,UPI,Returning,Sneha,1544.22,0,1544.22,June,6,Q2,2026
+50392,14-06-2026,Pune,Grocery,Sugar,8,45.98,0,UPI,New,Vikas,367.84,0,367.84,June,6,Q2,2026
+50376,15-06-2026,Mumbai,Grocery,Coffee,1,377.72,5,UPI,New,Rohan,377.72,18.89,358.83,June,6,Q2,2026
+50250,15-06-2026,Pune,Beauty,Lipstick,5,768.52,15,Net Banking,New,Neha,3842.6,576.39,3266.21,June,6,Q2,2026
+50719,15-06-2026,Nashik,Electronics,Monitor,4,22477.21,0,UPI,New,Anjali,89908.84,0,89908.84,June,6,Q2,2026
+50876,16-06-2026,Kolhapur,Electronics,Smartwatch,3,2843.88,20,UPI,Returning,Priya,8531.64,1706.33,6825.31,June,6,Q2,2026
+50586,16-06-2026,Mumbai,Grocery,Sugar,1,60.46,15,Net Banking,Returning,Pooja,60.46,9.07,51.39,June,6,Q2,2026
+51141,17-06-2026,Nashik,Beauty,Sunscreen,2,602.14,0,Credit Card,Returning,Amit,1204.28,0,1204.28,June,6,Q2,2026
+51292,17-06-2026,Thane,Electronics,Headphones,4,3925.18,15,UPI,New,Priya,15700.72,2355.11,13345.61,June,6,Q2,2026
+51293,17-06-2026,Mumbai,Clothing,Shirt,2,755.14,0,Credit Card,Returning,Pooja,1510.28,0,1510.28,June,6,Q2,2026
+50559,18-06-2026,Mumbai,Furniture,Bookshelf,7,16666.73,0,Credit Card,New,Neha,116667.11,0,116667.11,June,6,Q2,2026
+50950,19-06-2026,Thane,Clothing,Jacket,1,4115.38,10,UPI,Returning,Priya,4115.38,411.54,3703.84,June,6,Q2,2026
+50356,19-06-2026,Nashik,Clothing,Kurta,2,1205.33,0,Debit Card,New,Sneha,2410.66,0,2410.66,June,6,Q2,2026
+50652,19-06-2026,Aurangabad,Clothing,Jacket,4,2322.03,0,UPI,New,Anjali,9288.12,0,9288.12,June,6,Q2,2026
+50340,20-06-2026,Nagpur,Electronics,Monitor,6,25367.01,15,Cash,New,Priya,152202.06,22830.31,129371.75,June,6,Q2,2026
+51125,20-06-2026,Nagpur,Furniture,Office Desk,8,14398.31,10,UPI,New,Anjali,115186.48,11518.65,103667.83,June,6,Q2,2026
+50905,21-06-2026,Aurangabad,Grocery,Sugar,8,59.83,0,UPI,Returning,Rahul,478.64,0,478.64,June,6,Q2,2026
+50342,21-06-2026,Nagpur,Clothing,Saree,2,2176.83,15,UPI,New,Neha,4353.66,653.05,3700.61,June,6,Q2,2026
+51045,22-06-2026,Navi Mumbai,Beauty,Moisturizer,2,1177.03,0,UPI,Returning,Rahul,2354.06,0,2354.06,June,6,Q2,2026
+50721,22-06-2026,Kolhapur,Sports,Tennis Racket,4,7630.64,10,UPI,Returning,Anjali,30522.56,3052.26,27470.3,June,6,Q2,2026
+50381,22-06-2026,Mumbai,Electronics,Keyboard,2,2599.51,0,Credit Card,Returning,Anjali,5199.02,0,5199.02,June,6,Q2,2026
+50530,22-06-2026,Navi Mumbai,Beauty,Shampoo,3,837.31,10,Cash,Returning,Rohan,2511.93,251.19,2260.74,June,6,Q2,2026
+51059,22-06-2026,Pune,Clothing,Shirt,1,2450.36,0,Net Banking,Returning,Rohan,2450.36,0,2450.36,June,6,Q2,2026
+51209,23-06-2026,Navi Mumbai,Grocery,Sugar,5,43.41,5,Credit Card,New,Sneha,217.05,10.85,206.2,June,6,Q2,2026
+50084,23-06-2026,Navi Mumbai,Electronics,Smartwatch,3,14344.47,10,Debit Card,New,Sneha,43033.41,4303.34,38730.07,June,6,Q2,2026
+51077,23-06-2026,Nashik,Grocery,Coffee,8,195.83,15,UPI,New,Pooja,1566.64,235,1331.64,June,6,Q2,2026
+50651,24-06-2026,Aurangabad,Electronics,Smartwatch,7,9136.79,5,UPI,New,Neha,63957.53,3197.88,60759.65,June,6,Q2,2026
+50598,24-06-2026,Navi Mumbai,Electronics,Mobile,1,18139.49,0,,Returning,Anjali,18139.49,0,18139.49,June,6,Q2,2026
+50800,24-06-2026,Mumbai,Sports,Running Shoes,5,3541.7,15,Debit Card,New,Rohan,17708.5,2656.28,15052.22,June,6,Q2,2026
+50630,25-06-2026,Pune,Grocery,Sugar,2,44.33,10,UPI,New,Pooja,88.66,8.87,79.79,June,6,Q2,2026
+51338,25-06-2026,Navi Mumbai,Furniture,Sofa,1,20641.89,15,Cash,VIP,Rahul,20641.89,3096.28,17545.61,June,6,Q2,2026
+50536,25-06-2026,Kolhapur,Sports,Football,6,1589.11,10,Credit Card,Returning,Neha,9534.66,953.47,8581.19,June,6,Q2,2026
+50664,26-06-2026,Mumbai,Grocery,Sugar,1,68.11,10,Credit Card,Returning,Sneha,68.11,6.81,61.3,June,6,Q2,2026
+51268,27-06-2026,Nashik,Clothing,T-Shirt,4,1218.41,5,Credit Card,Returning,Vikas,4873.64,243.68,4629.96,June,6,Q2,2026
+51213,27-06-2026,Nagpur,Electronics,Keyboard,8,4581.88,10,Credit Card,New,Neha,36655.04,3665.5,32989.54,June,6,Q2,2026
+51120,27-06-2026,Pune,Electronics,Tablet,3,40447.82,5,UPI,Returning,Sneha,121343.46,6067.17,115276.29,June,6,Q2,2026
+50365,27-06-2026,Nagpur,Sports,Yoga Mat,8,2031.29,5,Credit Card,Returning,Vikas,16250.32,812.52,15437.8,June,6,Q2,2026
+51453,28-06-2026,Pune,Beauty,Perfume,2,1877.21,0,Net Banking,VIP,Neha,3754.42,0,3754.42,June,6,Q2,2026
+50681,28-06-2026,Thane,Beauty,Shampoo,2,856.93,0,Net Banking,Returning,Anjali,1713.86,0,1713.86,June,6,Q2,2026
+50808,29-06-2026,Navi Mumbai,Sports,Running Shoes,2,2444.12,0,UPI,New,Priya,4888.24,0,4888.24,June,6,Q2,2026
+50643,29-06-2026,Navi Mumbai,Electronics,Keyboard,4,4113.9,20,Debit Card,Returning,Pooja,16455.6,3291.12,13164.48,June,6,Q2,2026
+51459,29-06-2026,Nagpur,Electronics,Smartwatch,2,10715.81,10,Debit Card,Returning,Neha,21431.62,2143.16,19288.46,June,6,Q2,2026
+50209,29-06-2026,Nashik,Electronics,Monitor,6,26135.19,0,Credit Card,VIP,Pooja,156811.14,0,156811.14,June,6,Q2,2026
+51493,29-06-2026,Kolhapur,Grocery,Oil,1,134.2,5,Cash,,Rohan,134.2,6.71,127.49,June,6,Q2,2026
+50595,29-06-2026,Thane,Sports,Yoga Mat,8,857.61,10,Debit Card,New,Priya,6860.88,686.09,6174.79,June,6,Q2,2026
+50370,30-06-2026,Kolhapur,Electronics,Tablet,1,39026,5,Debit Card,New,Priya,39026,1951.3,37074.7,June,6,Q2,2026
+50141,30-06-2026,Nashik,Sports,Football,3,738.43,20,UPI,New,Anjali,2215.29,443.06,1772.23,June,6,Q2,2026
+50640,30-06-2026,Thane,Grocery,Sugar,5,62.36,5,Credit Card,New,Amit,311.8,15.59,296.21,June,6,Q2,2026
