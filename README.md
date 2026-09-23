@@ -1,9 +1,15 @@
-# Retail Sales Analysis
+# Retail Sales Analysis Project
 
 A complete Python-based Data Analytics project that cleans, analyzes, and visualizes 1,500 retail sales transactions across 8 cities to uncover business insights on revenue, product performance, discounting, and customer behavior.
 
 ---
 
+## 🎓 Internship Details
+
+**AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026**  
+Conducted by **BharatCares** in association with **AICTE**
+
+---
 ## 📌 Project Overview
 
 Retail businesses generate large volumes of transactional data that, left unanalyzed, offer little strategic value. This project takes raw retail sales data and turns it into structured business intelligence.
@@ -178,11 +184,11 @@ All charts below were generated with Matplotlib/Seaborn and are the actual outpu
 ## 📁 Project Structure
 
 ```
-Retail-Sales-Analysis/
+IBM-SkillsBuild-Retail-Sales-Analysis/
 ├── README.md
 ├── requirements.txt
-├── Retail_Sales_Analysis_Project.ipynb
-├── Retail-Sales-Analysis-Report.docx
+├── MaheshChaudhari_RetailSalesAnalysis.ipynb
+├── MaheshChaudhari_ProjectReport.docx
 └── cleaned_retail_sales_data.csv
 ```
 ## 🚀 How to Run the Project
