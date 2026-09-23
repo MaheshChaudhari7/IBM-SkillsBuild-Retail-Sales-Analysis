@@ -195,7 +195,7 @@ IBM-SkillsBuild-Retail-Sales-Analysis/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MaheshChaudhari7/Retail-Sales-Analysis.git
+   git clone https://github.com/MaheshChaudhari7/IBM-SkillsBuild-Retail-Sales-Analysis.git
    ```
 2. **Navigate to the project folder**
    ```bash
